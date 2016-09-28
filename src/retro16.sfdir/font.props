@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1470183915
+ModificationTime: 1475021567
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -39,6 +39,8 @@ HheadAscent: 768
 HheadAOffset: 0
 HheadDescent: -192
 HheadDOffset: 0
+OS2CapHeight: 576
+OS2XHeight: 448
 OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "kerning" { "closer" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "mark" { "marks"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -831,5 +833,6 @@ Grid
 -236 512 m 17
  -118.219726562 512.780273438 616.219726562 511.219726562 736.3 512 c 1033
 EndSplineSet
+TeXData: 1 0 0 349525 174762 116508 489335 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom" "marks" "top" "marks" 
 EndSplineFont
