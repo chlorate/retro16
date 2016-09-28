@@ -2,50 +2,9 @@ StartChar: uni01F0
 Encoding: 496 496 290
 Width: 320
 VWidth: 0
-Flags: W
-HStem: -192 64<0 165.773> 428 20G<192 256> 516 193
-VStem: 192 64<-101.599 448>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 1
- 2
- 0
-CALL
-PUSHB_1
- 12
-MDAP[rnd]
-PUSHB_1
- 13
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 23
-MDAP[rnd]
-PUSHB_1
- 0
-MDRP[rp0,rnd,white]
-PUSHB_1
- 3
-MDRP[min,rnd,black]
-PUSHB_2
- 24
- 1
-CALL
-PUSHB_2
- 3
- 0
-SRP1
-SRP2
-PUSHB_2
- 19
- 22
-IP
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+Flags: HW
+HStem: -192 64<0 167.35> 428 20G<192 256> 516 193
+VStem: 64 320 192 64<-103.086 448>
 LayerCount: 2
 Fore
 Refer: 209 711 N 1 0 0 1 0 69 2

@@ -1,28 +1,7 @@
 StartChar: slash
 Encoding: 47 47 75
 Width: 512
-VWidth: 1024
 Flags: W
-HStem: 620 20G<374.013 448>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 1
- 4
- 0
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 4
-MDAP[rnd]
-PUSHB_2
- 5
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

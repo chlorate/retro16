@@ -1,10 +1,9 @@
 StartChar: question
 Encoding: 63 63 55
 Width: 448
-VWidth: 1024
 Flags: W
-HStem: 0 128<128 192> 320 64<192 290.67> 576 64<0 290.938>
-VStem: 128 64<0 128 192 320> 320 64<413.416 547.17>
+HStem: 0 128<128 192> 320 64<192 292.583> 576 64<0 292.129>
+VStem: 128 64<0 128 192 320> 320 64<411.799 548.971>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -16,12 +15,12 @@ PUSHB_1
  1
 MDRP[min,rnd,black]
 PUSHB_3
- 18
- 4
+ 17
+ 3
  0
 CALL
 PUSHB_1
- 17
+ 18
 MDRP[min,rnd,black]
 PUSHB_5
  7

@@ -2,103 +2,13 @@ StartChar: itilde
 Encoding: 297 297 207
 Width: 192
 VWidth: 0
-Flags: W
-HStem: 0 21G<64 128> 428 20G<64 128> 516 65<119.648 211.688> 580 65<-19.6875 76.0704>
-VStem: -96 64<516 567.75> 64 64<0 448> 224 64<593.25 645>
+Flags: HW
+HStem: 0 21G<64 128> 428 20G<64 128> 516 65<117.319 212.837> 580 65<-20.8372 77.8873>
+VStem: -96 64<516 568.079> 64 64<0 448> 224 64<592.921 645>
 CounterMasks: 1 0e
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 16
- 4
- 0
-CALL
-PUSHB_1
- 4
-SHP[rp1]
-PUSHB_1
- 10
-MDRP[min,rnd,black]
-PUSHB_3
- 19
- 3
- 0
-CALL
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_1
- 12
-SHP[rp2]
-PUSHB_3
- 0
- 2
- 0
-CALL
-PUSHB_1
- 3
-MDAP[rnd]
-SVTCA[x-axis]
-PUSHB_1
- 22
-MDAP[rnd]
-PUSHB_1
- 13
-MDRP[rp0,rnd,white]
-PUSHB_1
- 12
-MDRP[min,rnd,black]
-PUSHB_1
- 12
-SRP0
-PUSHB_2
- 3
- 1
-CALL
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_1
- 2
-SRP0
-PUSHB_2
- 21
- 1
-CALL
-PUSHB_1
- 4
-MDRP[min,rnd,black]
-PUSHB_2
- 23
- 1
-CALL
-PUSHB_2
- 3
- 12
-SRP1
-SRP2
-PUSHB_2
- 10
- 16
-IP
-IP
-PUSHB_2
- 21
- 2
-SRP1
-SRP2
-PUSHB_2
- 7
- 19
-IP
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 100 126 N 1 0 0 1 -160 261 2
 Refer: 150 305 N 1 0 0 1 0 0 3
-Validated: 114689
+Validated: 49153
 EndChar

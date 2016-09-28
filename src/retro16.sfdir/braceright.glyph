@@ -3,8 +3,8 @@ Encoding: 125 125 93
 Width: 448
 VWidth: 0
 Flags: W
-HStem: -65 65<64 165.773> 575 65<64 165.773>
-VStem: 192 64<26.9438 146 429 548.056>
+HStem: -65 65<64 167.35> 575 65<64 167.35>
+VStem: 192 64<24.9862 146 429 550.014>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -16,12 +16,12 @@ PUSHB_1
  28
 MDRP[min,rnd,black]
 PUSHB_3
- 6
- 4
+ 5
+ 3
  0
 CALL
 PUSHB_1
- 5
+ 6
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1

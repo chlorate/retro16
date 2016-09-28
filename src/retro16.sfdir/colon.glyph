@@ -1,7 +1,6 @@
 StartChar: colon
 Encoding: 58 58 53
 Width: 256
-VWidth: 1024
 Flags: W
 HStem: 63 129<64 192> 383 129<64 192>
 VStem: 64 128<63 192 383 512>

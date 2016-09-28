@@ -2,45 +2,9 @@ StartChar: imacron
 Encoding: 299 299 171
 Width: 192
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<64 128> 428 20G<64 128> 511.979 64<-63 257>
-VStem: 64 64<0 448>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 4
- 3
- 0
-CALL
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_3
- 0
- 2
- 0
-CALL
-PUSHB_1
- 3
-MDAP[rnd]
-SVTCA[x-axis]
-PUSHB_1
- 8
-MDAP[rnd]
-PUSHB_1
- 3
-MDRP[rp0,rnd,white]
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_2
- 9
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+VStem: -63 320<511.979 575.979> 64 64<0 448>
 LayerCount: 2
 Fore
 Refer: 153 175 N 1 0 0 1 -127 -64.0213 2

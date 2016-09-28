@@ -5,6 +5,40 @@ VWidth: 0
 Flags: W
 HStem: 0 21G<64 128> 630 20G<64 128>
 VStem: 64 64<0 650>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 1
+ 4
+ 0
+CALL
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 3
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 5
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_2
+ 6
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

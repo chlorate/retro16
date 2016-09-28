@@ -1,7 +1,6 @@
 StartChar: plusminus
 Encoding: 177 177 189
 Width: 448
-VWidth: 1024
 Flags: W
 HStem: 63 65<64 384> 319 65<64 192 256 384>
 VStem: 192 64<192 319 384 512>

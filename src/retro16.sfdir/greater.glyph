@@ -1,7 +1,6 @@
 StartChar: greater
 Encoding: 62 62 69
 Width: 384
-VWidth: 1024
 Flags: W
 VStem: 44 286
 TtInstrs:

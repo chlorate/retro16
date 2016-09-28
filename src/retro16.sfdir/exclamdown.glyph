@@ -1,7 +1,6 @@
 StartChar: exclamdown
 Encoding: 161 161 119
 Width: 192
-VWidth: 1024
 Flags: W
 HStem: 320 128<64 128>
 VStem: 64 64<-192 256 320 448>

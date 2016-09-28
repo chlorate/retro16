@@ -2,37 +2,9 @@ StartChar: iacute
 Encoding: 237 237 146
 Width: 192
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<64 128> 428 20G<64 128> 511 193
 VStem: 1 192 64 64<0 448>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 0
- 2
- 0
-CALL
-PUSHB_1
- 3
-MDAP[rnd]
-SVTCA[x-axis]
-PUSHB_1
- 8
-MDAP[rnd]
-PUSHB_1
- 3
-MDRP[rp0,rnd,white]
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_2
- 9
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 95 180 N 1 0 0 1 -63 64 2

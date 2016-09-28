@@ -3,88 +3,9 @@ Encoding: 326 326 226
 Width: 448
 VWidth: 0
 Flags: W
-HStem: -185 128<160 224> 0 21G<64 128 320 384> 384 64<128 290.537>
-VStem: 64 64<0 384> 160 128<-185 -57> 320 64<0 355.7>
+HStem: -185 128<160 224> 0 21G<64 128 320 384> 384 64<128 292.688>
+VStem: 64 64<0 384> 160 128<-185 -57> 320 64<0 357.197>
 CounterMasks: 1 1c
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 10
- 2
- 0
-CALL
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_1
- 24
-MDAP[rnd]
-PUSHB_1
- 25
-MDRP[min,rnd,black]
-PUSHB_1
- 9
-MDAP[rnd]
-PUSHB_1
- 20
-SHP[rp1]
-SVTCA[x-axis]
-PUSHB_1
- 29
-MDAP[rnd]
-PUSHB_1
- 9
-MDRP[rp0,rnd,white]
-PUSHB_1
- 8
-MDRP[min,rnd,black]
-PUSHB_1
- 8
-SRP0
-PUSHB_2
- 24
- 1
-CALL
-PUSHB_1
- 22
-SHP[rp2]
-PUSHB_1
- 27
-MDRP[min,rnd,black]
-PUSHB_1
- 27
-SRP0
-PUSHB_2
- 21
- 1
-CALL
-PUSHB_1
- 20
-MDRP[min,rnd,black]
-PUSHB_2
- 30
- 1
-CALL
-PUSHB_2
- 27
- 24
-SRP1
-SRP2
-PUSHB_1
- 23
-IP
-SVTCA[y-axis]
-PUSHB_2
- 25
- 24
-SRP1
-SRP2
-PUSHB_1
- 27
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 74 44 N 1 0 0 1 96 -185 2

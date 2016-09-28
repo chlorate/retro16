@@ -1,7 +1,6 @@
 StartChar: uni2160
 Encoding: 8544 8544 177
 Width: 321
-VWidth: 1024
 Flags: W
 HStem: 0 64<64 128 192 256> 512 64<64 128 192 256>
 VStem: 64 192<0 64 512 576>

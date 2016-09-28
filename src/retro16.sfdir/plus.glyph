@@ -1,12 +1,16 @@
 StartChar: plus
 Encoding: 43 43 76
 Width: 448
-VWidth: 1024
 Flags: W
 HStem: 256 64<64 192 256 384> 428 20G<192 256>
 VStem: 192 64<128 256 320 448>
 TtInstrs:
 SVTCA[y-axis]
+PUSHB_3
+ 5
+ 2
+ 0
+CALL
 PUSHB_1
  2
 MDAP[rnd]
@@ -28,17 +32,6 @@ PUSHB_4
  64
  2
  0
- 9
-CALL
-PUSHB_3
- 3
- 2
- 10
-CALL
-PUSHB_4
- 64
- 3
- 5
  9
 CALL
 SVTCA[x-axis]

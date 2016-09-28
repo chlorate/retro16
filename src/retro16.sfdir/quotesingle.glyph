@@ -1,19 +1,18 @@
 StartChar: quotesingle
 Encoding: 39 39 77
 Width: 192
-VWidth: 1024
 Flags: W
 HStem: 447 193<64 128>
 VStem: 64 64<447 640>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 1
- 4
+ 0
+ 2
  0
 CALL
 PUSHB_1
- 0
+ 1
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1

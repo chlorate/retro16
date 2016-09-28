@@ -1,21 +1,18 @@
 StartChar: caron
 Encoding: 711 711 209
 Width: 448
-VWidth: 1024
 Flags: W
 HStem: 447 193
+VStem: 64 320
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 1
- 4
+ 5
+ 2
  0
 CALL
 PUSHB_1
- 3
-SHP[rp1]
-PUSHB_1
- 5
+ 1
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
@@ -32,14 +29,6 @@ PUSHB_2
  1
 CALL
 SVTCA[y-axis]
-PUSHB_2
- 1
- 5
-SRP1
-SRP2
-PUSHB_1
- 2
-IP
 IUP[y]
 IUP[x]
 EndTTInstrs

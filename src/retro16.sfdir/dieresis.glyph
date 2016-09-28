@@ -1,34 +1,30 @@
 StartChar: dieresis
 Encoding: 168 168 110
 Width: 320
-VWidth: 1024
 Flags: W
 HStem: 575 65<64 128 192 256>
 VStem: 64 64<575 640> 192 64<575 640>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 1
- 4
+ 0
+ 3
  0
 CALL
 PUSHB_1
- 5
+ 4
 SHP[rp1]
 PUSHB_1
- 0
+ 1
 MDRP[min,rnd,black]
 PUSHB_1
- 4
+ 5
 SHP[rp2]
 PUSHB_3
- 1
- 4
+ 0
+ 3
  0
 CALL
-PUSHB_1
- 0
-MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
  8

@@ -1,16 +1,10 @@
 StartChar: bar
 Encoding: 124 124 82
 Width: 192
-VWidth: 1024
 Flags: W
 VStem: 64 64<-193 768>
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 1
- 4
- 0
-CALL
 SVTCA[x-axis]
 PUSHB_1
  4

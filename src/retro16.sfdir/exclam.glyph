@@ -1,9 +1,8 @@
 StartChar: exclam
 Encoding: 33 33 71
 Width: 192
-VWidth: 1024
 Flags: W
-HStem: 0 128<64 128> 620 20G<64 128>
+HStem: 0 128<64 128>
 VStem: 64 64<0 128 192 640>
 TtInstrs:
 SVTCA[y-axis]
@@ -15,11 +14,6 @@ CALL
 PUSHB_1
  1
 MDRP[min,rnd,black]
-PUSHB_3
- 5
- 4
- 0
-CALL
 SVTCA[x-axis]
 PUSHB_1
  8
@@ -44,14 +38,6 @@ PUSHB_2
  1
 CALL
 SVTCA[y-axis]
-PUSHB_2
- 5
- 1
-SRP1
-SRP2
-PUSHB_1
- 4
-IP
 IUP[y]
 IUP[x]
 EndTTInstrs

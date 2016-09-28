@@ -1,7 +1,6 @@
 StartChar: one
 Encoding: 49 49 58
 Width: 512
-VWidth: 1024
 Flags: W
 HStem: 0 64<128 256 320 448> 556 20G<242.667 320>
 VStem: 256 64<64 468>

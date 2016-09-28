@@ -3,8 +3,8 @@ Encoding: 110 110 0
 Width: 448
 VWidth: 0
 Flags: W
-HStem: 0 21G<64 128 320 384> 384 64<128 290.537>
-VStem: 64 64<0 384> 320 64<0 355.7>
+HStem: 0 21G<64 128 320 384> 384 64<128 292.688>
+VStem: 64 64<0 384> 320 64<0 357.197>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

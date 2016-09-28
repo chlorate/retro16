@@ -1,7 +1,6 @@
 StartChar: bracketleft
 Encoding: 91 91 78
 Width: 320
-VWidth: 1024
 Flags: W
 HStem: -65 65<128 256> 575 65<128 256>
 VStem: 64 192<-65 0 575 640> 64 64<0 575>
@@ -16,12 +15,12 @@ PUSHB_1
  0
 MDRP[min,rnd,black]
 PUSHB_3
- 1
  4
+ 3
  0
 CALL
 PUSHB_1
- 4
+ 1
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1

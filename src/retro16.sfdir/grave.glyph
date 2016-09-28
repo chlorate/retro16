@@ -1,19 +1,18 @@
 StartChar: grave
 Encoding: 96 96 84
 Width: 320
-VWidth: 1024
 Flags: W
 HStem: 447 193
 VStem: 64 192
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
+ 0
  2
- 4
  0
 CALL
 PUSHB_1
- 0
+ 2
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1

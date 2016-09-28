@@ -3,8 +3,85 @@ Encoding: 97 97 15
 Width: 448
 VWidth: 0
 Flags: W
-HStem: 0 64<148.671 320> 191 65<148.671 320> 384 64<128 293.773>
-VStem: 64 65<81.9188 172.619> 320 64<64 191 256 357.599>
+HStem: 0 64<145.106 320> 191 65<145.106 320> 384 64<128 295.35>
+VStem: 64 65<81.3995 173.139> 320 64<64 191 256 359.086>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 23
+ 1
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_3
+ 11
+ 2
+ 0
+CALL
+PUSHB_1
+ 10
+MDRP[min,rnd,black]
+PUSHB_5
+ 1
+ 27
+ 23
+ 11
+ 13
+CALL
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 28
+MDAP[rnd]
+PUSHB_1
+ 25
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_2
+ 5
+ 1
+CALL
+PUSHB_1
+ 6
+SHP[rp2]
+PUSHB_1
+ 22
+MDRP[min,rnd,black]
+PUSHB_2
+ 29
+ 1
+CALL
+PUSHB_2
+ 3
+ 25
+SRP1
+SRP2
+PUSHB_2
+ 10
+ 11
+IP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 1
+ 4
+SRP1
+SRP2
+PUSHB_1
+ 25
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 AnchorPoint: "top" 224 448.023 basechar 0
 LayerCount: 2
 Fore

@@ -3,8 +3,93 @@ Encoding: 99 99 10
 Width: 448
 VWidth: 0
 Flags: W
-HStem: -4 65<160.357 303.296> 387 65<160.357 303.296>
-VStem: 64.5 63.5<91.4165 356.583> 320 64<74.4131 128 320 373.587>
+HStem: -4 65<158.647 304.052> 387 65<158.647 304.052>
+VStem: 64.5 63.5<89.9004 358.1> 320 64<74.4131 128 320 373.587>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 17
+ 2
+ 0
+CALL
+PUSHB_1
+ 28
+MDRP[min,rnd,black]
+PUSHB_3
+ 28
+ 17
+ 10
+CALL
+PUSHB_4
+ 64
+ 28
+ 23
+ 9
+CALL
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 49
+MDRP[min,rnd,black]
+PUSHB_3
+ 49
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 49
+ 54
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 61
+MDAP[rnd]
+PUSHB_1
+ 8
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 39
+MDRP[min,rnd,black]
+PUSHB_1
+ 43
+SHP[rp2]
+PUSHB_1
+ 39
+SRP0
+PUSHB_2
+ 53
+ 1
+CALL
+PUSHB_1
+ 24
+SHP[rp2]
+PUSHB_1
+ 54
+MDRP[min,rnd,black]
+PUSHB_1
+ 23
+SHP[rp2]
+PUSHB_2
+ 62
+ 1
+CALL
+PUSHB_2
+ 53
+ 39
+SRP1
+SRP2
+PUSHB_2
+ 17
+ 0
+IP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 AnchorPoint: "top" 224 448 basechar 0
 AnchorPoint: "bottom" 224 0 basechar 0
 LayerCount: 2

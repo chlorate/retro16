@@ -1,7 +1,6 @@
 StartChar: semicolon
 Encoding: 59 59 67
 Width: 256
-VWidth: 1024
 Flags: W
 HStem: 63 129<64 128> 383 129<64 192>
 VStem: 64 128<64 192 383 512>

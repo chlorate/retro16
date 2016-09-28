@@ -1,7 +1,6 @@
 StartChar: underscore
 Encoding: 95 95 81
 Width: 512
-VWidth: 1024
 Flags: W
 HStem: -65 64<64 448>
 TtInstrs:

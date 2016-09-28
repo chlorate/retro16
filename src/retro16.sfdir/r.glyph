@@ -1,10 +1,9 @@
 StartChar: r
 Encoding: 114 114 23
 Width: 384
-VWidth: 1024
 Flags: W
-HStem: 0 21G<64 128> 384 64<185.951 352>
-VStem: 64 64<0 334.072 389 448>
+HStem: 0 21G<64 128> 384 64<183.017 352>
+VStem: 64 64<0 335.227 389 448>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3

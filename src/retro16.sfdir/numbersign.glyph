@@ -1,7 +1,6 @@
 StartChar: numbersign
 Encoding: 35 35 73
 Width: 576
-VWidth: 1024
 Flags: W
 HStem: 0 21G<64 135.559 236 307.874> 127 65<64 112 202 286 374 448> 384 64<128 202 290 374 462 512> 556 20G<268.188 340 440.188 512>
 TtInstrs:

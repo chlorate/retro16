@@ -3,18 +3,9 @@ Encoding: 449 449 275
 Width: 352
 VWidth: 0
 Flags: W
-HStem: 620 20G<64 128 224 288>
 VStem: 64 64<-193 640> 224 64<-193 640>
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 1
- 4
- 0
-CALL
-PUSHB_1
- 5
-SHP[rp1]
 SVTCA[x-axis]
 PUSHB_1
  8

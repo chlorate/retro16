@@ -3,106 +3,11 @@ Encoding: 241 241 149
 Width: 448
 VWidth: 0
 Flags: W
-HStem: 0 21G<64 128 320 384> 384 64<128 290.537> 516 65<247.648 339.688> 580 65<108.312 204.07>
-VStem: 32 64<516 567.75> 64 64<0 384> 320 64<0 355.7> 352 64<593.25 645>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 37
- 3
- 0
-CALL
-PUSHB_1
- 25
-MDRP[min,rnd,black]
-PUSHB_1
- 30
-SHP[rp2]
-PUSHB_3
- 28
- 3
- 0
-CALL
-PUSHB_1
- 34
-MDRP[min,rnd,black]
-PUSHB_1
- 22
-SHP[rp2]
-PUSHB_3
- 10
- 2
- 0
-CALL
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_1
- 9
-MDAP[rnd]
-PUSHB_1
- 20
-SHP[rp1]
-SVTCA[x-axis]
-PUSHB_1
- 40
-MDAP[rnd]
-PUSHB_1
- 9
-MDRP[rp0,rnd,white]
-PUSHB_1
- 8
-MDRP[min,rnd,black]
-PUSHB_1
- 31
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_1
- 30
-MDRP[min,rnd,black]
-PUSHB_1
- 8
-SRP0
-PUSHB_2
- 21
- 1
-CALL
-PUSHB_1
- 20
-MDRP[min,rnd,black]
-PUSHB_1
- 39
-DUP
-MDRP[rp0,rnd,white]
-SRP1
-PUSHB_1
- 22
-MDRP[min,rnd,black]
-PUSHB_2
- 41
- 1
-CALL
-PUSHB_2
- 21
- 8
-SRP1
-SRP2
-PUSHB_4
- 25
- 28
- 34
- 37
-DEPTH
-SLOOP
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: 0 21G<64 128 320 384> 384 64<128 292.688> 516 65<245.319 340.837> 580 65<107.163 205.887>
+VStem: 32 64<516 568.079> 64 64<0 384> 320 64<0 357.197> 352 64<592.921 645>
 LayerCount: 2
 Fore
 Refer: 100 126 N 1 0 0 1 -32 261 2
 Refer: 0 110 N 1 0 0 1 0 0 3
-Validated: 114689
+Validated: 49153
 EndChar

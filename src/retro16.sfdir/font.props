@@ -8,7 +8,7 @@ Version: 3.0.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
-Ascent: 768
+Ascent: 832
 Descent: 192
 InvalidEm: 0
 LayerCount: 2
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1475021926
+ModificationTime: 1475026068
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -59,24 +59,6 @@ KernClass2: 8 5 "closer"
  11 d e g q o s
  19 n p r t u v w x y z
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} -128 {} -64 {} 0 {} 0 {} 0 {} -96 {} -64 {} -32 {} 0 {} 0 {} -96 {} -64 {} -64 {} -64 {} 0 {} -64 {} -16 {} -16 {} 0 {} 0 {} -64 {} -16 {} -32 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {}
-ShortTable: maxp 16
-  0
-  0
-  0
-  0
-  0
-  0
-  0
-  2
-  1
-  2
-  22
-  0
-  256
-  0
-  0
-  0
-EndShort
 TtTable: prep
 PUSHW_1
  511
@@ -742,20 +724,39 @@ ShortTable: cvt  9
   0
   448
   576
-  640
+  650
   65
   67
   70
   60
 EndShort
+ShortTable: maxp 16
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  2
+  1
+  2
+  22
+  0
+  256
+  0
+  0
+  0
+EndShort
 LangName: 1033
+DesignSize: 120
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
-FitToEm: 1
+FitToEm: 0
 WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
@@ -833,6 +834,6 @@ Grid
 -236 512 m 17
  -118.219726562 512.780273438 616.219726562 511.219726562 736.3 512 c 1033
 EndSplineSet
-TeXData: 1 0 0 349525 174762 116508 489335 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+TeXData: 1 12582912 0 349525 174762 116508 489335 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom" "marks" "top" "marks" 
 EndSplineFont

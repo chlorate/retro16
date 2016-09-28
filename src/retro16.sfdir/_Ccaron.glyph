@@ -2,56 +2,9 @@ StartChar: Ccaron
 Encoding: 268 268 165
 Width: 512
 VWidth: 0
-Flags: W
-HStem: -6 67<159.426 363.881> 448 21G<383 448> 515 65<159.42 362.912> 640 193
-VStem: 64 64<90.9062 484.996> 384 64<74.4131 128 448 501.587>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 0
- 1
- 0
-CALL
-PUSHB_1
- 33
-MDRP[min,rnd,black]
-PUSHB_3
- 17
- 3
- 0
-CALL
-PUSHB_1
- 20
-MDRP[min,rnd,black]
-PUSHB_1
- 41
-MDAP[rnd]
-SVTCA[x-axis]
-PUSHB_1
- 42
-MDAP[rnd]
-PUSHB_1
- 8
-MDRP[rp0,rnd,white]
-PUSHB_1
- 27
-MDRP[min,rnd,black]
-PUSHB_2
- 43
- 1
-CALL
-PUSHB_2
- 27
- 8
-SRP1
-SRP2
-PUSHB_1
- 36
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+Flags: HW
+HStem: -6 67<157.875 363.881> 448 21G<383 448> 515 65<157.865 362.912> 640 193
+VStem: 64 64<89.5356 486.464> 96 320 384 64<74.4131 128 448 501.587>
 LayerCount: 2
 Fore
 Refer: 209 711 N 1 0 0 1 32 193 2

@@ -1,9 +1,9 @@
 StartChar: hyphen
 Encoding: 45 45 59
 Width: 448
-VWidth: 1024
 Flags: W
 HStem: 255 64<64 384>
+VStem: 64 320<255 319>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -19,13 +19,15 @@ SVTCA[x-axis]
 PUSHB_1
  4
 MDAP[rnd]
-PUSHB_2
+PUSHB_1
  0
- 1
-CALL
+MDRP[rp0,rnd,white]
 PUSHB_1
  3
 MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
 PUSHB_2
  5
  1

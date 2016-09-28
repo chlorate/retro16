@@ -4,35 +4,35 @@ Width: 448
 VWidth: 0
 Flags: W
 HStem: 576 64<64 384>
+VStem: 64 320<576 640>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 0
- 4
+ 3
+ 3
  0
 CALL
 PUSHB_1
- 3
+ 0
 MDRP[min,rnd,black]
 PUSHB_3
- 0
- 4
+ 3
+ 3
  0
 CALL
-PUSHB_1
- 3
-MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
  4
 MDAP[rnd]
-PUSHB_2
+PUSHB_1
  3
- 1
-CALL
+MDRP[rp0,rnd,white]
 PUSHB_1
  2
 MDRP[min,rnd,black]
+PUSHB_1
+ 2
+SRP0
 PUSHB_2
  5
  1
