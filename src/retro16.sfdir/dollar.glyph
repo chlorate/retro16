@@ -9,6 +9,11 @@ CounterMasks: 1 1c
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
+ 38
+ 4
+ 0
+CALL
+PUSHB_3
  40
  3
  0
@@ -22,17 +27,6 @@ MDRP[min,rnd,black]
 PUSHB_1
  53
 SHP[rp2]
-PUSHB_3
- 40
- 43
- 10
-CALL
-PUSHB_4
- 64
- 40
- 38
- 9
-CALL
 PUSHB_1
  16
 MDAP[rnd]

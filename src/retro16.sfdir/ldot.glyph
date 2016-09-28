@@ -2,12 +2,12 @@ StartChar: ldot
 Encoding: 320 320 222
 Width: 448
 VWidth: 0
-Flags: W
-HStem: 0 21G<64 128> 191 128<256 384> 630 20G<64 128>
-VStem: 64 64<0 650> 256 128<191 319>
+Flags: HW
+HStem: 0 21G<64 128> 191 128<256 384> 620 20G<64 128>
+VStem: 64 64<0 640> 256 128<191 319>
 LayerCount: 2
 Fore
 Refer: 192 183 N 1 0 0 1 192 0 2
 Refer: 5 108 N 1 0 0 1 0 0 2
-Validated: 49153
+Validated: 98305
 EndChar

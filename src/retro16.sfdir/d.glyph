@@ -16,6 +16,11 @@ PUSHB_1
  13
 MDRP[min,rnd,black]
 PUSHB_3
+ 35
+ 4
+ 0
+CALL
+PUSHB_3
  33
  2
  0
@@ -23,17 +28,6 @@ CALL
 PUSHB_1
  0
 MDRP[min,rnd,black]
-PUSHB_3
- 33
- 0
- 10
-CALL
-PUSHB_4
- 64
- 33
- 35
- 9
-CALL
 SVTCA[x-axis]
 PUSHB_1
  38

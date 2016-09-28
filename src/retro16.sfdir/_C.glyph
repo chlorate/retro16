@@ -93,6 +93,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "top" 256 576 basechar 0
 AnchorPoint: "bottom" 257 0 basechar 0
 LayerCount: 2
 Fore
@@ -143,5 +144,5 @@ SplineSet
  377 6 377 6 352 -0 c 1,58,59
  326 -6 326 -6 288 -6 c 9,0,1
 EndSplineSet
-Validated: 1051649
+Validated: 19457
 EndChar

@@ -3,11 +3,11 @@ Encoding: 327 327 227
 Width: 512
 VWidth: 0
 Flags: HW
-HStem: 0 21G<64 128 372.468 448> 556 20G<64 139.532 384 448> 640 193
+HStem: 0 21G<64 128 372.468 448> 556 20G<64 139.532 384 448> 644 193
 VStem: 64 64<0 444> 96 320 384 64<132 576>
 LayerCount: 2
 Fore
-Refer: 209 711 N 1 0 0 1 32 193 2
+Refer: 209 711 N 1 0 0 1 32 197 2
 Refer: 27 78 N 1 0 0 1 0 0 3
-Validated: 49153
+Validated: 98305
 EndChar

@@ -3,12 +3,12 @@ Encoding: 379 379 258
 Width: 512
 VWidth: 0
 Flags: W
-HStem: 0 64<128 448> 512 64<64 384> 640 128<192 320>
-VStem: 64 64<64 154> 192 128<640 768> 384 64<486 512>
+HStem: 0 64<128 448> 512 64<64 384> 644 128<192 320>
+VStem: 64 64<64 154> 192 128<644 772> 384 64<486 512>
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 52 46 N 1 0 0 1 128 640 2
+Refer: 52 46 N 1 0 0 1 128 644 2
 Refer: 57 90 N 1 0 0 1 0 0 3
-Validated: 49153
+Validated: 98305
 EndChar

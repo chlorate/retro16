@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1475026678
+ModificationTime: 1475029276
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -724,7 +724,7 @@ ShortTable: cvt  9
   0
   448
   576
-  650
+  640
   65
   67
   70
@@ -750,7 +750,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033
 DesignSize: 120
-Encoding: UnicodeBmp
+Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts

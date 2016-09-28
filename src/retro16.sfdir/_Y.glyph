@@ -20,7 +20,7 @@ PUSHB_1
 MDAP[rnd]
 SVTCA[x-axis]
 PUSHB_1
- 34
+ 33
 MDAP[rnd]
 PUSHB_1
  24
@@ -49,7 +49,7 @@ PUSHB_1
  9
 MDRP[min,rnd,black]
 PUSHB_2
- 35
+ 34
  1
 CALL
 PUSHB_2
@@ -72,6 +72,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "bottom" 288 0 basechar 0
 AnchorPoint: "top" 256 576 basechar 0
 LayerCount: 2
 Fore
@@ -103,9 +104,9 @@ SplineSet
  128 512 l 2,27,28
  128 474 128 474 144.5 439.5 c 128,-1,29
  161 405 161 405 184.5 382.5 c 128,-1,30
- 208 360 208 360 231.5 343 c 0,31,32
- 256 326 256 326 272 318 c 2,33,-1
+ 208 360 208 360 232 343 c 128,-1,31
+ 256 326 256 326 272 318 c 2,32,-1
  288 310 l 1,0,1
 EndSplineSet
-Validated: 1068033
+Validated: 19457
 EndChar

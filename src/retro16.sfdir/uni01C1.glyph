@@ -6,6 +6,14 @@ Flags: W
 VStem: 64 64<-193 640> 224 64<-193 640>
 TtInstrs:
 SVTCA[y-axis]
+PUSHB_3
+ 1
+ 4
+ 0
+CALL
+PUSHB_1
+ 5
+SHP[rp1]
 SVTCA[x-axis]
 PUSHB_1
  8
