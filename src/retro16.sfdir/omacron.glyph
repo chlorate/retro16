@@ -1,0 +1,89 @@
+StartChar: omacron
+Encoding: 333 333 173
+Width: 448
+VWidth: 0
+Flags: W
+HStem: -6 65<157.034 290.436> 394 65<158.727 289.059> 511.979 64<64 384>
+VStem: 64.5 64<87.0103 363.891> 320 64<87.9316 363.023>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 31
+ 0
+ 0
+CALL
+PUSHB_1
+ 19
+MDRP[min,rnd,black]
+PUSHB_3
+ 53
+ 3
+ 0
+CALL
+PUSHB_1
+ 56
+MDRP[min,rnd,black]
+PUSHB_3
+ 46
+ 2
+ 0
+CALL
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 57
+MDAP[rnd]
+PUSHB_1
+ 39
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 53
+SHP[rp2]
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_1
+ 13
+SRP0
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_1
+ 25
+MDRP[min,rnd,black]
+PUSHB_1
+ 54
+SHP[rp2]
+PUSHB_2
+ 58
+ 1
+CALL
+PUSHB_2
+ 0
+ 13
+SRP1
+SRP2
+PUSHB_2
+ 31
+ 46
+IP
+IP
+PUSHB_1
+ 25
+SRP1
+PUSHB_1
+ 27
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 153 175 N 1 0 0 1 7.20654e-006 -64.0213 2
+Refer: 1 111 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

@@ -1,0 +1,100 @@
+StartChar: Utilde
+Encoding: 360 360 247
+Width: 512
+VWidth: 0
+Flags: W
+HStem: 0 64<155.757 356.243> 556 20G<64 128 384 448> 640 65<279.648 371.688> 704 65<140.312 236.07>
+VStem: 64 64<90.9062 576 640 691.75> 384 64<90.9062 576 717.25 769>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 9
+ 1
+ 0
+CALL
+PUSHB_1
+ 26
+MDRP[min,rnd,black]
+PUSHB_3
+ 39
+ 4
+ 0
+CALL
+PUSHB_1
+ 44
+SHP[rp1]
+PUSHB_1
+ 51
+MDRP[min,rnd,black]
+PUSHB_3
+ 18
+ 3
+ 0
+CALL
+PUSHB_1
+ 34
+SHP[rp1]
+PUSHB_1
+ 42
+MDAP[rnd]
+PUSHB_1
+ 48
+MDRP[min,rnd,black]
+PUSHB_1
+ 36
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 54
+MDAP[rnd]
+PUSHB_1
+ 17
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 45
+SHP[rp2]
+PUSHB_1
+ 20
+MDRP[min,rnd,black]
+PUSHB_1
+ 44
+SHP[rp2]
+PUSHB_1
+ 20
+SRP0
+PUSHB_2
+ 33
+ 1
+CALL
+PUSHB_1
+ 53
+SHP[rp2]
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 36
+SHP[rp2]
+PUSHB_2
+ 55
+ 1
+CALL
+PUSHB_2
+ 33
+ 20
+SRP1
+SRP2
+PUSHB_2
+ 39
+ 48
+IP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 100 126 N 1 0 0 1 0 385 2
+Refer: 48 85 N 1 0 0 1 0 0 3
+EndChar

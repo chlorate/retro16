@@ -1,0 +1,13 @@
+StartChar: ccircumflex
+Encoding: 265 265 162
+Width: 448
+VWidth: 0
+Flags: W
+HStem: -4 65<160.218 303.054> 387 65<160.218 303.054> 510.977 193
+VStem: 64.5 64<90.9062 166.5 321 357.094> 320 64<74.4131 128 320 373.587>
+LayerCount: 2
+Fore
+Refer: 83 94 N 1 0 0 1 0 63.977 2
+Refer: 10 99 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

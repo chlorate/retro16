@@ -1,0 +1,105 @@
+StartChar: dcaron
+Encoding: 271 271 168
+Width: 448
+VWidth: 0
+Flags: W
+HStem: 0 64<155.757 320> 384 64<155.757 320> 512 128<469.5 533.5> 620 20G<320 384>
+VStem: 64.5 64<90.52 357.48> 320 64<64 384 448 640> 469.5 128<512 640>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 16
+ 1
+ 0
+CALL
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_3
+ 41
+ 4
+ 0
+CALL
+PUSHB_1
+ 35
+SHP[rp1]
+PUSHB_1
+ 40
+MDRP[min,rnd,black]
+PUSHB_3
+ 33
+ 2
+ 0
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_1
+ 38
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 45
+MDAP[rnd]
+PUSHB_1
+ 24
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 7
+SRP0
+PUSHB_2
+ 14
+ 1
+CALL
+PUSHB_1
+ 34
+SHP[rp2]
+PUSHB_1
+ 37
+MDRP[min,rnd,black]
+PUSHB_1
+ 37
+SRP0
+PUSHB_2
+ 40
+ 1
+CALL
+PUSHB_1
+ 38
+SHP[rp2]
+PUSHB_1
+ 43
+MDRP[min,rnd,black]
+PUSHB_2
+ 46
+ 1
+CALL
+PUSHB_2
+ 43
+ 40
+SRP1
+SRP2
+PUSHB_1
+ 39
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 40
+ 33
+SRP1
+SRP2
+PUSHB_1
+ 43
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 74 44 N 1 0 0 1 405.5 512 2
+Refer: 12 100 N 1 0 0 1 0 0 2
+Validated: 49153
+EndChar

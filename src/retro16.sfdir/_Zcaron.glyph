@@ -1,0 +1,99 @@
+StartChar: Zcaron
+Encoding: 381 381 260
+Width: 512
+VWidth: 0
+Flags: W
+HStem: 0 64<128 448> 512 64<64 384> 640 193
+VStem: 64 64<64 154> 384 64<486 512>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 1
+ 0
+CALL
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_3
+ 5
+ 3
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+SHP[rp2]
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SRP0
+PUSHB_2
+ 2
+ 1
+CALL
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_2
+ 19
+ 1
+CALL
+PUSHB_2
+ 9
+ 0
+SRP1
+SRP2
+PUSHB_1
+ 12
+IP
+PUSHB_1
+ 2
+SRP1
+PUSHB_3
+ 13
+ 15
+ 17
+IP
+IP
+IP
+PUSHB_1
+ 7
+SRP2
+PUSHB_1
+ 16
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 4
+ 9
+SRP1
+SRP2
+PUSHB_2
+ 1
+ 7
+IP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 209 711 N 1 0 0 1 32 193 2
+Refer: 57 90 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

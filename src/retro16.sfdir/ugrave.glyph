@@ -1,0 +1,75 @@
+StartChar: ugrave
+Encoding: 249 249 107
+Width: 448
+VWidth: 0
+Flags: W
+HStem: -5 64<157.034 292.298> 428 20G<64 128 320 384> 511 193
+VStem: 64 64<87.4941 448> 128 192 320 64<85.9547 448>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 8
+ 0
+ 0
+CALL
+PUSHB_1
+ 25
+MDRP[min,rnd,black]
+PUSHB_3
+ 17
+ 2
+ 0
+CALL
+PUSHB_1
+ 0
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 35
+MDAP[rnd]
+PUSHB_1
+ 16
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 19
+MDRP[min,rnd,black]
+PUSHB_1
+ 19
+SRP0
+PUSHB_2
+ 30
+ 1
+CALL
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_2
+ 36
+ 1
+CALL
+PUSHB_2
+ 19
+ 16
+SRP1
+SRP2
+PUSHB_1
+ 32
+IP
+PUSHB_1
+ 30
+SRP1
+PUSHB_2
+ 8
+ 34
+IP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 84 96 N 1 0 0 1 64 64 2
+Refer: 9 117 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

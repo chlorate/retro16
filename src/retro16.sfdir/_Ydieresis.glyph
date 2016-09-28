@@ -1,0 +1,112 @@
+StartChar: Ydieresis
+Encoding: 376 376 175
+Width: 512
+VWidth: 0
+Flags: W
+HStem: 0 21G<256 320> 556 20G<64 128 384 448> 638.916 65<160 224 288 352>
+VStem: 64 64<431.155 576> 160 64<638.916 703.916> 256 64<0 256> 288 64<638.916 703.916> 384 64<409.999 576>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 34
+ 4
+ 0
+CALL
+PUSHB_1
+ 38
+SHP[rp1]
+PUSHB_1
+ 35
+MDRP[min,rnd,black]
+PUSHB_1
+ 39
+SHP[rp2]
+PUSHB_3
+ 25
+ 3
+ 0
+CALL
+PUSHB_1
+ 7
+SHP[rp1]
+PUSHB_1
+ 17
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 42
+MDAP[rnd]
+PUSHB_1
+ 24
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 27
+MDRP[min,rnd,black]
+PUSHB_1
+ 27
+SRP0
+PUSHB_2
+ 34
+ 1
+CALL
+PUSHB_1
+ 37
+MDRP[min,rnd,black]
+PUSHB_1
+ 37
+SRP0
+PUSHB_2
+ 17
+ 1
+CALL
+PUSHB_1
+ 16
+MDRP[min,rnd,black]
+PUSHB_1
+ 38
+DUP
+MDRP[rp0,rnd,white]
+SRP1
+PUSHB_1
+ 41
+MDRP[min,rnd,black]
+PUSHB_1
+ 16
+SRP0
+PUSHB_2
+ 6
+ 1
+CALL
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_2
+ 43
+ 1
+CALL
+PUSHB_2
+ 38
+ 17
+SRP1
+SRP2
+PUSHB_1
+ 0
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 25
+ 17
+SRP1
+SRP2
+PUSHB_1
+ 0
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 110 168 N 1 0 0 1 96 63.916 2
+Refer: 50 89 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

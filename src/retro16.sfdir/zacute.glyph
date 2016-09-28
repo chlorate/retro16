@@ -1,0 +1,93 @@
+StartChar: zacute
+Encoding: 378 378 257
+Width: 448
+VWidth: 0
+Flags: W
+HStem: 0 64<128 384> 384 64<64 320> 516 193
+VStem: 64 64<64 90> 176 192 320 64<358 384>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 1
+ 0
+CALL
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_3
+ 5
+ 2
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 16
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 4
+SHP[rp2]
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SRP0
+PUSHB_2
+ 2
+ 1
+CALL
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_2
+ 17
+ 1
+CALL
+PUSHB_2
+ 2
+ 9
+SRP1
+SRP2
+PUSHB_3
+ 12
+ 13
+ 14
+IP
+IP
+IP
+PUSHB_1
+ 7
+SRP1
+PUSHB_1
+ 15
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 4
+ 9
+SRP1
+SRP2
+PUSHB_2
+ 1
+ 7
+IP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 95 180 N 1 0 0 1 112 69 2
+Refer: 26 122 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

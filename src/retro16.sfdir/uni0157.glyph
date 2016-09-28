@@ -1,0 +1,107 @@
+StartChar: uni0157
+Encoding: 343 343 232
+Width: 384
+VWidth: 0
+Flags: W
+HStem: -185 128<32 96> 0 21G<64 128> 384 64<185.951 352>
+VStem: 32 128<-185 -57> 64 64<0 334.072 389 448>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 9
+ 2
+ 0
+CALL
+PUSHB_1
+ 1
+SHP[rp1]
+PUSHB_1
+ 12
+MDRP[min,rnd,black]
+PUSHB_1
+ 19
+MDAP[rnd]
+PUSHB_1
+ 20
+MDRP[min,rnd,black]
+PUSHB_1
+ 0
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 24
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 16
+MDRP[min,rnd,black]
+PUSHB_1
+ 2
+SHP[rp2]
+PUSHB_3
+ 16
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 16
+ 11
+ 9
+CALL
+PUSHB_1
+ 0
+SRP0
+PUSHB_1
+ 19
+DUP
+MDRP[rp0,rnd,white]
+SRP1
+PUSHB_1
+ 17
+SHP[rp1]
+PUSHB_1
+ 22
+MDRP[min,rnd,black]
+PUSHB_2
+ 25
+ 1
+CALL
+PUSHB_2
+ 16
+ 0
+SRP1
+SRP2
+PUSHB_2
+ 18
+ 23
+IP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 20
+ 19
+SRP1
+SRP2
+PUSHB_1
+ 22
+IP
+PUSHB_2
+ 9
+ 12
+SRP1
+SRP2
+PUSHB_1
+ 3
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 74 44 N 1 0 0 1 -32 -185 2
+Refer: 23 114 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

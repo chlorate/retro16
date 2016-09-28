@@ -1,0 +1,56 @@
+StartChar: lacute
+Encoding: 314 314 216
+Width: 192
+VWidth: 0
+Flags: W
+HStem: 0 21G<64 128> 620 20G<64 128> 697 193
+VStem: 48 192 64 64<0 640>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 4
+ 0
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 15
+MDAP[rnd]
+PUSHB_1
+ 10
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_3
+ 2
+ 10
+ 10
+CALL
+PUSHB_4
+ 64
+ 2
+ 7
+ 9
+CALL
+PUSHB_2
+ 16
+ 1
+CALL
+PUSHB_2
+ 2
+ 10
+SRP1
+SRP2
+PUSHB_1
+ 11
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 95 180 N 1 0 0 1 -16 250 2
+Refer: 5 108 N 1 0 0 1 0 0 3
+EndChar

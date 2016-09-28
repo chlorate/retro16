@@ -1,0 +1,122 @@
+StartChar: Idieresis
+Encoding: 207 207 133
+Width: 448
+VWidth: 0
+Flags: W
+HStem: 0 64<64 192 256 384> 512 64<64 192 256 384> 638.916 65<129 193 257 321>
+VStem: 129 64<638.916 703.916> 192 64<64 512> 257 64<638.916 703.916>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 1
+ 0
+CALL
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SHP[rp2]
+PUSHB_3
+ 12
+ 4
+ 0
+CALL
+PUSHB_1
+ 16
+SHP[rp1]
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_1
+ 17
+SHP[rp2]
+PUSHB_3
+ 5
+ 3
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 7
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 20
+MDAP[rnd]
+PUSHB_1
+ 2
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_3
+ 9
+ 2
+ 10
+CALL
+PUSHB_4
+ 64
+ 9
+ 11
+ 9
+CALL
+PUSHB_1
+ 6
+SHP[rp2]
+PUSHB_3
+ 2
+ 9
+ 10
+CALL
+PUSHB_4
+ 64
+ 2
+ 0
+ 9
+CALL
+PUSHB_1
+ 4
+SHP[rp2]
+PUSHB_4
+ 15
+ 9
+ 2
+ 8
+CALL
+PUSHB_1
+ 12
+MDRP[min,rnd,black]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 15
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SRP0
+PUSHB_2
+ 16
+ 11
+CALL
+PUSHB_1
+ 19
+MDRP[min,rnd,black]
+PUSHB_2
+ 21
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 110 168 N 1 0 0 1 65 63.916 2
+Refer: 38 73 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

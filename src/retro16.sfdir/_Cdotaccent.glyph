@@ -1,0 +1,76 @@
+StartChar: Cdotaccent
+Encoding: 266 266 163
+Width: 512
+VWidth: 0
+Flags: W
+HStem: -6 67<159.426 363.881> 448 21G<383 448> 515 65<159.42 362.912> 640 128<192 320>
+VStem: 64 64<90.9062 484.996> 192 128<640 768> 384 64<74.4131 128 448 501.587>
+CounterMasks: 1 0e
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 1
+ 0
+CALL
+PUSHB_1
+ 33
+MDRP[min,rnd,black]
+PUSHB_3
+ 36
+ 4
+ 0
+CALL
+PUSHB_1
+ 37
+MDRP[min,rnd,black]
+PUSHB_3
+ 17
+ 3
+ 0
+CALL
+PUSHB_1
+ 20
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 40
+MDAP[rnd]
+PUSHB_1
+ 8
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 27
+MDRP[min,rnd,black]
+PUSHB_1
+ 27
+SRP0
+PUSHB_2
+ 36
+ 1
+CALL
+PUSHB_1
+ 39
+MDRP[min,rnd,black]
+PUSHB_2
+ 41
+ 1
+CALL
+PUSHB_2
+ 36
+ 27
+SRP1
+SRP2
+PUSHB_1
+ 24
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 52 46 N 1 0 0 1 128 640 2
+Refer: 30 67 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

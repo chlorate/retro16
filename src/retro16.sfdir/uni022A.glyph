@@ -1,0 +1,143 @@
+StartChar: uni022A
+Encoding: 554 554 305
+Width: 512
+VWidth: 0
+Flags: W
+HStem: -4 65<192.72 323.147> 518 65<192.72 323.147> 638.916 65<160 224 288 352> 761.916 64<96 416>
+VStem: 64 64<138.341 440.659> 160 64<638.916 703.916> 288 64<638.916 703.916> 384 64<138.773 440.227>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 40
+ 4
+ 0
+CALL
+PUSHB_1
+ 44
+SHP[rp1]
+PUSHB_1
+ 41
+MDRP[min,rnd,black]
+PUSHB_1
+ 45
+SHP[rp2]
+PUSHB_3
+ 35
+ 3
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_1
+ 23
+MDAP[rnd]
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_1
+ 51
+MDAP[rnd]
+PUSHB_1
+ 48
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 52
+MDAP[rnd]
+PUSHB_1
+ 28
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SRP0
+PUSHB_2
+ 40
+ 1
+CALL
+PUSHB_1
+ 43
+MDRP[min,rnd,black]
+PUSHB_1
+ 43
+SRP0
+PUSHB_2
+ 44
+ 1
+CALL
+PUSHB_1
+ 47
+MDRP[min,rnd,black]
+PUSHB_1
+ 47
+SRP0
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_1
+ 17
+MDRP[min,rnd,black]
+PUSHB_2
+ 53
+ 1
+CALL
+PUSHB_2
+ 9
+ 28
+SRP1
+SRP2
+PUSHB_2
+ 48
+ 51
+IP
+IP
+PUSHB_2
+ 43
+ 40
+SRP1
+SRP2
+PUSHB_2
+ 23
+ 34
+IP
+IP
+PUSHB_1
+ 44
+SRP1
+PUSHB_2
+ 13
+ 4
+IP
+IP
+PUSHB_1
+ 47
+SRP2
+PUSHB_2
+ 22
+ 35
+IP
+IP
+PUSHB_2
+ 17
+ 0
+SRP1
+SRP2
+PUSHB_2
+ 49
+ 50
+IP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 153 175 N 1 0 0 1 32 185.916 2
+Refer: 139 214 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar

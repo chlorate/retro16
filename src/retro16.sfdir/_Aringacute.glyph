@@ -1,0 +1,149 @@
+StartChar: Aringacute
+Encoding: 506 506 276
+Width: 512
+VWidth: 0
+Flags: W
+HStem: 0 21G<64 128 384 448> 191 65<128 384> 512 64<157.463 354.537> 638.921 65<228.572 287.39> 766.921 65<228.572 287.39> 888.921 193
+VStem: 64 64<0 191 256 483.7> 161 65<706.096 764.737> 210 192 290 64<706.096 764.457> 384 64<0 191 256 483.7>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 56
+ 4
+ 0
+CALL
+PUSHB_1
+ 43
+MDRP[min,rnd,black]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_1
+ 25
+MDRP[min,rnd,black]
+PUSHB_1
+ 15
+MDAP[rnd]
+PUSHB_1
+ 10
+SHP[rp1]
+PUSHB_1
+ 13
+MDAP[rnd]
+PUSHB_1
+ 32
+MDRP[min,rnd,black]
+PUSHB_1
+ 47
+MDAP[rnd]
+PUSHB_1
+ 51
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 62
+MDAP[rnd]
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 14
+MDRP[min,rnd,black]
+PUSHB_1
+ 31
+SHP[rp2]
+PUSHB_1
+ 14
+SRP0
+PUSHB_2
+ 48
+ 1
+CALL
+PUSHB_1
+ 41
+MDRP[min,rnd,black]
+PUSHB_1
+ 41
+SRP0
+PUSHB_2
+ 45
+ 1
+CALL
+PUSHB_1
+ 53
+MDRP[min,rnd,black]
+PUSHB_1
+ 53
+SRP0
+PUSHB_2
+ 11
+ 1
+CALL
+PUSHB_1
+ 33
+SHP[rp2]
+PUSHB_1
+ 10
+MDRP[min,rnd,black]
+PUSHB_2
+ 63
+ 1
+CALL
+PUSHB_2
+ 41
+ 48
+SRP1
+SRP2
+PUSHB_3
+ 50
+ 56
+ 59
+IP
+IP
+IP
+PUSHB_1
+ 45
+SRP1
+PUSHB_1
+ 58
+IP
+PUSHB_1
+ 53
+SRP2
+PUSHB_3
+ 51
+ 55
+ 60
+IP
+IP
+IP
+PUSHB_2
+ 10
+ 11
+SRP1
+SRP2
+PUSHB_1
+ 61
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 47
+ 43
+SRP1
+SRP2
+PUSHB_2
+ 48
+ 53
+IP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 95 180 N 1 0 0 1 146 441.921 2
+Refer: 155 197 N 1 0 0 1 0 0 3
+Validated: 49153
+EndChar
