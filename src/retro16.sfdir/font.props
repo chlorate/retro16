@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1480555568
+ModificationTime: 1480555853
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -775,6 +775,7 @@ ShortTable: maxp 16
   0
 EndShort
 LangName: 1033
+GaspTable: 3 8 2 16 1 65535 3 0
 DesignSize: 120
 Encoding: Custom
 Compacted: 1
