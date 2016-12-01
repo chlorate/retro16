@@ -1,6 +1,7 @@
 StartChar: asciicircum
 Encoding: 94 94 83
 Width: 448
+GlyphClass: 2
 Flags: W
 HStem: 447 193
 VStem: 64 320

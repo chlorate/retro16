@@ -1,6 +1,7 @@
 StartChar: acute
 Encoding: 180 180 95
 Width: 320
+GlyphClass: 2
 Flags: W
 HStem: 447 193
 VStem: 64 192

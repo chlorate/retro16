@@ -2,6 +2,7 @@ StartChar: asciitilde
 Encoding: 126 126 100
 Width: 512
 VWidth: 0
+GlyphClass: 2
 Flags: W
 HStem: 255 65<277.319 372.837> 319 65<139.163 237.887>
 VStem: 64 64<255 307.079> 384 64<331.921 384>

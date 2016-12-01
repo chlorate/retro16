@@ -1,6 +1,7 @@
 StartChar: ring
 Encoding: 730 730 154
 Width: 320
+GlyphClass: 2
 Flags: W
 HStem: 447 65<130.765 191.193> 575 65<130.765 191.193>
 VStem: 64 65<513.911 573.079> 193 64<513.911 573.362>

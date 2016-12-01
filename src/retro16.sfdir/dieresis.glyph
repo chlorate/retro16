@@ -1,6 +1,7 @@
 StartChar: dieresis
 Encoding: 168 168 110
 Width: 320
+GlyphClass: 2
 Flags: W
 HStem: 575 65<64 128 192 256>
 VStem: 64 64<575 640> 192 64<575 640>

@@ -2,6 +2,7 @@ StartChar: macron
 Encoding: 175 175 153
 Width: 448
 VWidth: 0
+GlyphClass: 2
 Flags: W
 HStem: 576 64<64 384>
 VStem: 64 320<576 640>
