@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1480551126
+ModificationTime: 1480552180
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -42,6 +42,7 @@ HheadDOffset: 0
 OS2CapHeight: 576
 OS2XHeight: 448
 OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
 Lookup: 258 0 0 "kerning" { "closer" [150,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "mark" { "marks"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
