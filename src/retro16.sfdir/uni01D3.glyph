@@ -2,12 +2,12 @@ StartChar: uni01D3
 Encoding: 467 467 266
 Width: 512
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 64<154.08 357.92> 556 20G<64 128 384 448> 639 193
 VStem: 64 64<89.5488 576> 96 320 384 64<89.5488 576>
 LayerCount: 2
 Fore
 Refer: 209 711 N 1 0 0 1 32 192 2
 Refer: 48 85 N 1 0 0 1 0 0 3
-Validated: 98305
+Validated: 32769
 EndChar

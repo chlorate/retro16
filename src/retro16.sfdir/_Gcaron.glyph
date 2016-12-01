@@ -2,12 +2,12 @@ StartChar: Gcaron
 Encoding: 486 486 286
 Width: 512
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 64<154.08 384> 255 65<256 384> 512 64<154.08 448> 639 193
 VStem: 64 64<89.5488 486.451> 96 320 384 64<64 255>
 LayerCount: 2
 Fore
 Refer: 209 711 N 1 0 0 1 32 192 2
 Refer: 36 71 N 1 0 0 1 0 0 3
-Validated: 98305
+Validated: 32769
 EndChar
