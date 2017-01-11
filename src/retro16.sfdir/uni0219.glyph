@@ -2,7 +2,7 @@ StartChar: uni0219
 Encoding: 537 537 296
 Width: 448
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -193 128<160 224> -4 65<144.599 291.654> 256.5 63.5<130.836 292.129> 384 64<130.836 352>
 VStem: 64 64<74.4131 128 328.865 375.135> 160 128<-193 -65> 320 64<90.1113 228.971>
 CounterMasks: 1 0e
@@ -10,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 74 44 N 1 0 0 1 96 -193 2
 Refer: 17 115 N 1 0 0 1 0 0 3
-Validated: 32769
 EndChar
