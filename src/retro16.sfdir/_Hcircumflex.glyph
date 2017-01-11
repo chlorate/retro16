@@ -2,7 +2,7 @@ StartChar: Hcircumflex
 Encoding: 292 292 204
 Width: 512
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<64 128 384 448> 255 65<128 384> 556 20G<64 128 384 448> 644 193
 VStem: 64 64<0 255 320 576> 96 320 384 64<0 255 320 576>
 LayerCount: 2

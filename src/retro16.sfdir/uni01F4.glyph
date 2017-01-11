@@ -2,7 +2,7 @@ StartChar: uni01F4
 Encoding: 500 500 291
 Width: 512
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 64<154.08 384> 255 65<256 384> 512 64<154.08 448> 639 193
 VStem: 64 64<89.5488 486.451> 160 192 384 64<64 255>
 CounterMasks: 1 0e
