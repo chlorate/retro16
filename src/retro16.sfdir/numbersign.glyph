@@ -2,41 +2,18 @@ StartChar: numbersign
 Encoding: 35 35 73
 Width: 576
 Flags: W
-HStem: 0 21G<64 135.559 236 307.874> 127 65<64 112 202 286 374 448> 384 64<128 202 290 374 462 512> 556 20G<268.188 340 440.188 512>
+HStem: 0 21G<64 135.559 236 307.874> 0 21G<64 135.559 236 307.874> 127 65<64 112 202 286 374 448> 384 64<128 202 290 374 462 512>
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 13
- 3
- 0
-CALL
-PUSHB_1
- 17
-SHP[rp1]
-PUSHB_3
- 11
- 2
- 0
-CALL
-PUSHB_2
- 15
- 19
-SHP[rp1]
-SHP[rp1]
-PUSHB_1
- 10
-MDRP[min,rnd,black]
-PUSHB_2
- 1
- 21
-SHP[rp2]
-SHP[rp2]
 PUSHB_1
  4
 MDAP[rnd]
 PUSHB_1
  27
 SHP[rp1]
+PUSHB_1
+ 4
+MDAP[rnd]
 PUSHB_1
  6
 MDAP[rnd]
@@ -52,6 +29,36 @@ PUSHB_2
  0
  23
 SHP[rp2]
+SHP[rp2]
+PUSHB_1
+ 10
+MDAP[rnd]
+PUSHB_2
+ 1
+ 21
+SHP[rp1]
+SHP[rp1]
+PUSHB_1
+ 11
+MDRP[min,rnd,black]
+PUSHB_2
+ 15
+ 19
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 11
+ 10
+ 10
+CALL
+PUSHB_4
+ 64
+ 11
+ 13
+ 9
+CALL
+PUSHB_1
+ 17
 SHP[rp2]
 SVTCA[x-axis]
 PUSHB_1

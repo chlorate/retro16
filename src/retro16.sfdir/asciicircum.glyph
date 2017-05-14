@@ -7,17 +7,15 @@ HStem: 447 193
 VStem: 64 320
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 1
- 4
- 0
-CALL
 PUSHB_1
  5
-MDRP[min,rnd,black]
+MDAP[rnd]
 PUSHB_1
  3
-SHP[rp2]
+SHP[rp1]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
  6

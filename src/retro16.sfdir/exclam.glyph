@@ -14,11 +14,6 @@ CALL
 PUSHB_1
  1
 MDRP[min,rnd,black]
-PUSHB_3
- 5
- 4
- 0
-CALL
 SVTCA[x-axis]
 PUSHB_1
  8
@@ -43,14 +38,6 @@ PUSHB_2
  1
 CALL
 SVTCA[y-axis]
-PUSHB_2
- 5
- 1
-SRP1
-SRP2
-PUSHB_1
- 4
-IP
 IUP[y]
 IUP[x]
 EndTTInstrs

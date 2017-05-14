@@ -6,13 +6,11 @@ HStem: 447 193<64 128>
 VStem: 64 64<447 640>
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 1
- 4
- 0
-CALL
 PUSHB_1
  0
+MDAP[rnd]
+PUSHB_1
+ 1
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1

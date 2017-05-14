@@ -14,13 +14,11 @@ CALL
 PUSHB_1
  0
 MDRP[min,rnd,black]
-PUSHB_3
- 1
- 4
- 0
-CALL
 PUSHB_1
  4
+MDAP[rnd]
+PUSHB_1
+ 1
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
