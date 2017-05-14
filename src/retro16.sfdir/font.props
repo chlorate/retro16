@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1494797014
+ModificationTime: 1494797245
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -788,6 +788,8 @@ WinInfo: 0 15 11
 BeginPrivate: 0
 EndPrivate
 Grid
+-62 -176 m 25
+ 489 -176 l 1053
 -79 351 m 25
  -63 351 l 1049
 -68 354 m 25
