@@ -3,8 +3,8 @@ FontName: Retro16
 FullName: Retro16
 FamilyName: Retro16
 Weight: Regular
-Copyright: 2012-2016 @chlorate_
-Version: 2.1.0
+Copyright: 2012-2017 @chlorate_
+Version: 2.2.0
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1494724528
+ModificationTime: 1494724675
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
