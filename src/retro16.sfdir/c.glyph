@@ -3,92 +3,106 @@ Encoding: 99 99 10
 Width: 448
 VWidth: 0
 Flags: W
-HStem: 0 64<141.141 186 264 315.265> 360 64<141.141 186 264 318.383>
-VStem: 54 64<86.7773 183 251 338.471> 330 64<77.376 132 302 349.537>
+HStem: 0 64<134.171 315.265> 360 64<134.171 318.383>
+VStem: 44 64<90.4724 334.628> 330 64<77.376 132 302 349.537>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 14
- 1
+ 16
+ 2
  0
 CALL
 PUSHB_1
- 21
+ 23
 MDRP[min,rnd,black]
 PUSHB_3
+ 23
+ 16
+ 10
+CALL
+PUSHB_4
+ 64
+ 23
+ 19
  9
- 2
+CALL
+PUSHB_3
+ 11
+ 1
  0
 CALL
 PUSHB_1
- 2
+ 4
 MDRP[min,rnd,black]
+PUSHB_3
+ 4
+ 11
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 8
+ 9
+CALL
 SVTCA[x-axis]
 PUSHB_1
- 24
+ 25
 MDAP[rnd]
 PUSHB_1
- 12
+ 13
 MDRP[rp0,rnd,white]
 PUSHB_1
- 23
+ 2
 MDRP[min,rnd,black]
 PUSHB_1
- 23
+ 0
+SHP[rp2]
+PUSHB_1
+ 2
 SRP0
 PUSHB_2
- 18
+ 7
  1
 CALL
 PUSHB_1
- 5
+ 20
 SHP[rp2]
 PUSHB_1
- 17
+ 8
 MDRP[min,rnd,black]
 PUSHB_1
- 6
+ 19
 SHP[rp2]
 PUSHB_2
- 25
+ 26
  1
 CALL
 SVTCA[y-axis]
-PUSHB_2
- 2
- 21
-SRP1
-SRP2
-PUSHB_3
- 5
- 6
- 17
-IP
-IP
-IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 227 425 basechar 0
+AnchorPoint: "bottom" 224 0 basechar 0
+AnchorPoint: "top" 224 423 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-118 251 m 6,0,1
- 118 360 118 360 186 360 c 6,2,-1
- 264 360 l 6,3,4
- 330 360 330 360 330 302 c 5,5,-1
- 394 302 l 5,6,7
- 394 424 394 424 265 424 c 6,8,-1
- 186 424 l 6,9,10
- 54 424 54 424 54 251 c 6,11,-1
- 54 183 l 2,12,13
- 54 0 54 0 186 0 c 2,14,-1
- 265 0 l 2,15,16
- 394 0 394 0 394 132 c 1,17,-1
- 330 132 l 1,18,19
- 330 64 330 64 264 64 c 2,20,-1
- 186 64 l 2,21,22
- 118 64 118 64 118 183 c 2,23,-1
- 118 251 l 6,0,1
+108 251 m 2,0,1
+ 108 183 l 2,2,3
+ 108 64 108 64 186 64 c 2,4,-1
+ 264 64 l 2,5,6
+ 330 64 330 64 330 132 c 1,7,-1
+ 394 132 l 1,8,9
+ 394 0 394 0 265 0 c 2,10,-1
+ 186 0 l 2,11,12
+ 44 0 44 0 44 183 c 2,13,-1
+ 44 251 l 2,14,15
+ 44 424 44 424 186 424 c 2,16,-1
+ 265 424 l 2,17,18
+ 394 424 394 424 394 302 c 1,19,-1
+ 330 302 l 1,20,21
+ 330 360 330 360 264 360 c 2,22,-1
+ 186 360 l 2,23,24
+ 108 360 108 360 108 251 c 2,0,1
 EndSplineSet
 EndChar

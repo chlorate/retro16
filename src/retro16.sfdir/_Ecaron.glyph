@@ -1,12 +1,12 @@
 StartChar: Ecaron
-Encoding: 282 282 197
+Encoding: 282 282 196
 Width: 512
 VWidth: 0
-Flags: W
-HStem: 0 64<128 448> 259 65<128 384> 512 64<128 448> 639 193
-VStem: 64 64<64 259 324 512> 97 320
+Flags: HW
+HStem: 0 64<118 458> 263 64<118 384> 509 64<118 458> 636.977 192
+VStem: 54 64<64 263 327 509> 86 340
 LayerCount: 2
 Fore
-Refer: 209 711 N 1 0 0 1 33 192 2
+Refer: 208 711 N 1 0 0 1 32 212.977 2
 Refer: 33 69 N 1 0 0 1 0 0 3
 EndChar

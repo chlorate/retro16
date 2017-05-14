@@ -8,14 +8,6 @@ VStem: 54 64<111.636 424> 330 64<110.019 424>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 4
- 1
- 0
-CALL
-PUSHB_1
- 10
-MDRP[min,rnd,black]
-PUSHB_3
  6
  2
  0
@@ -23,6 +15,14 @@ CALL
 PUSHB_1
  0
 SHP[rp1]
+PUSHB_3
+ 4
+ 1
+ 0
+CALL
+PUSHB_1
+ 10
+MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
  12
@@ -51,7 +51,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "bottom" 224 5 basechar 0
+AnchorPoint: "bottom" 224 0 basechar 0
 AnchorPoint: "top" 224 424 basechar 0
 LayerCount: 2
 Fore

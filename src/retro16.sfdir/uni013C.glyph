@@ -1,10 +1,10 @@
 StartChar: uni013C
-Encoding: 316 316 218
+Encoding: 316 316 217
 Width: 192
 VWidth: 0
 Flags: W
-HStem: -189 128<32 96> 0 21G<64 128> 620 20G<64 128>
-VStem: 32 128<-189 -61> 64 64<0 640>
+HStem: -189 128<32 96> 0 21G<64 128 64 128> 596 20G<64 128>
+VStem: 32 128<-189 -61> 64 64<0 616>
 LayerCount: 2
 Fore
 Refer: 74 44 N 1 0 0 1 -32 -189 2

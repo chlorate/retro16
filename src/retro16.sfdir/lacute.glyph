@@ -1,12 +1,12 @@
 StartChar: lacute
-Encoding: 314 314 216
+Encoding: 314 314 215
 Width: 192
 VWidth: 0
 Flags: W
-HStem: 0 21G<64 128> 620 20G<64 128> 711 193
-VStem: 48 192 64 64<0 640>
+HStem: 0 21G<64 128 64 128> 596 20G<64 128> 677 192
+VStem: 48 212 64 64<0 616>
 LayerCount: 2
 Fore
-Refer: 95 180 N 1 0 0 1 -16 264 2
+Refer: 95 180 N 1 0 0 1 -6 253 2
 Refer: 5 108 N 1 0 0 1 0 0 3
 EndChar

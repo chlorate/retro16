@@ -3,19 +3,21 @@ Encoding: 94 94 83
 Width: 448
 GlyphClass: 2
 Flags: W
-HStem: 447 193
-VStem: 64 320
+HStem: 424 192
+VStem: 54 340
 TtInstrs:
 SVTCA[y-axis]
+PUSHB_3
+ 1
+ 4
+ 0
+CALL
 PUSHB_1
  5
-MDAP[rnd]
+MDRP[min,rnd,black]
 PUSHB_1
  3
-SHP[rp1]
-PUSHB_1
- 1
-MDRP[min,rnd,black]
+SHP[rp2]
 SVTCA[x-axis]
 PUSHB_1
  6
@@ -42,17 +44,16 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 224 384.023 mark 0
+AnchorPoint: "top" 224 360.023 mark 0
 LayerCount: 2
 Fore
 SplineSet
-64 495 m 1,0,-1
- 224 640 l 1,1,-1
- 384 495 l 1,2,-1
- 336 447 l 1,3,-1
- 224 550 l 1,4,-1
- 112 447 l 1,5,-1
- 64 495 l 1,0,-1
+54 471 m 1,0,-1
+ 224 616 l 1,1,-1
+ 394 471 l 1,2,-1
+ 350 424 l 1,3,-1
+ 224 536 l 1,4,-1
+ 96 424 l 1,5,-1
+ 54 471 l 1,0,-1
 EndSplineSet
-Validated: 19457
 EndChar

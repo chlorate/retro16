@@ -3,8 +3,86 @@ Encoding: 75 75 40
 Width: 512
 VWidth: 0
 Flags: W
-HStem: 0 21G<54 118 394 458> 0 21G<54 118 394 458> 265 65<118 303.039> 563 20G<54 118 394 458>
-VStem: 54 64<0 265 330 583> 394 64<0 162.031 402.42 583>
+HStem: 0 21G<54 118 389 458> 0 21G<54 118 389 458> 263 64<118 292.836> 553 20G<54 118 389 458>
+VStem: 54 64<0 263 327 573> 394 64<0 132.977 448.619 573>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 3
+ 3
+ 0
+CALL
+PUSHB_1
+ 8
+SHP[rp1]
+PUSHB_1
+ 2
+MDAP[rnd]
+PUSHB_1
+ 13
+SHP[rp1]
+PUSHB_1
+ 2
+MDAP[rnd]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 5
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 17
+MDAP[rnd]
+PUSHB_1
+ 2
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 4
+SHP[rp2]
+PUSHB_1
+ 1
+SRP0
+PUSHB_2
+ 14
+ 1
+CALL
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SHP[rp2]
+PUSHB_2
+ 18
+ 1
+CALL
+PUSHB_2
+ 14
+ 1
+SRP1
+SRP2
+PUSHB_1
+ 11
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 5
+ 0
+SRP1
+SRP2
+PUSHB_1
+ 11
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

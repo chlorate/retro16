@@ -2,10 +2,18 @@ StartChar: bracketleft
 Encoding: 91 91 78
 Width: 320
 Flags: W
-HStem: -65 65<128 256> 575 65<128 256>
-VStem: 64 192<-65 0 575 640> 64 64<0 575>
+HStem: -65 65<118 266> 573 65<118 266>
+VStem: 54 212<-65 0 573 638> 54 64<0 573>
 TtInstrs:
 SVTCA[y-axis]
+PUSHB_3
+ 4
+ 3
+ 0
+CALL
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
 PUSHB_3
  5
  1
@@ -13,12 +21,6 @@ PUSHB_3
 CALL
 PUSHB_1
  0
-MDRP[min,rnd,black]
-PUSHB_1
- 4
-MDAP[rnd]
-PUSHB_1
- 1
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
@@ -53,15 +55,14 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-64 -65 m 1,0,-1
- 64 640 l 1,1,-1
- 256 640 l 1,2,-1
- 256 575 l 1,3,-1
- 128 575 l 1,4,-1
- 128 0 l 1,5,-1
- 256 0 l 1,6,-1
- 256 -65 l 1,7,-1
- 64 -65 l 1,0,-1
+54 -65 m 1,0,-1
+ 54 638 l 1,1,-1
+ 266 638 l 1,2,-1
+ 266 573 l 1,3,-1
+ 118 573 l 1,4,-1
+ 118 0 l 1,5,-1
+ 266 0 l 1,6,-1
+ 266 -65 l 1,7,-1
+ 54 -65 l 1,0,-1
 EndSplineSet
-Validated: 19457
 EndChar

@@ -3,38 +3,65 @@ Encoding: 113 113 16
 Width: 448
 VWidth: 0
 Flags: W
-HStem: 0 64<158.37 225> 360 64<158.37 225>
-VStem: 54 64<105.165 201 223 318.835>
+HStem: 0 64<150.099 330> 360 64<150.099 330>
+VStem: 44 64<106.783 317.217> 330 64<-192 0 64 360>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 13
+ 9
+ 2
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_3
+ 14
  1
  0
 CALL
 PUSHB_1
  0
 MDRP[min,rnd,black]
-PUSHB_3
- 8
- 2
- 0
-CALL
 PUSHB_1
- 5
-MDRP[min,rnd,black]
+ 2
+SHP[rp2]
+PUSHB_3
+ 14
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 14
+ 12
+ 9
+CALL
 SVTCA[x-axis]
 PUSHB_1
- 18
+ 19
 MDAP[rnd]
 PUSHB_1
- 11
+ 16
 MDRP[rp0,rnd,white]
 PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 7
+SRP0
+PUSHB_2
+ 12
+ 1
+CALL
+PUSHB_1
  2
+SHP[rp2]
+PUSHB_1
+ 11
 MDRP[min,rnd,black]
 PUSHB_2
- 19
+ 20
  1
 CALL
 SVTCA[y-axis]
@@ -45,20 +72,20 @@ LayerCount: 2
 Fore
 SplineSet
 225 64 m 2,0,1
- 118 64 118 64 118 201 c 2,2,-1
- 118 223 l 2,3,4
- 118 360 118 360 225 360 c 2,5,-1
- 330 360 l 1,6,-1
- 330 64 l 1,7,-1
- 225 64 l 2,0,1
-225 424 m 2,8,9
- 54 424 54 424 54 229 c 2,10,-1
- 54 195 l 2,11,12
- 54 0 54 0 225 0 c 2,13,-1
- 330 0 l 1,14,-1
- 330 -192 l 1,15,-1
- 394 -192 l 1,16,-1
- 394 424 l 1,17,-1
- 225 424 l 2,8,9
+ 330 64 l 1,2,-1
+ 330 360 l 1,3,-1
+ 225 360 l 2,4,5
+ 108 360 108 360 108 226 c 2,6,-1
+ 108 198 l 2,7,8
+ 108 64 108 64 225 64 c 2,0,1
+225 424 m 2,9,-1
+ 394 424 l 1,10,-1
+ 394 -192 l 1,11,-1
+ 330 -192 l 1,12,-1
+ 330 0 l 1,13,-1
+ 225 0 l 2,14,15
+ 44 0 44 0 44 198 c 2,16,-1
+ 44 226 l 2,17,18
+ 44 424 44 424 225 424 c 2,9,-1
 EndSplineSet
 EndChar

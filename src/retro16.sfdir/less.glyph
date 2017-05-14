@@ -13,12 +13,22 @@ PUSHB_1
  1
 MDRP[rp0,rnd,white]
 PUSHB_1
- 3
+ 5
 MDRP[min,rnd,black]
 PUSHB_2
  7
  1
 CALL
+PUSHB_2
+ 5
+ 1
+SRP1
+SRP2
+PUSHB_2
+ 3
+ 4
+IP
+IP
 SVTCA[y-axis]
 IUP[y]
 IUP[x]
@@ -27,12 +37,11 @@ LayerCount: 2
 Fore
 SplineSet
 246 64 m 1,0,-1
- 44 288 l 1,1,-1
- 246 512 l 1,2,-1
- 330 512 l 1,3,-1
- 128 288 l 1,4,-1
+ 44 286 l 1,1,-1
+ 246 509 l 1,2,-1
+ 330 509 l 1,3,-1
+ 128 286 l 1,4,-1
  330 64 l 1,5,-1
  246 64 l 1,0,-1
 EndSplineSet
-Validated: 19457
 EndChar

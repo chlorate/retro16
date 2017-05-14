@@ -1,11 +1,11 @@
 StartChar: macron
-Encoding: 175 175 153
+Encoding: 175 175 152
 Width: 448
 VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 576 64<64 384>
-VStem: 64 320<576 640>
+HStem: 552 64<54 394>
+VStem: 54 340<552 616>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -45,15 +45,14 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 224 512.021 mark 0
+AnchorPoint: "top" 224 488.021 mark 0
 LayerCount: 2
 Fore
 SplineSet
-64 640 m 25,0,-1
- 384 640 l 1,1,-1
- 384 575 l 1,2,-1
- 64 576 l 1,3,-1
- 64 640 l 25,0,-1
+54 616 m 25,0,-1
+ 394 616 l 1,1,-1
+ 394 552 l 1,2,-1
+ 54 552 l 1,3,-1
+ 54 616 l 25,0,-1
 EndSplineSet
-Validated: 19457
 EndChar

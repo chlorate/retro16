@@ -2,13 +2,13 @@ StartChar: T
 Encoding: 84 84 47
 Width: 576
 Flags: W
-HStem: 0 21G<256 320> 0 21G<256 320> 519 64<54 256 320 522>
-VStem: 256 64<0 519>
+HStem: 0 21G<256 320> 0 21G<256 320> 509 64<54 256 320 522>
+VStem: 256 64<0 509>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
  3
- 4
+ 3
  0
 CALL
 PUSHB_1

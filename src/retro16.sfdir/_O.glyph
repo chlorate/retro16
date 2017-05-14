@@ -3,26 +3,86 @@ Encoding: 79 79 42
 Width: 512
 VWidth: 0
 Flags: W
-HStem: -1 65<177.361 334.639> 518 65<179.852 332.148>
-VStem: 54 64<133.44 447.446> 394 64<135.125 445.188>
+HStem: 0 64<176.716 335.284> 509 64<176.716 335.284>
+VStem: 44 64<145.613 427.387> 404 64<145.613 427.387>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 17
+ 3
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_3
+ 13
+ 1
+ 0
+CALL
+PUSHB_1
+ 8
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 6
+MDRP[min,rnd,black]
+PUSHB_1
+ 6
+SRP0
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_1
+ 2
+SHP[rp2]
+PUSHB_1
+ 11
+MDRP[min,rnd,black]
+PUSHB_1
+ 9
+SHP[rp2]
+PUSHB_2
+ 19
+ 1
+CALL
+SVTCA[y-axis]
+PUSHB_2
+ 4
+ 8
+SRP1
+SRP2
+PUSHB_1
+ 9
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 AnchorPoint: "top" 256 573 basechar 0
 AnchorPoint: "bottom" 256 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-394 270 m 2,0,1
- 394 64 394 64 256 64 c 128,-1,2
- 118 64 118 64 118 270 c 2,3,-1
- 118 303 l 2,4,5
- 118 509 118 509 256 509 c 128,-1,6
- 394 509 394 509 394 303 c 2,7,-1
- 394 270 l 2,0,1
-458 303 m 2,8,9
- 458 573 458 573 256 573 c 128,-1,10
- 54 573 54 573 54 303 c 2,11,-1
- 54 270 l 2,12,13
- 54 0 54 0 256 0 c 128,-1,14
- 458 0 458 0 458 270 c 2,15,-1
- 458 303 l 2,8,9
+404 270 m 2,0,1
+ 404 303 l 2,2,3
+ 404 509 404 509 256 509 c 128,-1,4
+ 108 509 108 509 108 303 c 2,5,-1
+ 108 270 l 2,6,7
+ 108 64 108 64 256 64 c 128,-1,8
+ 404 64 404 64 404 270 c 2,0,1
+468 303 m 2,9,10
+ 468 270 l 2,11,12
+ 468 0 468 0 256 0 c 128,-1,13
+ 44 0 44 0 44 270 c 2,14,-1
+ 44 303 l 2,15,16
+ 44 573 44 573 256 573 c 128,-1,17
+ 468 573 468 573 468 303 c 2,9,10
 EndSplineSet
 EndChar

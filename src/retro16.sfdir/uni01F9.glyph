@@ -1,12 +1,12 @@
 StartChar: uni01F9
-Encoding: 505 505 294
+Encoding: 505 505 293
 Width: 448
 VWidth: 0
 Flags: W
-HStem: 0 21G<64 128 320 384> 384 64<128 292.688> 520 193
-VStem: 64 64<0 384> 80 192 320 64<0 357.197>
+HStem: 0 21G<54 118 54 118 330 394 330 394> 360 64<118 289.02> 485 192
+VStem: 54 64<0 360> 60 212 330 64<0 315.514>
 LayerCount: 2
 Fore
-Refer: 84 96 N 1 0 0 1 16 73 2
+Refer: 84 96 N 1 0 0 1 6 61 2
 Refer: 0 110 N 1 0 0 1 0 0 3
 EndChar

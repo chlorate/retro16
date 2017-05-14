@@ -3,10 +3,29 @@ Encoding: 67 67 30
 Width: 512
 VWidth: 0
 Flags: W
-HStem: 0 64<157.132 375.344> 519 64<157.132 375.344>
-VStem: 54 64<106.243 476.757> 394 64<85.7263 135 448 497.274>
+HStem: 0 64<157.132 375.344> 509 64<157.132 375.344>
+VStem: 54 64<106.243 466.757> 394 64<85.7263 135 438 487.274>
 TtInstrs:
 SVTCA[y-axis]
+PUSHB_3
+ 16
+ 3
+ 0
+CALL
+PUSHB_1
+ 23
+MDRP[min,rnd,black]
+PUSHB_3
+ 23
+ 16
+ 10
+CALL
+PUSHB_4
+ 64
+ 23
+ 19
+ 9
+CALL
 PUSHB_3
  11
  1
@@ -24,25 +43,6 @@ PUSHB_4
  64
  4
  8
- 9
-CALL
-PUSHB_3
- 16
- 4
- 0
-CALL
-PUSHB_1
- 23
-MDRP[min,rnd,black]
-PUSHB_3
- 23
- 16
- 10
-CALL
-PUSHB_4
- 64
- 23
- 19
  9
 CALL
 SVTCA[x-axis]
@@ -82,7 +82,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 256 569 basechar 0
+AnchorPoint: "bottom" 256 0 basechar 0
+AnchorPoint: "top" 256 573 basechar 0
 LayerCount: 2
 Fore
 SplineSet

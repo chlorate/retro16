@@ -2,8 +2,8 @@ StartChar: hyphen
 Encoding: 45 45 59
 Width: 448
 Flags: W
-HStem: 256 64<64 384>
-VStem: 64 320<256 320>
+HStem: 263 64<54 394>
+VStem: 54 340<263 327>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -39,10 +39,10 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-64 256 m 1,0,-1
- 64 320 l 1,1,-1
- 384 320 l 1,2,-1
- 384 256 l 1,3,-1
- 64 256 l 1,0,-1
+54 263 m 1,0,-1
+ 54 327 l 1,1,-1
+ 394 327 l 1,2,-1
+ 394 263 l 1,3,-1
+ 54 263 l 1,0,-1
 EndSplineSet
 EndChar

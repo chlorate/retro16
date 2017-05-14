@@ -57,14 +57,14 @@ PUSHB_1
 SRP0
 PUSHB_2
  1
- 7
+ 6
 MIRP[rp0,min,black]
 PUSHB_1
  2
 SRP0
 PUSHB_2
  6
- 7
+ 6
 MIRP[rp0,min,black]
 PUSHW_3
  15567
@@ -83,7 +83,7 @@ PUSHB_1
 SRP0
 PUSHB_2
  4
- 8
+ 7
 MIRP[rp0,min,black]
 PUSHB_2
  1
@@ -94,7 +94,7 @@ PUSHB_1
 SRP0
 PUSHB_2
  2
- 8
+ 7
 MIRP[rp0,min,black]
 SVTCA[y-axis]
 PUSHB_1
