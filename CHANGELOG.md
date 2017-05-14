@@ -1,13 +1,15 @@
 Changelog
 =========
 
-3.1.0
------
+2.1.0 (2017-01-13)
+------------------
 
 * Fix 11pt being pixel-perfect instead of 12pt.
 * Change em size to 1024 (should be a power of 2 for TTF).
+* Various kerning changes.
+* Tweaks for larger sizes.
 
-3.0.0 (2016-08-02)
+2.0.0 (2016-08-02)
 ------------------
 
 * Change em size to 960 and fix vertical centring.
