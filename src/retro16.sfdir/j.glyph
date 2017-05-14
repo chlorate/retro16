@@ -2,7 +2,7 @@ StartChar: j
 Encoding: 106 106 21
 Width: 320
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -176 64<0 154.398> 404 20G<192 256> 522 94<192 256>
 VStem: 192 64<-72.6797 424 522 616>
 TtInstrs:
