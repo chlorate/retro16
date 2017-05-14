@@ -1,7 +1,7 @@
 StartChar: bar
 Encoding: 124 124 82
 Width: 192
-Flags: W
+Flags: WO
 VStem: 64 64<-193 768>
 TtInstrs:
 SVTCA[y-axis]
