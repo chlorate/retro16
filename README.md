@@ -1,6 +1,8 @@
 Retro16 font
 ============
 
+![Sample text](sample.png)
+
 Development
 -----------
 
