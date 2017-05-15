@@ -6,7 +6,7 @@ Changelog
 
 * Simplified curves.
 * Hint with `ttfautohint`. 14pt to 20pt look better.
-* `/`, `\\`: shorten, taller.
+* `/`, `\`: shorten, taller.
 * `$`, `%`, `w`: widen.
 
 2.1.0 (2017-01-13)
