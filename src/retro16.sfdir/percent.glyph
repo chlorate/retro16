@@ -7,46 +7,65 @@ VStem: 54 55<430.847 520.774> 213 54<430.729 520.689> 374 55<52.4034 142.926> 53
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 6
+ 25
  3
  0
 CALL
 PUSHB_1
- 25
-SHP[rp1]
+ 6
+DUP
+MDRP[rp0,rnd,white]
+SRP1
 PUSHB_1
  0
 MDRP[min,rnd,black]
 PUSHB_3
- 22
+ 2
+ 2
+ 0
+CALL
+PUSHB_1
+ 10
+MDRP[min,rnd,black]
+PUSHB_3
+ 14
  1
  0
 CALL
 PUSHB_1
- 24
-SHP[rp1]
-PUSHB_1
- 14
+ 22
 MDRP[min,rnd,black]
+PUSHB_3
+ 24
+ 0
+ 0
+CALL
+PUSHB_4
+ 24
+ 22
+ 14
+ 8
+CALL
+PUSHB_1
+ 22
+DUP
+MDRP[rp0,rnd,white]
+SRP1
+PUSHB_4
+ 24
+ 22
+ 14
+ 8
+CALL
 PUSHB_5
  12
  18
  22
- 6
+ 2
  13
 CALL
 PUSHB_1
  12
-MDRP[min,rnd,black]
-PUSHB_5
- 2
- 10
- 22
- 6
- 13
-CALL
-PUSHB_1
- 2
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
@@ -121,7 +140,7 @@ IP
 SVTCA[y-axis]
 PUSHB_2
  12
- 14
+ 24
 SRP1
 SRP2
 PUSHB_2
