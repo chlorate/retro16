@@ -1,48 +1,17 @@
 StartChar: greater
 Encoding: 62 62 69
-Width: 384
+Width: 480
+VWidth: 1280
 Flags: W
-VStem: 54 286
-TtInstrs:
-SVTCA[y-axis]
-SVTCA[x-axis]
-PUSHB_1
- 6
-MDAP[rnd]
-PUSHB_1
- 1
-MDRP[rp0,rnd,white]
-PUSHB_1
- 3
-SHP[rp2]
-PUSHB_1
- 5
-MDRP[min,rnd,black]
-PUSHB_2
- 7
- 1
-CALL
-PUSHB_2
- 5
- 1
-SRP1
-SRP2
-PUSHB_1
- 2
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-138 64 m 1,0,-1
- 54 64 l 1,1,-1
- 256 286 l 1,2,-1
- 54 509 l 1,3,-1
- 138 509 l 1,4,-1
- 340 286 l 1,5,-1
- 138 64 l 1,0,-1
+172 80 m 1,0,-1
+ 68 80 l 1,1,-1
+ 320 358 l 1,2,-1
+ 68 636 l 1,3,-1
+ 172 636 l 1,4,-1
+ 425 358 l 1,5,-1
+ 172 80 l 1,0,-1
 EndSplineSet
 EndChar

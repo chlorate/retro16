@@ -1,10 +1,11 @@
 StartChar: grave
 Encoding: 96 96 84
-Width: 320
+Width: 400
+VWidth: 1280
 GlyphClass: 2
 Flags: W
-HStem: 424 192
-VStem: 54 212
+HStem: 530 240
+VStem: 68 264
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -33,14 +34,14 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 160 360 mark 0
+AnchorPoint: "top" 200 450 mark 0
 LayerCount: 2
 Fore
 SplineSet
-218 424 m 1,0,-1
- 54 568 l 1,1,-1
- 102 616 l 1,2,-1
- 266 471 l 1,3,-1
- 218 424 l 1,0,-1
+272 530 m 1,0,-1
+ 68 710 l 1,1,-1
+ 128 770 l 1,2,-1
+ 332 589 l 1,3,-1
+ 272 530 l 1,0,-1
 EndSplineSet
 EndChar

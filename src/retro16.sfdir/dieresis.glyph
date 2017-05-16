@@ -1,10 +1,11 @@
 StartChar: dieresis
 Encoding: 168 168 110
-Width: 320
+Width: 400
+VWidth: 1280
 GlyphClass: 2
 Flags: W
-HStem: 551 65<54 118 202 266>
-VStem: 54 64<551 616> 202 64<551 616>
+HStem: 689 81<68 148 252 332>
+VStem: 68 80<689 770> 252 80<689 770>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -57,19 +58,19 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 160 512.084 mark 0
+AnchorPoint: "top" 200 640 mark 0
 LayerCount: 2
 Fore
 SplineSet
-54 551 m 1,0,-1
- 54 616 l 1,1,-1
- 118 616 l 1,2,-1
- 118 551 l 1,3,-1
- 54 551 l 1,0,-1
-202 551 m 1,4,-1
- 202 616 l 1,5,-1
- 266 616 l 1,6,-1
- 266 551 l 1,7,-1
- 202 551 l 1,4,-1
+68 689 m 1,0,-1
+ 68 770 l 1,1,-1
+ 148 770 l 1,2,-1
+ 148 689 l 1,3,-1
+ 68 689 l 1,0,-1
+252 689 m 1,4,-1
+ 252 770 l 1,5,-1
+ 332 770 l 1,6,-1
+ 332 689 l 1,7,-1
+ 252 689 l 1,4,-1
 EndSplineSet
 EndChar

@@ -1,9 +1,9 @@
 StartChar: v
 Encoding: 118 118 19
-Width: 448
+Width: 560
 VWidth: 0
 Flags: W
-HStem: 0 21G<180.255 268.698> 0 21G<180.255 268.698> 404 20G<44 118.493 329.507 404>
+HStem: 0 21G<227.245 334.679> 0 21G<227.245 334.679> 510 20G<55 146.497 413.503 505>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -40,7 +40,7 @@ PUSHB_1
 SMD
 PUSHW_3
  -15583
- -5059
+ -5062
  21
 CALL
 SPVFS
@@ -68,7 +68,7 @@ PUSHB_2
 MIRP[rp0,min,black]
 PUSHW_3
  15583
- -5059
+ -5062
  21
 CALL
 SPVFS
@@ -127,13 +127,13 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-44 424 m 1,0,-1
- 112 424 l 1,1,-1
- 224 79 l 1,2,-1
- 336 424 l 1,3,-1
- 404 424 l 1,4,-1
- 262 0 l 1,5,-1
- 187 0 l 1,6,-1
- 44 424 l 1,0,-1
+55 530 m 1,0,-1
+ 140 530 l 1,1,-1
+ 280 99 l 1,2,-1
+ 420 530 l 1,3,-1
+ 505 530 l 1,4,-1
+ 328 0 l 1,5,-1
+ 234 0 l 1,6,-1
+ 55 530 l 1,0,-1
 EndSplineSet
 EndChar
