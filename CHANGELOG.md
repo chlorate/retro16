@@ -5,9 +5,11 @@ Changelog
 -----
 
 * Simplified curves.
+* Scale outlines up so point sizes aren't smaller than most standard fonts.
 * Hint with `ttfautohint`. 14pt to 20pt look better.
 * `/`, `\`: shorten, taller.
 * `$`, `%`, `w`: widen.
+* Various outline and kerning tweaks.
 
 2.1.0 (2017-01-13)
 ------------------
