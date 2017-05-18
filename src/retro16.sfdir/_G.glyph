@@ -8,20 +8,20 @@ VStem: 68 80<136.819 579.181> 492 80<80 329>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 19
- 3
- 0
-CALL
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_3
  14
  1
  0
 CALL
 PUSHB_1
  7
+MDRP[min,rnd,black]
+PUSHB_3
+ 19
+ 3
+ 0
+CALL
+PUSHB_1
+ 2
 MDRP[min,rnd,black]
 PUSHB_5
  11

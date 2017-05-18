@@ -8,6 +8,22 @@ VStem: 640 80<80 636> 800 80<80 636>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
+ 18
+ 1
+ 0
+CALL
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_4
+ 0
+ 8
+ 15
+ 20
+DEPTH
+SLOOP
+SHP[rp2]
+PUSHB_3
  11
  3
  0
@@ -22,22 +38,6 @@ PUSHB_6
  9
  13
  19
-DEPTH
-SLOOP
-SHP[rp2]
-PUSHB_3
- 18
- 1
- 0
-CALL
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_4
- 0
- 8
- 15
- 20
 DEPTH
 SLOOP
 SHP[rp2]

@@ -9,6 +9,23 @@ CounterMasks: 1 38
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
+ 15
+ 1
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_5
+ 1
+ 5
+ 12
+ 19
+ 24
+DEPTH
+SLOOP
+SHP[rp2]
+PUSHB_3
  8
  3
  0
@@ -24,23 +41,6 @@ PUSHB_7
  17
  22
  23
-DEPTH
-SLOOP
-SHP[rp2]
-PUSHB_3
- 15
- 1
- 0
-CALL
-PUSHB_1
- 4
-MDRP[min,rnd,black]
-PUSHB_5
- 1
- 5
- 12
- 19
- 24
 DEPTH
 SLOOP
 SHP[rp2]

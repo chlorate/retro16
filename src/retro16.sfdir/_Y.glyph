@@ -3,9 +3,9 @@ Encoding: 89 89 50
 Width: 640
 VWidth: 0
 Flags: W
-HStem: 0 21G<280 360> 0 21G<280 360> 696 20G<68 148 492 572>
+HStem: 0 21G<280 360> 696 20G<68 148 492 572>
 VStem: 68 80<554 716> 280 80<0 314> 492 80<554 716>
-CounterMasks: 1 1c
+CounterMasks: 1 38
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -16,9 +16,6 @@ CALL
 PUSHB_1
  3
 SHP[rp1]
-PUSHB_1
- 9
-MDAP[rnd]
 PUSHB_1
  9
 MDAP[rnd]

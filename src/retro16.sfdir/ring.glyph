@@ -62,7 +62,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 200 480 mark 0
+AnchorPoint: "top" 200 450 mark 0
 LayerCount: 2
 Fore
 SplineSet

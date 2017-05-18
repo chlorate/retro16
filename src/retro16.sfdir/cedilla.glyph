@@ -3,15 +3,10 @@ Encoding: 184 184 157
 Width: 478
 VWidth: 1280
 Flags: W
-HStem: -229 81<80 310.596> -20 20G<205 359> -20 20G<205 359>
+HStem: -229 81<80 310.596> -20 20G<205 359>
 VStem: 311 107<-192 -93.0106>
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 11
- 1
- 0
-CALL
 PUSHB_3
  11
  1

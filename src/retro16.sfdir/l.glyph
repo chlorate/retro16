@@ -3,7 +3,7 @@ Encoding: 108 108 5
 Width: 240
 VWidth: 0
 Flags: W
-HStem: 0 21G<80 160> 0 21G<80 160> 750 20G<80 160>
+HStem: 0 21G<80 160> 750 20G<80 160>
 VStem: 80 80<0 770>
 TtInstrs:
 SVTCA[y-axis]
@@ -18,9 +18,6 @@ MDAP[rnd]
 PUSHB_1
  3
 SHP[rp1]
-PUSHB_1
- 0
-MDAP[rnd]
 SVTCA[x-axis]
 PUSHB_1
  5

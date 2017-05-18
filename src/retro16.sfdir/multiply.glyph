@@ -3,6 +3,29 @@ Encoding: 215 215 312
 Width: 560
 VWidth: 0
 Flags: W
+HStem: 516 20G<128 169.27 391.2 432.364>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 3
+ 2
+ 0
+CALL
+PUSHB_1
+ 5
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_2
+ 13
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

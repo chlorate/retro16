@@ -3,10 +3,10 @@ Encoding: 356 356 244
 Width: 720
 VWidth: 0
 Flags: HW
-HStem: 0 21G<320 400 320 400> 636 80<68 320 400 652> 792 240
+HStem: 0 21G<320 400> 636 80<68 320 400 652> 783 240
 VStem: 320 80<0 636>
 LayerCount: 2
 Fore
-Refer: 208 711 N 1 0 0 1 80 262 2
+Refer: 208 711 N 1 0 0 1 80 253 2
 Refer: 47 84 N 1 0 0 1 0 0 3
 EndChar

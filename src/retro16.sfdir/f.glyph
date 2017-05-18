@@ -3,7 +3,7 @@ Encoding: 102 102 14
 Width: 480
 VWidth: 0
 Flags: W
-HStem: 0 21G<160 240> 0 21G<160 240> 370 80<42 160 240 400> 690 80<288.272 455>
+HStem: 0 21G<160 240> 370 80<42 160 240 400> 690 80<288.272 455>
 VStem: 160 80<0 370 450 639.197>
 TtInstrs:
 SVTCA[y-axis]
@@ -15,9 +15,6 @@ CALL
 PUSHB_1
  1
 MDRP[min,rnd,black]
-PUSHB_1
- 9
-MDAP[rnd]
 PUSHB_1
  9
 MDAP[rnd]
