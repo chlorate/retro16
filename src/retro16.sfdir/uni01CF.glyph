@@ -2,7 +2,7 @@ StartChar: uni01CF
 Encoding: 463 463 279
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 80<68 240 320 492> 636 80<68 240 320 492> 796 240
 VStem: 240 80<80 636>
 LayerCount: 2
