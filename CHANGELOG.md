@@ -9,6 +9,7 @@ Changelog
 * Hint with `ttfautohint`. 14pt to 20pt look better.
 * `/`, `\`: shorten, taller.
 * `$`, `%`, `w`: widen.
+* Add `‘`, `’`, `“`, and `”`.
 * Various outline and kerning tweaks.
 
 2.1.0 (2017-01-13)

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1495146506
+ModificationTime: 1495305864
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -774,14 +774,14 @@ EndShort
 LangName: 1033
 GaspTable: 3 8 2 16 1 65535 3 0
 DesignSize: 120
-Encoding: Custom
+Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 21 21 14
+WinInfo: 42 21 14
 BeginPrivate: 0
 EndPrivate
 Grid
