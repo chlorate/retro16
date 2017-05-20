@@ -2,7 +2,7 @@ StartChar: quotedblright
 Encoding: 8221 8221 316
 Width: 480
 VWidth: 1280
-Flags: WO
+Flags: W
 HStem: 629 141<50 130 270 350>
 VStem: 50 160<629 770> 270 160<629 770>
 TtInstrs:

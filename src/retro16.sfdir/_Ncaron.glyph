@@ -2,7 +2,7 @@ StartChar: Ncaron
 Encoding: 327 327 226
 Width: 640
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<68 148 479.514 572> 696 20G<68 160.486 492 572> 795 240
 VStem: 68 80<0 551> 492 80<165 716>
 LayerCount: 2
