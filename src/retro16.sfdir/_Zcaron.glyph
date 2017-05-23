@@ -2,7 +2,7 @@ StartChar: Zcaron
 Encoding: 381 381 259
 Width: 640
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 80<148 572> 636 80<68 492> 783 240
 VStem: 68 80<80 184> 492 80<604 636>
 LayerCount: 2

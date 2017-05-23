@@ -2,7 +2,7 @@ StartChar: ccaron
 Encoding: 269 269 165
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -5 80<172.906 401.763> 455 80<172.906 401.763> 610 240
 VStem: 58 80<114.187 415.813> 422 80<95.4719 152 378 434.528>
 LayerCount: 2
