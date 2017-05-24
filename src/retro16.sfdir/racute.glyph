@@ -4,9 +4,9 @@ Width: 480
 VWidth: 0
 Flags: W
 HStem: 0 21G<68 148> 450 80<234.104 422> 596 240
-VStem: 68 80<0 374.162 469 530> 185 264
+VStem: 68 80<0 374.162 469 530> 113 264
 LayerCount: 2
 Fore
-Refer: 95 180 N 1 0 0 1 117 66 2
+Refer: 95 180 N 1 0 0 1 45 66 2
 Refer: 23 114 N 1 0 0 1 0 0 3
 EndChar
