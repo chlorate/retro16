@@ -2,7 +2,7 @@ StartChar: ecaron
 Encoding: 283 283 197
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 80<184.09 492> 236 80<138 412> 455 80<189.66 360.34> 610 240
 VStem: 58 80<129.359 236 316 403.384> 412 80<316 403.384>
 LayerCount: 2
