@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1495665502
+ModificationTime: 1495665598
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -43,11 +43,11 @@ OS2CapHeight: 716
 OS2XHeight: 530
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
-Lookup: 258 0 0 "kerning" { "closer" [150,15,6] "small-capital" [153,15,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "kerning" { "kerning" [150,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "mark" { "marks"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 20 15 "closer"
+KernClass2: 20 15 "kerning"
  35 A B C D G H J K M N O Q R U W d i l
  1 E
  1 F
