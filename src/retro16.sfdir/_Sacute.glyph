@@ -2,7 +2,7 @@ StartChar: Sacute
 Encoding: 346 346 234
 Width: 640
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -5 80<198.972 440.393> 391 80<166.562 445.892> 636 80<166.562 552> 796 240
 VStem: 58 80<136.27 236 496.957 608.578> 188 264 502 80<137.443 335.26>
 CounterMasks: 1 0e
