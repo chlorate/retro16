@@ -1,5 +1,5 @@
-Retro16 font
-============
+Retro16
+=======
 
 ![Sample text](sample.png)
 

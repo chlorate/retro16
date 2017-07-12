@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.2.0
------
+2.2.0 (2017-05-24)
+------------------
 
 * Simplified curves.
 * Scale outlines up so point sizes aren't smaller than most standard fonts.
