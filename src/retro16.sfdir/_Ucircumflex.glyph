@@ -1,0 +1,11 @@
+StartChar: Ucircumflex
+Encoding: 219 219 142
+Width: 480
+VWidth: 0
+HStem: 0 64<155.221 356.779> 556 20<64 128 384 448> 640 191.999
+VStem: 64 64<93.1695 576> 96 320 384 64<93.1695 576>
+LayerCount: 2
+Fore
+Refer: 83 94 N 1 0 0 1 32 192 2
+Refer: 48 85 N 1 0 0 1 0 0 3
+EndChar

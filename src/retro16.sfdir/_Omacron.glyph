@@ -1,0 +1,11 @@
+StartChar: Omacron
+Encoding: 332 332 172
+Width: 480
+VWidth: 0
+HStem: -3 64<191.395 322.091> 519 64<191.395 322.091> 640 64<96 416>
+VStem: 64 64<138.836 441.164> 96 320<640 704> 384 64<136.344 443.656>
+LayerCount: 2
+Fore
+Refer: 153 175 N 1 0 0 1 32 64 2
+Refer: 42 79 N 1 0 0 1 0 0 3
+EndChar

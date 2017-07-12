@@ -1,0 +1,25 @@
+StartChar: u
+Encoding: 117 117 9
+Width: 416
+VWidth: 0
+Flags: W
+HStem: -5 64<158.779 292.824> 428 20G<64 128 320 384>
+VStem: 64 64<91.3643 448> 320 64<86.0319 448>
+AnchorPoint: "top" 224 448 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+320 448 m 25
+ 384 448 l 25
+ 384 204 l 18
+ 384 114 383 -5 224 -5 c 0
+ 65 -5 64 116 64 207 c 10
+ 64 448 l 25
+ 128 448 l 25
+ 128 213 l 18
+ 128 129 128 59 224 59 c 0
+ 320 59 320 123 320 213 c 10
+ 320 448 l 25
+EndSplineSet
+Validated: 1
+EndChar

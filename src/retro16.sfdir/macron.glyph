@@ -1,0 +1,19 @@
+StartChar: macron
+Encoding: 175 175 153
+Width: 416
+VWidth: 0
+Flags: W
+HStem: 576 64<64 384>
+VStem: 64 320<576 640>
+AnchorPoint: "top" 224 512 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 640 m 25
+ 384 640 l 25
+ 384 576 l 25
+ 64 576 l 25
+ 64 640 l 25
+EndSplineSet
+Validated: 1
+EndChar

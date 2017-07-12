@@ -1,0 +1,22 @@
+StartChar: parenleft
+Encoding: 40 40 85
+Width: 288
+VWidth: 0
+Flags: W
+HStem: -64 64<202.1 256> 576 64<202.1 256>
+VStem: 64 64<103.346 472.654>
+LayerCount: 2
+Fore
+SplineSet
+256 -64 m 4
+ 97 -64 64 133 64 234 c 6
+ 64 342 l 6
+ 64 443 97 640 256 640 c 5
+ 256 576 l 5
+ 160 576 128 430 128 336 c 6
+ 128 240 l 6
+ 128 146 160 0 256 0 c 4
+ 256 -64 l 4
+EndSplineSet
+Validated: 1
+EndChar

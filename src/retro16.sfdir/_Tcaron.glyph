@@ -1,0 +1,11 @@
+StartChar: Tcaron
+Encoding: 356 356 245
+Width: 514
+VWidth: 0
+HStem: 0 21<256 320> 512 64<64 256 320 512> 643 191.999
+VStem: 128 320 256 64<0 512>
+LayerCount: 2
+Fore
+Refer: 209 711 N 1 0 0 1 64 195 2
+Refer: 47 84 N 1 0 0 1 0 0 3
+EndChar

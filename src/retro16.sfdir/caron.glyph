@@ -1,0 +1,20 @@
+StartChar: caron
+Encoding: 711 711 209
+Width: 416
+VWidth: 1024
+Flags: W
+HStem: 448 191.999
+VStem: 64 320
+AnchorPoint: "top" 224 384 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 591.999023438 m 1
+ 112 639.999023438 l 1
+ 224 537.999023438 l 1
+ 336 639.999023438 l 1
+ 384 591.999023438 l 1
+ 224 448 l 1
+ 64 591.999023438 l 1
+EndSplineSet
+EndChar

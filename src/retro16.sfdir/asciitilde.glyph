@@ -1,0 +1,23 @@
+StartChar: asciitilde
+Encoding: 126 126 100
+Width: 480
+VWidth: 0
+Flags: W
+HStem: 256 64<277.298 371.754> 320 64<140.246 237.229>
+VStem: 64 64<256 307.52> 384 64<332.48 384>
+AnchorPoint: "top" 256 192 mark 0
+LayerCount: 2
+Fore
+SplineSet
+448 384 m 1x70
+ 448 316 399 256 320 256 c 0xb0
+ 276 256 226 320 192 320 c 0x70
+ 145 320 128 295 128 256 c 1
+ 64 256 l 1xb0
+ 64 324 113 384 192 384 c 0x70
+ 246 384 286 320 320 320 c 0xb0
+ 367 320 384 345 384 384 c 1
+ 448 384 l 1x70
+EndSplineSet
+Validated: 1
+EndChar

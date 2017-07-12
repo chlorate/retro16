@@ -1,0 +1,22 @@
+StartChar: bracketright
+Encoding: 93 93 79
+Width: 288
+VWidth: 1024
+Flags: W
+HStem: -64 64<64 192> 576 64<64 192>
+VStem: 64 192<-64 0 576 640> 192 64<0 576>
+LayerCount: 2
+Fore
+SplineSet
+256 -64 m 1xe0
+ 64 -64 l 1
+ 64 0 l 1xe0
+ 192 0 l 1
+ 192 576 l 1xd0
+ 64 576 l 1
+ 64 640 l 1
+ 256 640 l 1
+ 256 -64 l 1xe0
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,29 @@
+StartChar: Y
+Encoding: 89 89 50
+Width: 480
+VWidth: 0
+Flags: W
+HStem: 0 21G<224 288> 556 20G<64 128 384 448>
+VStem: 64 64<423.906 576> 224 64<0 270.792> 384 64<423.906 576>
+CounterMasks: 1 38
+AnchorPoint: "top" 256 576.004 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 310 m 1
+ 256 310 384 378 384 512 c 2
+ 384 576 l 1
+ 448 576 l 25
+ 448 512 l 2
+ 448 364 288 256 288 256 c 9
+ 288 0 l 1
+ 224 0 l 1
+ 224 256 l 17
+ 224 256 64 364 64 512 c 2
+ 64 576 l 25
+ 128 576 l 1
+ 128 512 l 2
+ 128 378 256 310 256 310 c 1
+EndSplineSet
+Validated: 1
+EndChar

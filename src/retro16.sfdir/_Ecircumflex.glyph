@@ -1,0 +1,11 @@
+StartChar: Ecircumflex
+Encoding: 202 202 128
+Width: 480
+VWidth: 0
+HStem: 0 64<128 448> 256 64<128 384> 512 64<128 448> 640 191.999
+VStem: 64 64<64 256 320 512> 97 320
+LayerCount: 2
+Fore
+Refer: 83 94 N 1 0 0 1 33 192 2
+Refer: 33 69 N 1 0 0 1 0 0 3
+EndChar

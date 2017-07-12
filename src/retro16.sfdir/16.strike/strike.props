@@ -1,0 +1,13 @@
+BitmapFont: 16 315 13 3 1
+BDFRefChar: 101 1 0 0 N
+BDFRefChar: 102 1 0 0 N
+BDFRefChar: 103 1 0 0 N
+BDFRefChar: 105 1 0 0 N
+BDFRefChar: 113 1 0 0 N
+BDFRefChar: 173 1 0 0 N
+BDFRefChar: 263 1 0 0 N
+BDFRefChar: 306 113 0 0 N
+BDFRefChar: 308 103 0 0 N
+BDFRefChar: 310 1 0 0 N
+BDFRefChar: 312 310 0 0 N
+EndBitmapFont

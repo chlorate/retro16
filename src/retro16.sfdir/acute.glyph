@@ -1,0 +1,19 @@
+StartChar: acute
+Encoding: 180 180 95
+Width: 288
+VWidth: 1024
+Flags: W
+HStem: 448 192
+VStem: 64 192
+AnchorPoint: "top" 160 384.201 mark 0
+LayerCount: 2
+Fore
+SplineSet
+112 448 m 1
+ 64 496 l 1
+ 208 640 l 1
+ 256 592 l 1
+ 112 448 l 1
+EndSplineSet
+Validated: 1
+EndChar

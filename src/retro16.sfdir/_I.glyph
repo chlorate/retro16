@@ -1,0 +1,27 @@
+StartChar: I
+Encoding: 73 73 38
+Width: 416
+VWidth: 1024
+Flags: W
+HStem: 0 64<64 192 256 384> 512 64<64 192 256 384>
+VStem: 192 64<64 512>
+AnchorPoint: "top" 225 576 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+64 0 m 1
+ 64 64 l 1
+ 192 64 l 1
+ 192 512 l 1
+ 64 512 l 1
+ 64 576 l 1
+ 384 576 l 1
+ 384 512 l 1
+ 256 512 l 1
+ 256 64 l 1
+ 384 64 l 1
+ 384 0 l 1
+ 64 0 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,11 @@
+StartChar: uni021F
+Encoding: 543 543 300
+Width: 416
+VWidth: 0
+HStem: 0 21<64 128 320 384> 384 64<128 291.738> 620 20<64 128> 700 191.999
+VStem: 64 64<0 384 448 640> 64 320 320 64<0 354.401>
+LayerCount: 2
+Fore
+Refer: 209 711 N 1 0 0 1 0 252 2
+Refer: 4 104 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,12 @@
+StartChar: uni00AD
+Encoding: 173 173 190
+Width: 288
+VWidth: 1024
+Flags: W
+HStem: 256 64<64 256>
+VStem: 64 192<256 320>
+LayerCount: 2
+Fore
+Refer: 59 45 N 0.6 0 0 1 25.6 0 2
+Validated: 1
+EndChar

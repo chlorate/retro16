@@ -1,0 +1,12 @@
+StartChar: uni0146
+Encoding: 326 326 226
+Width: 416
+VWidth: 0
+HStem: -188 128<160 224> 0 21<64 128 320 384> 384 64<128 291.738>
+VStem: 64 64<0 384> 160 128<-188 -60> 320 64<0 354.401>
+CounterMasks: 1 1c
+LayerCount: 2
+Fore
+Refer: 74 44 N 1 0 0 1 96 -188 2
+Refer: 0 110 N 1 0 0 1 0 0 3
+EndChar

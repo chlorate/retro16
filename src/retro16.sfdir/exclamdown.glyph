@@ -1,0 +1,12 @@
+StartChar: exclamdown
+Encoding: 161 161 119
+Width: 160
+VWidth: 1024
+Flags: W
+HStem: -191.885 20<64 128> 320.115 128<64 128>
+VStem: 64 64<-191.885 256.115 320.115 448.115>
+LayerCount: 2
+Fore
+Refer: 71 33 N -1 0 0 -1 192 448.115 2
+Validated: 1
+EndChar

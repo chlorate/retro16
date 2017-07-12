@@ -1,0 +1,11 @@
+StartChar: Idotaccent
+Encoding: 304 304 210
+Width: 416
+VWidth: 0
+HStem: 0 64<64 192 256 384> 512 64<64 192 256 384> 639.896 128<161 289>
+VStem: 161 128<639.896 767.896> 192 64<64 512>
+LayerCount: 2
+Fore
+Refer: 52 46 N 1 0 0 1 97 639.896 2
+Refer: 38 73 N 1 0 0 1 0 0 3
+EndChar

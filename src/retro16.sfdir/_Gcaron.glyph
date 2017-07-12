@@ -1,0 +1,11 @@
+StartChar: Gcaron
+Encoding: 486 486 286
+Width: 480
+VWidth: 0
+HStem: 0 64<155.221 384> 256 64<256 384> 512 64<155.221 448> 643 191.999
+VStem: 64 64<93.1695 482.831> 176 320 384 64<64 256>
+LayerCount: 2
+Fore
+Refer: 209 711 N 1 0 0 1 112 195 2
+Refer: 36 71 N 1 0 0 1 0 0 3
+EndChar

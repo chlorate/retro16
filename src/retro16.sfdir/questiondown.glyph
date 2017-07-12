@@ -1,0 +1,12 @@
+StartChar: questiondown
+Encoding: 191 191 120
+Width: 416
+VWidth: 1024
+Flags: W
+HStem: -192 64<96.5985 384> 64 64<96.5985 192> 320 128<192 256>
+VStem: 0 64<-98.1552 33.5033> 192 64<128 256 320 448>
+LayerCount: 2
+Fore
+Refer: 55 63 N -1 0 0 -1 384 448 2
+Validated: 1
+EndChar

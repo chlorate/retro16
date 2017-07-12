@@ -1,0 +1,18 @@
+StartChar: period
+Encoding: 46 46 52
+Width: 224
+VWidth: 1024
+Flags: W
+HStem: 0 128<64 192>
+VStem: 64 128<0 128>
+AnchorPoint: "top" 128 -63.8964 mark 0
+LayerCount: 2
+Fore
+SplineSet
+64 0 m 1
+ 64 128 l 1
+ 192 128 l 1
+ 192 0 l 1
+ 64 0 l 1
+EndSplineSet
+EndChar

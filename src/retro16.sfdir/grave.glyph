@@ -1,0 +1,19 @@
+StartChar: grave
+Encoding: 96 96 84
+Width: 288
+VWidth: 1024
+Flags: W
+HStem: 448 192
+VStem: 64 192
+AnchorPoint: "top" 160 384 mark 0
+LayerCount: 2
+Fore
+SplineSet
+208 448 m 1
+ 64 592 l 1
+ 112 640 l 1
+ 256 496 l 1
+ 208 448 l 1
+EndSplineSet
+Validated: 1
+EndChar

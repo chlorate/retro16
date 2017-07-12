@@ -1,0 +1,120 @@
+StartChar: itilde
+Encoding: 297 297 207
+Width: 192
+VWidth: 0
+Flags: W
+HStem: 0 21G<64 128> 428 20G<64 128> 512 64<118.319 213.837> 576 64<-19.8372 78.8873>
+VStem: -95 64<512 564.609> 64 64<0 448> 225 64<587.391 640>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 16
+ 4
+ 0
+CALL
+PUSHB_1
+ 4
+SHP[rp1]
+PUSHB_1
+ 10
+MDRP[min,rnd,black]
+PUSHB_3
+ 19
+ 3
+ 0
+CALL
+PUSHB_1
+ 7
+MDRP[min,rnd,black]
+PUSHB_1
+ 12
+SHP[rp2]
+PUSHB_3
+ 0
+ 2
+ 0
+CALL
+PUSHB_1
+ 3
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 22
+MDAP[rnd]
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 12
+MDRP[min,rnd,black]
+PUSHB_1
+ 12
+SRP0
+PUSHB_2
+ 3
+ 1
+CALL
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_1
+ 2
+SRP0
+PUSHB_2
+ 21
+ 1
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_2
+ 23
+ 1
+CALL
+PUSHB_2
+ 3
+ 12
+SRP1
+SRP2
+PUSHB_2
+ 10
+ 16
+IP
+IP
+PUSHB_2
+ 21
+ 2
+SRP1
+SRP2
+PUSHB_2
+ 7
+ 19
+IP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+64 448 m 25,0,-1
+ 128 448 l 1,1,-1
+ 128 0 l 1,2,-1
+ 64 0 l 1,3,-1
+ 64 448 l 25,0,-1
+289 640 m 1,4,5
+ 289 587 289 587 253.5 549.5 c 128,-1,6
+ 218 512 218 512 161 512 c 0,7,8
+ 138 512 138 512 93.5 544 c 128,-1,9
+ 49 576 49 576 33 576 c 0,10,11
+ -31 576 -31 576 -31 512 c 1,12,-1
+ -95 512 l 1,13,14
+ -95 565 -95 565 -59.5 602.5 c 128,-1,15
+ -24 640 -24 640 33 640 c 0,16,17
+ 63 640 63 640 105 608 c 128,-1,18
+ 147 576 147 576 161 576 c 0,19,20
+ 225 576 225 576 225 640 c 1,21,-1
+ 289 640 l 1,4,5
+EndSplineSet
+EndChar

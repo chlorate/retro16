@@ -1,0 +1,29 @@
+StartChar: o
+Encoding: 111 111 1
+Width: 416
+VWidth: 0
+Flags: W
+HStem: -5 64<158.779 289.221> 395 64<159.819 288.181>
+VStem: 64 64<91.3643 363.155> 320 64<89.8771 360.289>
+AnchorPoint: "bottom" 224 0 basechar 0
+AnchorPoint: "top" 224 448 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+320 213 m 2
+ 320 235 l 2
+ 320 318 320 395 224 395 c 0
+ 128 395 128 319 128 235 c 2
+ 128 213 l 2
+ 128 129 128 59 224 59 c 0
+ 320 59 320 130 320 213 c 2
+384 244 m 2
+ 384 204 l 2
+ 384 114 383 -5 224 -5 c 0
+ 65 -5 64 116 64 207 c 2
+ 64 241 l 2
+ 64 332 65 459 224 459 c 0
+ 383 459 384 334 384 244 c 2
+EndSplineSet
+Validated: 1
+EndChar

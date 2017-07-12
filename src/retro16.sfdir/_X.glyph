@@ -1,0 +1,25 @@
+StartChar: X
+Encoding: 88 88 56
+Width: 485
+VWidth: 0
+Flags: W
+HStem: 0 21G<54 138.847 373.153 458> 556 20G<44 129.22 382.78 468>
+LayerCount: 2
+Fore
+SplineSet
+216 288 m 1
+ 44 576 l 1
+ 118 576 l 1
+ 256 330 l 1
+ 394 576 l 1
+ 468 576 l 1
+ 296 288 l 1
+ 458 0 l 1
+ 384 0 l 1
+ 256 236 l 1
+ 128 0 l 1
+ 54 0 l 1
+ 216 288 l 1
+EndSplineSet
+Validated: 1
+EndChar
