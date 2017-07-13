@@ -1,11 +1,12 @@
 StartChar: ldot
-Encoding: 320 320 222
-Width: 426
+Encoding: 320 320 221
+Width: 560
 VWidth: 0
-HStem: -3 64<139.239 170> 192 128<266 394> 620 20<64 126>
-VStem: 64 62<72.7628 640> 266 128<192 320>
+Flags: W
+HStem: 0 21G<80 160> 236 160<320 480> 750 20G<80 160>
+VStem: 80 80<0 770> 320 160<236 396>
 LayerCount: 2
 Fore
-Refer: 192 183 N 1 0 0 1 202 0 2
+Refer: 191 183 N 1 0 0 1 240 0 2
 Refer: 5 108 N 1 0 0 1 0 0 2
 EndChar

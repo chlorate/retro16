@@ -1,44 +1,142 @@
 StartChar: uni2162
-Encoding: 8546 8546 179
-Width: 672
-VWidth: 1024
+Encoding: 8546 8546 178
+Width: 720
+VWidth: 1280
 Flags: W
-HStem: 0 64<64 128 192 320 384 512 576 640> 512 64<64 128 192 320 384 512 576 640>
-VStem: 128 64<64 512> 320 64<64 512> 512 64<64 512>
+HStem: 0 80<80 160 240 320 400 480 560 640> 636 80<80 160 240 320 400 480 560 640>
+VStem: 160 80<80 636> 320 80<80 636> 480 80<80 636>
 CounterMasks: 1 38
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 1
+ 0
+CALL
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_3
+ 13
+ 21
+ 25
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 5
+ 3
+ 0
+CALL
+PUSHB_1
+ 4
+MDRP[min,rnd,black]
+PUSHB_3
+ 11
+ 20
+ 24
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 28
+MDAP[rnd]
+PUSHB_1
+ 2
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 21
+MDRP[min,rnd,black]
+PUSHB_3
+ 2
+ 21
+ 10
+CALL
+PUSHB_4
+ 64
+ 2
+ 0
+ 9
+CALL
+PUSHB_1
+ 4
+SHP[rp2]
+PUSHB_1
+ 21
+SRP0
+PUSHB_2
+ 22
+ 1
+CALL
+PUSHB_1
+ 25
+MDRP[min,rnd,black]
+PUSHB_1
+ 25
+SRP0
+PUSHB_2
+ 26
+ 1
+CALL
+PUSHB_1
+ 13
+MDRP[min,rnd,black]
+PUSHB_3
+ 13
+ 26
+ 10
+CALL
+PUSHB_4
+ 64
+ 13
+ 15
+ 9
+CALL
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_2
+ 29
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-64 0 m 1
- 64 64 l 1
- 128 64 l 1
- 128 512 l 1
- 64 512 l 1
- 64 576 l 1
- 192 576 l 1
- 320 576 l 1
- 384 576 l 1
- 512 576 l 1
- 640 576 l 1
- 640 512 l 1
- 576 512 l 1
- 576 64 l 1
- 640 64 l 1
- 640 0 l 1
- 512 0 l 1
- 384 0 l 1
- 320 0 l 1
- 192 0 l 1
- 64 0 l 1
-192 512 m 1
- 192 64 l 1
- 320 64 l 1
- 320 512 l 1
- 192 512 l 1
-384 512 m 1
- 384 64 l 1
- 512 64 l 1
- 512 512 l 1
- 384 512 l 1
+80 0 m 1,0,-1
+ 80 80 l 1,1,-1
+ 160 80 l 1,2,-1
+ 160 636 l 1,3,-1
+ 80 636 l 1,4,-1
+ 80 716 l 1,5,-1
+ 240 716 l 1,6,-1
+ 320 716 l 1,7,-1
+ 400 716 l 1,8,-1
+ 480 716 l 1,9,-1
+ 640 716 l 1,10,-1
+ 640 636 l 1,11,-1
+ 560 636 l 1,12,-1
+ 560 80 l 1,13,-1
+ 640 80 l 1,14,-1
+ 640 0 l 1,15,-1
+ 480 0 l 1,16,-1
+ 400 0 l 1,17,-1
+ 320 0 l 1,18,-1
+ 240 0 l 1,19,-1
+ 80 0 l 1,0,-1
+240 636 m 1,20,-1
+ 240 80 l 1,21,-1
+ 320 80 l 1,22,-1
+ 320 636 l 1,23,-1
+ 240 636 l 1,20,-1
+400 636 m 1,24,-1
+ 400 80 l 1,25,-1
+ 480 80 l 1,26,-1
+ 480 636 l 1,27,-1
+ 400 636 l 1,24,-1
 EndSplineSet
 EndChar

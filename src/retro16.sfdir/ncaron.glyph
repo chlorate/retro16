@@ -1,11 +1,12 @@
 StartChar: ncaron
-Encoding: 328 328 228
-Width: 416
+Encoding: 328 328 227
+Width: 560
 VWidth: 0
-HStem: 0 21<64 128 320 384> 384 64<128 291.738> 519 191.999
-VStem: 64 64<0 384> 64 320 320 64<0 354.401>
+Flags: HW
+HStem: 0 21G<68 148 412 492> 450 80<148 350.727> 596 240
+VStem: 68 80<0 450> 412 80<0 382.625>
 LayerCount: 2
 Fore
-Refer: 209 711 N 1 0 0 1 0 71 2
+Refer: 208 711 N 1 0 0 1 0 66 2
 Refer: 0 110 N 1 0 0 1 0 0 3
 EndChar

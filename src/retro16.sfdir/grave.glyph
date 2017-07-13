@@ -1,19 +1,47 @@
 StartChar: grave
 Encoding: 96 96 84
-Width: 288
-VWidth: 1024
+Width: 400
+VWidth: 1280
+GlyphClass: 2
 Flags: W
-HStem: 448 192
-VStem: 64 192
-AnchorPoint: "top" 160 384 mark 0
+HStem: 530 240
+VStem: 68 264
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 2
+ 4
+ 0
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_2
+ 5
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "top" 200 450 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-208 448 m 1
- 64 592 l 1
- 112 640 l 1
- 256 496 l 1
- 208 448 l 1
+272 530 m 1,0,-1
+ 68 710 l 1,1,-1
+ 128 770 l 1,2,-1
+ 332 589 l 1,3,-1
+ 272 530 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar

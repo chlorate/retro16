@@ -1,25 +1,46 @@
 StartChar: multiply
-Encoding: 215 215 313
-Width: 416
+Encoding: 215 215 312
+Width: 560
 VWidth: 0
 Flags: W
-HStem: 148 281
-VStem: 84 280
+HStem: 516 20G<128 169.27 391.2 432.364>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 3
+ 2
+ 0
+CALL
+PUSHB_1
+ 5
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_2
+ 13
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-84 192 m 25
- 182 289 l 25
- 84 384 l 25
- 128 429 l 25
- 226 328.021484375 l 25
- 320 428 l 25
- 364 384 l 25
- 266 289 l 25
- 364 192 l 25
- 320 148 l 25
- 224 247.0234375 l 25
- 128 148 l 25
- 84 192 l 25
+92 239 m 25,0,-1
+ 219 361 l 1,1,-1
+ 92 480 l 1,2,-1
+ 148 536 l 1,3,-1
+ 282 410 l 1,4,-1
+ 412 535 l 1,5,-1
+ 468 480 l 1,6,-1
+ 341 361 l 1,7,-1
+ 468 239 l 1,8,-1
+ 412 184 l 1,9,-1
+ 280 308 l 1,10,-1
+ 148 184 l 1,11,-1
+ 92 239 l 25,0,-1
 EndSplineSet
 EndChar

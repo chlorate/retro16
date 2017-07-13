@@ -1,22 +1,71 @@
 StartChar: parenleft
 Encoding: 40 40 85
-Width: 288
+Width: 400
 VWidth: 0
 Flags: W
-HStem: -64 64<202.1 256> 576 64<202.1 256>
-VStem: 64 64<103.346 472.654>
+HStem: -81 81<246.289 320> 716 82<246.289 320>
+VStem: 80 80<121.779 595.221>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 11
+ 1
+ 0
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_3
+ 6
+ 3
+ 0
+CALL
+PUSHB_1
+ 5
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 2
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 9
+MDRP[min,rnd,black]
+PUSHB_3
+ 9
+ 2
+ 10
+CALL
+PUSHB_4
+ 64
+ 9
+ 5
+ 9
+CALL
+PUSHB_1
+ 0
+SHP[rp2]
+PUSHB_2
+ 13
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-256 -64 m 4
- 97 -64 64 133 64 234 c 6
- 64 342 l 6
- 64 443 97 640 256 640 c 5
- 256 576 l 5
- 160 576 128 430 128 336 c 6
- 128 240 l 6
- 128 146 160 0 256 0 c 4
- 256 -64 l 4
+320 -81 m 1,0,1
+ 80 -81 80 -81 80 295 c 2,2,-1
+ 80 422 l 2,3,4
+ 80 798 80 798 320 798 c 1,5,-1
+ 320 716 l 1,6,7
+ 160 716 160 716 160 422 c 2,8,-1
+ 160 295 l 2,9,10
+ 160 0 160 0 320 0 c 1,11,-1
+ 320 -81 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar

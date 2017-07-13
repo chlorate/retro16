@@ -1,23 +1,91 @@
 StartChar: asciitilde
 Encoding: 126 126 100
-Width: 480
+Width: 640
 VWidth: 0
+GlyphClass: 2
 Flags: W
-HStem: 256 64<277.298 371.754> 320 64<140.246 237.229>
-VStem: 64 64<256 307.52> 384 64<332.48 384>
-AnchorPoint: "top" 256 192 mark 0
+HStem: 261 80<365.363 464.824> 381 81<175.176 272.647>
+VStem: 68 80<261 352.846> 492 80<369.401 462>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 2
+MDAP[rnd]
+PUSHB_1
+ 8
+SHP[rp1]
+PUSHB_1
+ 14
+MDRP[min,rnd,black]
+PUSHB_1
+ 6
+MDAP[rnd]
+PUSHB_1
+ 11
+MDRP[min,rnd,black]
+PUSHB_1
+ 0
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 17
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 8
+MDRP[min,rnd,black]
+PUSHB_1
+ 8
+SRP0
+PUSHB_2
+ 16
+ 1
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+PUSHB_2
+ 18
+ 1
+CALL
+PUSHB_2
+ 16
+ 8
+SRP1
+SRP2
+PUSHB_2
+ 2
+ 11
+IP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 14
+ 2
+SRP1
+SRP2
+PUSHB_1
+ 4
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "top" 320 181 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-448 384 m 1x70
- 448 316 399 256 320 256 c 0xb0
- 276 256 226 320 192 320 c 0x70
- 145 320 128 295 128 256 c 1
- 64 256 l 1xb0
- 64 324 113 384 192 384 c 0x70
- 246 384 286 320 320 320 c 0xb0
- 367 320 384 345 384 384 c 1
- 448 384 l 1x70
+572 462 m 1,0,1
+ 572 261 572 261 410 261 c 0,2,3
+ 340 261 340 261 302.5 320.5 c 0,4,5
+ 264 381 264 381 230 381 c 0,6,7
+ 148 381 148 381 148 261 c 1,8,-1
+ 68 261 l 1,9,10
+ 68 462 68 462 230 462 c 0,11,12
+ 296 462 296 462 335 401.5 c 128,-1,13
+ 374 341 374 341 410 341 c 0,14,15
+ 492 341 492 341 492 462 c 1,16,-1
+ 572 462 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar

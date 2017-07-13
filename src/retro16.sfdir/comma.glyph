@@ -1,21 +1,67 @@
 StartChar: comma
 Encoding: 44 44 74
-Width: 224
-VWidth: 1024
+Width: 320
+VWidth: 1280
 Flags: W
-HStem: 0 128<64 128>
-VStem: 64 128<0 128>
+HStem: 0 160<80 160>
+VStem: 80 160<0 160>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 2
+ 1
+ 0
+CALL
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_3
+ 5
+ 0
+ 0
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 7
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 2
+SHP[rp2]
+PUSHB_1
+ 5
+MDRP[min,rnd,black]
+PUSHB_1
+ 5
+MDRP[min,rnd,black]
+PUSHB_2
+ 8
+ 1
+CALL
+PUSHB_2
+ 5
+ 0
+SRP1
+SRP2
+PUSHB_1
+ 1
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-64 -128 m 1
- 128 0 l 1
- 64 0 l 1
- 64 128 l 1
- 192 128 l 1
- 192 0 l 1
- 128 -128 l 1
- 64 -128 l 1
+80 -160 m 5,0,-1
+ 160 0 l 5,1,-1
+ 80 0 l 5,2,-1
+ 80 160 l 5,3,-1
+ 240 160 l 5,4,-1
+ 240 0 l 5,5,-1
+ 160 -160 l 5,6,-1
+ 80 -160 l 5,0,-1
 EndSplineSet
-Validated: 1
 EndChar

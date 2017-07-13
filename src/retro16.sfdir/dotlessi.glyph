@@ -1,19 +1,50 @@
 StartChar: dotlessi
-Encoding: 305 305 150
-Width: 160
+Encoding: 305 305 149
+Width: 240
 VWidth: 0
 Flags: W
-HStem: 0 21G<64 128> 428 20G<64 128>
-VStem: 64 64<0 448>
-AnchorPoint: "bottom" 96 5.68434e-014 basechar 0
-AnchorPoint: "top" 97 448.132 basechar 0
+HStem: 0 21G<80 160> 510 20G<80 160>
+VStem: 80 80<0 530>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 2
+ 0
+CALL
+PUSHB_1
+ 3
+MDAP[rnd]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 3
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_2
+ 5
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "bottom" 120 0 basechar 0
+AnchorPoint: "top" 121 530 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-64 448 m 25
- 128 448 l 25
- 128 0 l 25
- 64 0 l 25
- 64 448 l 25
+80 530 m 25,0,-1
+ 160 530 l 1,1,-1
+ 160 0 l 1,2,-1
+ 80 0 l 1,3,-1
+ 80 530 l 25,0,-1
 EndSplineSet
 EndChar

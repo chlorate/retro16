@@ -1,40 +1,157 @@
 StartChar: at
 Encoding: 64 64 91
-Width: 544
-VWidth: 1024
+Width: 720
+VWidth: 1280
 Flags: W
-HStem: -64 64<160.442 512> 128 64<256 320 384 448> 517 64<160.442 415.558>
-VStem: 64 64<32.3643 484.636> 192 64<192 256> 320 64<192 320> 448 64<192 484.636>
+HStem: -81 81<258.43 640> 159 77<320 400 480 572> 636 80<228.352 497.926>
+VStem: 68 80<113.313 542.49> 240 80<236 320> 400 80<236 400> 572 80<236 558.529>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 29
+ 1
+ 0
+CALL
+PUSHB_1
+ 5
+MDRP[min,rnd,black]
+PUSHB_3
+ 10
+ 3
+ 0
+CALL
+PUSHB_1
+ 24
+MDRP[min,rnd,black]
+PUSHB_5
+ 15
+ 3
+ 5
+ 10
+ 13
+CALL
+PUSHB_1
+ 19
+SHP[rp1]
+PUSHB_1
+ 15
+MDRP[min,rnd,black]
+PUSHB_3
+ 3
+ 15
+ 10
+CALL
+PUSHB_4
+ 64
+ 3
+ 18
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 31
+MDAP[rnd]
+PUSHB_1
+ 7
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 27
+MDRP[min,rnd,black]
+PUSHB_1
+ 27
+SRP0
+PUSHB_2
+ 15
+ 1
+CALL
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_1
+ 3
+SRP0
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_1
+ 19
+MDRP[min,rnd,black]
+PUSHB_1
+ 19
+SRP0
+PUSHB_2
+ 20
+ 1
+CALL
+PUSHB_1
+ 14
+MDRP[min,rnd,black]
+PUSHB_2
+ 32
+ 1
+CALL
+PUSHB_2
+ 0
+ 3
+SRP1
+SRP2
+PUSHB_1
+ 17
+IP
+PUSHB_2
+ 14
+ 20
+SRP1
+SRP2
+PUSHB_2
+ 4
+ 30
+IP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 24
+ 3
+SRP1
+SRP2
+PUSHB_2
+ 1
+ 16
+IP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-320 192 m 1
- 320 320 l 1
- 256 256 l 1
- 256 192 l 1
- 320 192 l 1
-512 -64 m 1
- 224 -64 l 2
- 65 -64 64 57 64 148 c 2
- 64 369 l 2
- 64 460 65 581 224 581 c 2
- 352 581 l 2
- 511 581 512 460 512 369 c 2
- 512 128 l 1
- 192 128 l 1
- 192 276 l 1
- 300 384 l 1
- 384 384 l 1
- 384 192 l 1
- 448 192 l 1
- 448 363 l 2
- 448 447 448 517 352 517 c 2
- 224 517 l 2
- 128 517 128 447 128 363 c 2
- 128 154 l 2
- 128 70 128 0 224 0 c 2
- 512 0 l 1
- 512 -64 l 1
+400 236 m 1,0,-1
+ 400 400 l 1,1,-1
+ 320 320 l 1,2,-1
+ 320 236 l 1,3,-1
+ 400 236 l 1,0,-1
+640 -81 m 1,4,-1
+ 380 -81 l 2,5,6
+ 68 -81 68 -81 68 225 c 2,7,-1
+ 68 420 l 2,8,9
+ 68 716 68 716 318 716 c 2,10,-1
+ 400 716 l 2,11,12
+ 652 716 652 716 652 458 c 2,13,-1
+ 652 159 l 1,14,-1
+ 240 159 l 1,15,-1
+ 240 345 l 1,16,-1
+ 375 479 l 1,17,-1
+ 480 479 l 1,18,-1
+ 480 236 l 1,19,-1
+ 572 236 l 1,20,-1
+ 572 458 l 2,21,22
+ 572 637 572 637 400 636 c 2,23,-1
+ 318 636 l 2,24,25
+ 148 636 148 636 148 420 c 2,26,-1
+ 148 225 l 2,27,28
+ 148 0 148 0 380 0 c 2,29,-1
+ 640 0 l 1,30,-1
+ 640 -81 l 1,4,-1
 EndSplineSet
-Validated: 1
 EndChar

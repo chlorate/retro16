@@ -1,18 +1,39 @@
 StartChar: hyphen
 Encoding: 45 45 59
-Width: 416
-VWidth: 1024
+Width: 560
+VWidth: 1280
 Flags: W
-HStem: 256 64<64 384>
-VStem: 64 320<256 320>
+HStem: 310 74<68 492>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_2
+ 5
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-64 256 m 1
- 64 320 l 1
- 384 320 l 1
- 384 256 l 1
- 64 256 l 1
+68 310 m 5,0,-1
+ 68 384 l 5,1,-1
+ 492 384 l 5,2,-1
+ 492 310 l 5,3,-1
+ 68 310 l 5,0,-1
 EndSplineSet
-Validated: 1
 EndChar

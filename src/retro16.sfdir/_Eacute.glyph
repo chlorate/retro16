@@ -1,11 +1,12 @@
 StartChar: Eacute
-Encoding: 201 201 127
-Width: 480
+Encoding: 201 201 126
+Width: 640
 VWidth: 0
-HStem: 0 64<128 448> 256 64<128 384> 512 64<128 448> 639.799 192
-VStem: 64 64<64 256 320 512> 161 192
+Flags: W
+HStem: 0 80<148 572> 329 80<148 480> 636 80<148 572> 783 240
+VStem: 68 80<80 329 409 636> 188 264
 LayerCount: 2
 Fore
-Refer: 95 180 N 1 0 0 1 97 191.799 2
+Refer: 95 180 N 1 0 0 1 120 253 2
 Refer: 33 69 N 1 0 0 1 0 0 3
 EndChar

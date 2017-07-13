@@ -1,24 +1,71 @@
 StartChar: cedilla
-Encoding: 184 184 158
-Width: 352
-VWidth: 1024
+Encoding: 184 184 157
+Width: 478
+VWidth: 1280
 Flags: W
-HStem: -182 64<64 248.441> -20 20G<164 271.883>
-VStem: 248.447 86.2949<-140.758 -67.9825>
-AnchorPoint: "bottom" 207 -4 mark 0
+HStem: -229 81<80 310.596> -20 20G<205 359>
+VStem: 311 107<-192 -93.0106>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 11
+ 1
+ 0
+CALL
+PUSHB_1
+ 5
+MDAP[rnd]
+PUSHB_1
+ 6
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_3
+ 9
+ 2
+ 10
+CALL
+PUSHB_4
+ 64
+ 9
+ 5
+ 9
+CALL
+PUSHB_2
+ 13
+ 1
+CALL
+SVTCA[y-axis]
+PUSHB_2
+ 6
+ 5
+SRP1
+SRP2
+PUSHB_1
+ 2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-240 0 m 1
- 303.765625 -46.138671875 334.7421875 -86.041015625 334.7421875 -123.404296875 c 0
- 334.7421875 -158.112304688 308.010742188 -182 256 -182 c 2
- 64 -182 l 1
- 64 -118 l 1
- 212 -118 l 2
- 240.1953125 -118 248.447265625 -108.028320312 248.447265625 -96.3544921875 c 0
- 248.447265625 -79.8740234375 232 -60 232 -60 c 1
- 164 0 l 1
- 240 0 l 1
+300 0 m 1,0,1
+ 418 -86 418 -86 418 -155 c 0,2,3
+ 418 -229 418 -229 319 -229 c 2,4,-1
+ 80 -229 l 1,5,-1
+ 80 -148 l 1,6,-1
+ 265 -148 l 2,7,8
+ 311 -148 311 -148 311 -121 c 0,9,10
+ 311 -96 311 -96 205 0 c 1,11,-1
+ 300 0 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
