@@ -2,7 +2,7 @@ StartChar: plus
 Encoding: 43 43 76
 Width: 560
 VWidth: 1280
-Flags: WO
+Flags: W
 HStem: 329 80<68 240 320 492>
 VStem: 240 80<157 329 409 581>
 TtInstrs:

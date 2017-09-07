@@ -5,124 +5,6 @@ VWidth: 1280
 Flags: W
 HStem: -81 81<258.43 640> 159 77<320 400 480 572> 636 80<228.352 497.926>
 VStem: 68 80<113.313 542.49> 240 80<236 320> 400 80<236 400> 572 80<236 558.529>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 29
- 1
- 0
-CALL
-PUSHB_1
- 5
-MDRP[min,rnd,black]
-PUSHB_3
- 10
- 3
- 0
-CALL
-PUSHB_1
- 24
-MDRP[min,rnd,black]
-PUSHB_5
- 15
- 3
- 5
- 10
- 13
-CALL
-PUSHB_1
- 19
-SHP[rp1]
-PUSHB_1
- 15
-MDRP[min,rnd,black]
-PUSHB_3
- 3
- 15
- 10
-CALL
-PUSHB_4
- 64
- 3
- 18
- 9
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 31
-MDAP[rnd]
-PUSHB_1
- 7
-MDRP[rp0,rnd,white]
-PUSHB_1
- 27
-MDRP[min,rnd,black]
-PUSHB_1
- 27
-SRP0
-PUSHB_2
- 15
- 1
-CALL
-PUSHB_1
- 3
-MDRP[min,rnd,black]
-PUSHB_1
- 3
-SRP0
-PUSHB_2
- 0
- 1
-CALL
-PUSHB_1
- 19
-MDRP[min,rnd,black]
-PUSHB_1
- 19
-SRP0
-PUSHB_2
- 20
- 1
-CALL
-PUSHB_1
- 14
-MDRP[min,rnd,black]
-PUSHB_2
- 32
- 1
-CALL
-PUSHB_2
- 0
- 3
-SRP1
-SRP2
-PUSHB_1
- 17
-IP
-PUSHB_2
- 14
- 20
-SRP1
-SRP2
-PUSHB_2
- 4
- 30
-IP
-IP
-SVTCA[y-axis]
-PUSHB_2
- 24
- 3
-SRP1
-SRP2
-PUSHB_2
- 1
- 16
-IP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -146,7 +28,7 @@ SplineSet
  480 236 l 1,19,-1
  572 236 l 1,20,-1
  572 458 l 2,21,22
- 572 637 572 637 400 636 c 2,23,-1
+ 572 636 572 636 400 636 c 2,23,-1
  318 636 l 2,24,25
  148 636 148 636 148 420 c 2,26,-1
  148 225 l 2,27,28
@@ -154,4 +36,5 @@ SplineSet
  640 0 l 1,30,-1
  640 -81 l 1,4,-1
 EndSplineSet
+Validated: 3073
 EndChar
