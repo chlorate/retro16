@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2.2.1
+-----
+
+* Fix vertical centring of `+` and `-` at various sizes.
+
 2.2.0 (2017-05-24)
 ------------------
 
