@@ -2,7 +2,7 @@ StartChar: itilde
 Encoding: 297 297 206
 Width: 240
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<80 160> 510 20G<80 160> 596 80<165.334 264.824> 716 81<-24.824 71.9849>
 VStem: -132 80<596 687.846> 80 80<0 530> 292 80<704.401 797>
 CounterMasks: 1 0e

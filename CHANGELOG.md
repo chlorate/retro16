@@ -4,8 +4,9 @@ Changelog
 2.2.1
 -----
 
-* Fix vertical centring of `+` and `-` at various sizes.
-* Fix `j` descender slightly too low.
+* `+`, `-`: fix vertical centring at various sizes.
+* `C`, `c`: more rounded.
+* `j`: fix descender slightly too low.
 * Various kerning improvements.
 
 2.2.0 (2017-05-24)

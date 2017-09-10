@@ -2,7 +2,7 @@ StartChar: idieresis
 Encoding: 239 239 147
 Width: 240
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<80 160> 510 20G<80 160> 596 81<-12 68 172 252>
 VStem: -12 80<596 677> 80 80<0 530> 172 80<596 677>
 CounterMasks: 1 1c

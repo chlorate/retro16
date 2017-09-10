@@ -2,7 +2,7 @@ StartChar: iacute
 Encoding: 237 237 145
 Width: 240
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<80 160> 510 20G<80 160> 596 240
 VStem: -12 264 80 80<0 530>
 LayerCount: 2
