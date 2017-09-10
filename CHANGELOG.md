@@ -7,6 +7,7 @@ Changelog
 * `+`, `-`: fix vertical centring at various sizes.
 * `C`, `c`: more rounded.
 * `j`: fix descender slightly too low.
+* `¿`: fix horizontal centring.
 * Various kerning improvements.
 
 2.2.0 (2017-05-24)
