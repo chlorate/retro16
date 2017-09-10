@@ -5,6 +5,7 @@ Changelog
 -----
 
 * Fix vertical centring of `+` and `-` at various sizes.
+* Fix `j` descender slightly too low.
 
 2.2.0 (2017-05-24)
 ------------------
