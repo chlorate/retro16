@@ -2,12 +2,12 @@ StartChar: ij
 Encoding: 307 307 263
 Width: 640
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -220 80<308 495.969> 0 21G<80 160> 510 20G<80 160 548 628> 652 118<80 160 548 628>
 VStem: 80 80<0 530 652 770> 548 80<-83.1812 530 652 770>
 LayerCount: 2
 Fore
 Refer: 21 106 N 1 0 0 1 240 0 2
 Refer: 8 105 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 98305
 EndChar
