@@ -1,6 +1,6 @@
 StartChar: uni021B
 Encoding: 539 539 297
-Width: 480
+Width: 549
 VWidth: 0
 Flags: W
 HStem: -221 160<168.5 248.5> 0 80<288.613 455> 450 80<42 148 228 400> 750 20G<148 228>
@@ -9,5 +9,5 @@ LayerCount: 2
 Fore
 Refer: 74 44 N 1 0 0 1 88.5 -221 2
 Refer: 6 116 N 1 0 0 1 0 0 3
-Validated: 98305
+Validated: 32769
 EndChar
