@@ -2,12 +2,12 @@ StartChar: Zacute
 Encoding: 377 377 255
 Width: 640
 VWidth: 0
-Flags: W
-HStem: 0 80<148 572> 636 80<68 492> 783 240
-VStem: 68 80<80 184> 188 264 492 80<604 636>
-CounterMasks: 1 1c
+Flags: HW
+HStem: 0 80<148 572> 636 80<68 492> 796 240
+VStem: 68 80<80 184> 220 264 492 80<604 636>
 LayerCount: 2
 Fore
-Refer: 95 180 N 1 0 0 1 120 253 2
+Refer: 401 769 N 1 0 0 1 152 266 2
 Refer: 57 90 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

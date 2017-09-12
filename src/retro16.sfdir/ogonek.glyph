@@ -2,72 +2,11 @@ StartChar: ogonek
 Encoding: 731 731 344
 Width: 317
 VWidth: 1280
-GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -230 80<149.049 257.904> -20 20G<116.5 255>
 VStem: 58 90<-147.924 -79.8379>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 0
- 1
- 0
-CALL
-PUSHB_1
- 2
-SHP[rp1]
-PUSHB_1
- 11
-MDAP[rnd]
-PUSHB_1
- 6
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 15
-MDAP[rnd]
-PUSHB_1
- 13
-MDRP[rp0,rnd,white]
-PUSHB_1
- 4
-MDRP[min,rnd,black]
-PUSHB_2
- 16
- 1
-CALL
-SVTCA[y-axis]
-PUSHB_2
- 6
- 11
-SRP1
-SRP2
-PUSHB_1
- 9
-IP
-PUSHB_1
- 0
-SRP1
-PUSHB_2
- 8
- 13
-IP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "ogonek" 215 -10 mark 0
 LayerCount: 2
 Fore
-SplineSet
-175 0 m 1,0,1
- 255 0 l 1,2,3
- 148 -71 148 -71 148 -119 c 0,4,5
- 148 -150 148 -150 184 -150 c 0,6,7
- 223 -150 223 -150 259 -138 c 1,8,-1
- 259 -211 l 1,9,10
- 225 -230 225 -230 173 -230 c 0,11,12
- 58 -230 58 -230 58 -139 c 0,13,14
- 58 -73 58 -73 175 0 c 1,0,1
-EndSplineSet
+Refer: 394 808 N 1 0 0 1 0 0 2
+Validated: 114689
 EndChar

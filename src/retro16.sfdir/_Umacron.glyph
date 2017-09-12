@@ -2,11 +2,12 @@ StartChar: Umacron
 Encoding: 362 362 248
 Width: 640
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 80<207.953 432.047> 696 20G<68 148 492 572> 796 80<108 532>
 VStem: 68 80<145.188 716> 492 80<145.188 716>
 LayerCount: 2
 Fore
-Refer: 152 175 N 1 0 0 1 40 106 2
+Refer: 406 772 N 1 0 0 1 40 106 2
 Refer: 48 85 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

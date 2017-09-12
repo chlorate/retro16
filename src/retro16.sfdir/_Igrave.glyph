@@ -2,11 +2,12 @@ StartChar: Igrave
 Encoding: 204 204 129
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 80<68 240 320 492> 636 80<68 240 320 492> 796 240
 VStem: 116 264 240 80<80 636>
 LayerCount: 2
 Fore
-Refer: 84 96 N 1 0 0 1 48 266 2
+Refer: 403 768 N 1 0 0 1 48 266 2
 Refer: 38 73 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

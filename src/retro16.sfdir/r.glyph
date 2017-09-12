@@ -61,6 +61,11 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "middle-right" 424 265 basechar 0
+AnchorPoint: "cedilla" 246 0 basechar 0
+AnchorPoint: "ogonek" 108 0 basechar 0
+AnchorPoint: "top" 246 530 basechar 0
+AnchorPoint: "right" 424 530 basechar 0
 LayerCount: 2
 Fore
 SplineSet

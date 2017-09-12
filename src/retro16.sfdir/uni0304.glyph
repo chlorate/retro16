@@ -1,0 +1,48 @@
+StartChar: uni0304
+Encoding: 772 772 406
+Width: 560
+VWidth: 0
+Flags: W
+HStem: 690 80<68 492>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 4
+ 0
+CALL
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_3
+ 0
+ 4
+ 0
+CALL
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_2
+ 5
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "top" 280 610 mark 0
+LayerCount: 2
+Fore
+SplineSet
+68 770 m 29,0,-1
+ 492 770 l 5,1,-1
+ 492 690 l 5,2,-1
+ 68 690 l 5,3,-1
+ 68 770 l 29,0,-1
+EndSplineSet
+Validated: 3073
+EndChar

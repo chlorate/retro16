@@ -1,0 +1,47 @@
+StartChar: gravecomb
+Encoding: 768 768 403
+Width: 400
+VWidth: 1280
+Flags: W
+HStem: 530 240
+VStem: 68 264
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 2
+ 4
+ 0
+CALL
+PUSHB_1
+ 0
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 3
+MDRP[min,rnd,black]
+PUSHB_2
+ 5
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "top" 232 450 mark 0
+LayerCount: 2
+Fore
+SplineSet
+272 530 m 5,0,-1
+ 68 710 l 5,1,-1
+ 128 770 l 5,2,-1
+ 332 589 l 5,3,-1
+ 272 530 l 5,0,-1
+EndSplineSet
+Validated: 3073
+EndChar

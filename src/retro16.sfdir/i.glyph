@@ -50,6 +50,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "middle-right" 148 265 basechar 0
 AnchorPoint: "right" 148 770 basechar 0
 AnchorPoint: "top" 108 770 basechar 0
 AnchorPoint: "cedilla" 108 0 basechar 0
@@ -68,4 +69,5 @@ SplineSet
  68 652 l 25,7,-1
  68 770 l 25,4,-1
 EndSplineSet
+Validated: 19457
 EndChar

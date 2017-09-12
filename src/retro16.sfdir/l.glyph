@@ -39,6 +39,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "middle-right" 148 385 basechar 0
 AnchorPoint: "top" 108 770 basechar 0
 AnchorPoint: "cedilla" 108 0 basechar 0
 AnchorPoint: "ogonek" 108 0 basechar 0

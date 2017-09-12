@@ -2,11 +2,17 @@ StartChar: udieresis
 Encoding: 252 252 114
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 81<206.4 353.6> 510 20G<68 148 412 492> 610 81<148 228 332 412>
 VStem: 68 80<143.625 530> 148 80<610 691> 332 80<610 691> 412 80<143.625 530>
+AnchorPoint: "middle-right" 492 265 basechar 0
+AnchorPoint: "top" 280 691 basechar 0
+AnchorPoint: "cedilla" 280 0 basechar 0
+AnchorPoint: "ogonek" 332 10 basechar 0
+AnchorPoint: "right" 492 530 basechar 0
 LayerCount: 2
 Fore
-Refer: 110 168 N 1 0 0 1 80 -79 2
+Refer: 405 776 N 1 0 0 1 80 -79 2
 Refer: 9 117 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

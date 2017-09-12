@@ -7,6 +7,7 @@ VStem: 68 80<0 450 530 770> 200 160<849 1009> 412 80<0 382.625>
 CounterMasks: 1 0e
 LayerCount: 2
 Fore
-Refer: 328 729 N 1 0 0 1 132 177 2
+Refer: 396 775 N 1 0 0 1 132 177 2
 Refer: 4 104 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

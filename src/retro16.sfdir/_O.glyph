@@ -65,6 +65,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "right" 572 716 basechar 0
 AnchorPoint: "ogonek" 378 10 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
@@ -87,4 +88,5 @@ SplineSet
  58 722 58 722 320 722 c 128,-1,17
  582 722 582 722 582 379 c 2,9,10
 EndSplineSet
+Validated: 19457
 EndChar

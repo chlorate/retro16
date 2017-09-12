@@ -2,11 +2,17 @@ StartChar: Aring
 Encoding: 197 197 154
 Width: 640
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<68 148 492 572> 236 80<148 492> 641 80<203.892 436.108> 786 66<275.173 364.827> 956 70<275.173 364.827>
 VStem: 68 80<0 236 316 579.812> 200 68<859.538 949.192> 372 68<859.538 949.192> 492 80<0 236 316 579.812>
+AnchorPoint: "middle-right" 572 358 basechar 0
+AnchorPoint: "top" 320 1016 basechar 0
+AnchorPoint: "ogonek" 532 0 basechar 0
+AnchorPoint: "cedilla" 320 0 basechar 0
+AnchorPoint: "right" 572 716 basechar 0
 LayerCount: 2
 Fore
-Refer: 153 730 N 1 0 0 1 142 246 2
+Refer: 395 778 N 1 0 0 1 142 246 2
 Refer: 28 65 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

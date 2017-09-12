@@ -5,8 +5,14 @@ VWidth: 0
 Flags: H
 HStem: -210 80<312.049 420.904> -5 81<231.491 408.509> 0 20G<279.5 418> 642 80<231.491 408.509>
 VStem: 58 80<188.834 528.735> 221 90<-127.924 -59.8379> 502 80<189.265 528.735>
+AnchorPoint: "middle-right" 572 358 basechar 0
+AnchorPoint: "cedilla" 320 0 basechar 0
+AnchorPoint: "top" 320 716 basechar 0
+AnchorPoint: "ogonek" 378 10 basechar 0
+AnchorPoint: "right" 572 716 basechar 0
 LayerCount: 2
 Fore
-Refer: 344 731 N 1 0 0 1 163 20 2
+Refer: 394 808 N 1 0 0 1 163 20 2
 Refer: 42 79 N 1 0 0 1 0 0 3
+Validated: 98309
 EndChar

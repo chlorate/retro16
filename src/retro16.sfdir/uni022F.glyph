@@ -6,8 +6,14 @@ Flags: W
 HStem: -5 81<193.483 366.517> 455 80<193.483 366.517> 610 160<200 360>
 VStem: 58 80<135.684 396.661> 200 160<610 770> 422 80<135.684 396.661>
 CounterMasks: 1 1c
+AnchorPoint: "middle-right" 492 265 basechar 0
+AnchorPoint: "right" 492 530 basechar 0
+AnchorPoint: "ogonek" 332 10 basechar 0
+AnchorPoint: "cedilla" 280 0 basechar 0
+AnchorPoint: "top" 280 770 basechar 0
 LayerCount: 2
 Fore
-Refer: 328 729 N 1 0 0 1 132 -62 2
+Refer: 396 775 N 1 0 0 1 132 -62 2
 Refer: 1 111 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar

@@ -2,72 +2,11 @@ StartChar: cedilla
 Encoding: 184 184 157
 Width: 474
 VWidth: 1280
-GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -229 80<68 308.45> -20 20G<193 339.5>
 VStem: 309 97<-192 -102.115>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 11
- 1
- 0
-CALL
-PUSHB_1
- 5
-MDAP[rnd]
-PUSHB_1
- 6
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 12
-MDAP[rnd]
-PUSHB_1
- 9
-MDRP[rp0,rnd,white]
-PUSHB_1
- 2
-MDRP[min,rnd,black]
-PUSHB_3
- 9
- 2
- 10
-CALL
-PUSHB_4
- 64
- 9
- 5
- 9
-CALL
-PUSHB_2
- 13
- 1
-CALL
-SVTCA[y-axis]
-PUSHB_2
- 6
- 5
-SRP1
-SRP2
-PUSHB_1
- 2
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
-AnchorPoint: "cedilla" 233 -10 mark 0
 LayerCount: 2
 Fore
-SplineSet
-273 0 m 1,0,1
- 406 -98 406 -98 406 -155 c 0,2,3
- 406 -229 406 -229 307 -229 c 2,4,-1
- 68 -229 l 1,5,-1
- 68 -149 l 1,6,-1
- 263 -149 l 2,7,8
- 309 -149 309 -149 309 -121 c 0,9,10
- 309 -105 309 -105 193 0 c 1,11,-1
- 273 0 l 1,0,1
-EndSplineSet
+Refer: 407 807 N 1 0 0 1 0 0 2
+Validated: 114689
 EndChar
