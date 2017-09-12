@@ -1,6 +1,6 @@
 StartChar: uni0237
 Encoding: 567 567 150
-Width: 400
+Width: 388
 VWidth: 0
 Flags: W
 HStem: -240 80<0 187.969> 510 20G<240 320>
@@ -36,6 +36,7 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "right" 320 530 basechar 0
 AnchorPoint: "ogonek" 160 -230 basechar 0
 AnchorPoint: "cedilla" 160 -230 basechar 0
 AnchorPoint: "top" 280 530 basechar 0
@@ -52,5 +53,4 @@ SplineSet
  120 -160 l 2,8,9
  240 -160 240 -160 240 10 c 2,0,-1
 EndSplineSet
-Validated: 1068033
 EndChar

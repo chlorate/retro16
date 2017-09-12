@@ -2,84 +2,11 @@ StartChar: quotedbl
 Encoding: 34 34 72
 Width: 400
 VWidth: 1280
-Flags: W
-HStem: 560 210<80 160 240 320>
-VStem: 80 80<560 685.44> 240 80<560 685.44>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 1
- 4
- 0
-CALL
-PUSHB_1
- 5
-SHP[rp1]
-PUSHB_1
- 0
-MDRP[min,rnd,black]
-PUSHB_1
- 4
-SHP[rp2]
-PUSHB_3
- 1
- 4
- 0
-CALL
-PUSHB_1
- 0
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 8
-MDAP[rnd]
-PUSHB_1
- 0
-MDRP[rp0,rnd,white]
-PUSHB_1
- 3
-MDRP[min,rnd,black]
-PUSHB_1
- 3
-SRP0
-PUSHB_2
- 4
- 1
-CALL
-PUSHB_1
- 7
-MDRP[min,rnd,black]
-PUSHB_2
- 9
- 1
-CALL
-PUSHB_2
- 4
- 3
-SRP1
-SRP2
-PUSHB_2
- 2
- 5
-IP
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+Flags: HW
+HStem: 559 211<80 160 240 320>
+VStem: 80 80<559 685.037> 240 80<559 685.037>
 LayerCount: 2
 Fore
-SplineSet
-80 560 m 5,0,-1
- 68 770 l 5,1,-1
- 172 770 l 5,2,-1
- 160 560 l 5,3,-1
- 80 560 l 5,0,-1
-240 560 m 1,4,-1
- 228 770 l 1,5,-1
- 332 770 l 1,6,-1
- 320 560 l 1,7,-1
- 240 560 l 1,4,-1
-EndSplineSet
-Validated: 19457
+Refer: 77 39 N 1 0 0 1 160 0 2
+Refer: 77 39 N 1 0 0 1 0 0 2
 EndChar

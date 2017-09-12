@@ -1,5 +1,5 @@
 StartChar: uni020A
-Encoding: 522 522 367
+Encoding: 522 522 366
 Width: 560
 VWidth: 0
 Flags: H
@@ -8,7 +8,6 @@ VStem: 86 79<786 860.033> 240 80<80 636> 395 79<786 860.033>
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 359 785 N 1 0 0 1 28 206 2
+Refer: 358 785 N 1 0 0 1 28 206 2
 Refer: 38 73 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar

@@ -1,9 +1,9 @@
 StartChar: t
 Encoding: 116 116 6
-Width: 481
+Width: 480
 VWidth: 0
 Flags: W
-HStem: 0 80<280.613 447> 450 80<34 140 220 392> 750 20G<140 220>
+HStem: 0 80<280.613 446> 450 80<34 140 220 392> 750 20G<140 220>
 VStem: 140 80<151.821 450 530 770>
 TtInstrs:
 SVTCA[y-axis]
@@ -87,8 +87,8 @@ AnchorPoint: "cedilla" 314 9 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-447 80 m 1,0,-1
- 447 0 l 1,1,-1
+446 80 m 1,0,-1
+ 446 0 l 1,1,-1
  353 0 l 2,2,3
  140 0 140 0 140 259 c 2,4,-1
  140 450 l 1,5,-1
@@ -103,7 +103,6 @@ SplineSet
  220 450 l 1,14,-1
  220 266 l 2,15,16
  220 80 220 80 357 80 c 2,17,-1
- 447 80 l 1,0,-1
+ 446 80 l 1,0,-1
 EndSplineSet
-Validated: 19457
 EndChar

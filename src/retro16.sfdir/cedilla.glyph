@@ -1,11 +1,11 @@
 StartChar: cedilla
 Encoding: 184 184 157
-Width: 478
+Width: 474
 VWidth: 1280
 GlyphClass: 2
 Flags: W
-HStem: -229 80<80 320.45> -20 20G<205 351.5>
-VStem: 321 97<-192 -102.115>
+HStem: -229 80<68 308.45> -20 20G<193 339.5>
+VStem: 309 97<-192 -102.115>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -56,19 +56,18 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "cedilla" 245 -10 mark 0
+AnchorPoint: "cedilla" 233 -10 mark 0
 LayerCount: 2
 Fore
 SplineSet
-285 0 m 5,0,1
- 418 -98 418 -98 418 -155 c 4,2,3
- 418 -229 418 -229 319 -229 c 6,4,-1
- 80 -229 l 5,5,-1
- 80 -149 l 5,6,-1
- 275 -149 l 6,7,8
- 321 -149 321 -149 321 -121 c 4,9,10
- 321 -105 321 -105 205 0 c 5,11,-1
- 285 0 l 5,0,1
+273 0 m 1,0,1
+ 406 -98 406 -98 406 -155 c 0,2,3
+ 406 -229 406 -229 307 -229 c 2,4,-1
+ 68 -229 l 1,5,-1
+ 68 -149 l 1,6,-1
+ 263 -149 l 2,7,8
+ 309 -149 309 -149 309 -121 c 0,9,10
+ 309 -105 309 -105 193 0 c 1,11,-1
+ 273 0 l 1,0,1
 EndSplineSet
-Validated: 19457
 EndChar
