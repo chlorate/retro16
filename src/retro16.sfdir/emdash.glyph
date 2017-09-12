@@ -1,0 +1,40 @@
+StartChar: emdash
+Encoding: 8212 8212 318
+Width: 720
+VWidth: 1280
+Flags: W
+HStem: 329 80<68 652>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 0
+MDAP[rnd]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_2
+ 5
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+68 329 m 1,0,-1
+ 68 409 l 1,1,-1
+ 652 409 l 1,2,-1
+ 652 329 l 1,3,-1
+ 68 329 l 1,0,-1
+EndSplineSet
+Validated: 3073
+EndChar

@@ -75,7 +75,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "bottom" 280 0 basechar 0
+AnchorPoint: "cedilla" 275 0 basechar 0
+AnchorPoint: "ogonek" 452 0 basechar 0
 AnchorPoint: "top" 280 530 basechar 0
 LayerCount: 2
 Fore
@@ -98,5 +99,5 @@ SplineSet
  58 316 58 316 264 316 c 2,18,-1
  411 316 l 1,6,7
 EndSplineSet
-Validated: 19457
+Validated: 1068033
 EndChar

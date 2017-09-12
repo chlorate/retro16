@@ -1,10 +1,10 @@
 StartChar: l
 Encoding: 108 108 5
-Width: 240
+Width: 216
 VWidth: 0
 Flags: W
-HStem: 0 21G<80 160> 750 20G<80 160>
-VStem: 80 80<0 770>
+HStem: 0 21G<68 148> 750 20G<68 148>
+VStem: 68 80<0 770>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -39,14 +39,18 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "top" 108 770 basechar 0
+AnchorPoint: "cedilla" 108 0 basechar 0
+AnchorPoint: "ogonek" 108 0 basechar 0
+AnchorPoint: "right" 148 770 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-80 0 m 9,0,-1
- 80 770 l 1,1,-1
- 160 770 l 1,2,-1
- 160 0 l 17,3,4
- 80 0 l 9,0,-1
+68 0 m 9,0,-1
+ 68 770 l 1,1,-1
+ 148 770 l 1,2,-1
+ 148 0 l 17,3,4
+ 68 0 l 9,0,-1
 EndSplineSet
 Validated: 19457
 EndChar

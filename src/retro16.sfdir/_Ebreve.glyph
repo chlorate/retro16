@@ -1,0 +1,13 @@
+StartChar: Ebreve
+Encoding: 276 276 334
+Width: 640
+VWidth: 0
+Flags: H
+HStem: 0 80<148 572> 329 80<148 480> 636 80<148 572> 786 76<244.897 399.103> 956 20G<128 207 437 516>
+VStem: 68 80<80 329 409 636> 128 79<901.967 976> 437 79<901.967 976>
+LayerCount: 2
+Fore
+Refer: 330 728 N 1 0 0 1 70 206 2
+Refer: 33 69 N 1 0 0 1 0 0 3
+Validated: 98305
+EndChar

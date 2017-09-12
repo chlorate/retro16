@@ -2,12 +2,12 @@ StartChar: Scircumflex
 Encoding: 348 348 236
 Width: 640
 VWidth: 0
-Flags: W
-HStem: -5 80<188.132 440.393> 391 80<169.204 445.892> 636 80<172.872 552> 783 240
+Flags: HW
+HStem: -5 80<188.132 440.393> 391 80<169.204 445.892> 636 80<172.872 552> 796 240
 VStem: 58 80<123.784 206 500.484 604.958> 502 80<137.443 335.26>
 LayerCount: 2
 Fore
-Refer: 83 94 N 1 0 0 1 40 253 2
+Refer: 325 710 N 1 0 0 1 40 266 2
 Refer: 46 83 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar

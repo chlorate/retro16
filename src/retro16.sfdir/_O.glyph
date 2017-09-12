@@ -65,8 +65,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "ogonek" 339 0 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
-AnchorPoint: "bottom" 320 0 basechar 0
+AnchorPoint: "cedilla" 320 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -85,5 +86,5 @@ SplineSet
  58 722 58 722 320 722 c 128,-1,17
  582 722 582 722 582 379 c 2,9,10
 EndSplineSet
-Validated: 19457
+Validated: 1068033
 EndChar

@@ -1,6 +1,6 @@
 StartChar: caron
 Encoding: 711 711 208
-Width: 560
+Width: 540
 VWidth: 1280
 GlyphClass: 2
 Flags: W
@@ -8,15 +8,15 @@ HStem: 530 240
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 3
+ 1
  4
  0
 CALL
 PUSHB_1
- 5
+ 3
 SHP[rp1]
 PUSHB_1
- 1
+ 5
 MDRP[min,rnd,black]
 SVTCA[x-axis]
 PUSHB_1
@@ -28,27 +28,27 @@ PUSHB_2
 CALL
 SVTCA[y-axis]
 PUSHB_2
- 3
  1
+ 5
 SRP1
 SRP2
 PUSHB_1
- 4
+ 2
 IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 280 450 basechar 0
+AnchorPoint: "top" 270 450 mark 0
 LayerCount: 2
 Fore
 SplineSet
-492 711 m 1,0,-1
- 280 530 l 1,1,-1
- 68 711 l 1,2,-1
- 122 770 l 1,3,-1
- 280 630 l 1,4,-1
- 440 770 l 1,5,-1
- 492 711 l 1,0,-1
+58 711 m 1,0,-1
+ 112 770 l 1,1,-1
+ 270 638 l 1,2,-1
+ 428 770 l 1,3,-1
+ 482 711 l 1,4,-1
+ 270 530 l 1,5,-1
+ 58 711 l 1,0,-1
 EndSplineSet
-Validated: 1068033
+Validated: 3073
 EndChar

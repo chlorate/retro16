@@ -3,12 +3,11 @@ Encoding: 239 239 147
 Width: 240
 VWidth: 0
 Flags: HW
-HStem: 0 21G<80 160> 510 20G<80 160> 596 81<-12 68 172 252>
-VStem: -12 80<596 677> 80 80<0 530> 172 80<596 677>
-CounterMasks: 1 1c
+HStem: 0 21G<80 160> 510 20G<80 160> 610 81<-11 69 173 253>
+VStem: -11 80<610 691> 80 80<0 530> 173 80<610 691>
 LayerCount: 2
 Fore
-Refer: 110 168 N 1 0 0 1 -80 -93 2
+Refer: 110 168 N 1 0 0 1 -79 -79 2
 Refer: 149 305 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar
