@@ -2,6 +2,7 @@ StartChar: periodcentered
 Encoding: 183 183 191
 Width: 296
 VWidth: 1280
+GlyphClass: 2
 Flags: W
 HStem: 236 160<68 228>
 VStem: 68 160<236 396>

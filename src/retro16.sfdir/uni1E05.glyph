@@ -1,0 +1,12 @@
+StartChar: uni1E05
+Encoding: 7685 7685 496
+Width: 560
+VWidth: 0
+HStem: -240 160<200 360> 0 80<148 360.393> 450 80<148 363.313> 750 20G<68 148>
+VStem: 68 80<80 450 530 770> 200 160<-240 -80> 422 80<146.545 388.73>
+LayerCount: 2
+Fore
+Refer: 477 803 N 1 0 0 1 132 0 2
+Refer: 11 98 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

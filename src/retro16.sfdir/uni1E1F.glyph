@@ -1,5 +1,5 @@
 StartChar: uni1E1F
-Encoding: 7711 7711 378
+Encoding: 7711 7711 382
 Width: 480
 VWidth: 0
 Flags: W
@@ -7,7 +7,7 @@ HStem: 0 21G<152 232> 370 80<34 152 232 392> 690 80<280.272 446> 850 160<160 320
 VStem: 152 80<0 370 450 639.197> 160 160<850 1010>
 LayerCount: 2
 Fore
-Refer: 396 775 N 1 0 0 1 92 178 2
+Refer: 401 775 N 1 0 0 1 92 178 2
 Refer: 14 102 N 1 0 0 1 0 0 3
-Validated: 98305
+Validated: 32769
 EndChar

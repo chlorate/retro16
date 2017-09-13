@@ -1,0 +1,12 @@
+StartChar: uni1E37
+Encoding: 7735 7735 502
+Width: 216
+VWidth: 0
+HStem: -240 160<28 188> 0 21G<68 148> 750 20G<68 148>
+VStem: 28 160<-240 -80> 68 80<0 770>
+LayerCount: 2
+Fore
+Refer: 477 803 N 1 0 0 1 -40 0 2
+Refer: 5 108 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

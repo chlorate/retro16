@@ -1,12 +1,12 @@
 StartChar: uni1E29
-Encoding: 7721 7721 384
+Encoding: 7721 7721 388
 Width: 560
 VWidth: 0
 HStem: -219 80<-57 183.45> -10 20G<68 214.5> 0 21G<68 148 412 492> 450 80<148 350.727> 750 20G<68 148>
 VStem: 68 80<0 450 530 770> 184 97<-182 -92.1147> 412 80<0 382.625>
 LayerCount: 2
 Fore
-Refer: 407 807 N 1 0 0 1 -125 10 2
+Refer: 412 807 N 1 0 0 1 -125 10 2
 Refer: 4 104 N 1 0 0 1 0 0 3
-Validated: 98309
+Validated: 32773
 EndChar

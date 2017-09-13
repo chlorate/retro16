@@ -1,0 +1,13 @@
+StartChar: uni1E97
+Encoding: 7831 7831 463
+Width: 480
+VWidth: 0
+HStem: 0 80<280.613 446> 450 80<34 140 220 392> 750 20G<140 220> 850 81<48 128 232 312>
+VStem: 48 80<850 931> 140 80<151.821 450 530 770> 232 80<850 931>
+CounterMasks: 1 0e
+LayerCount: 2
+Fore
+Refer: 410 776 N 1 0 0 1 -20 161 2
+Refer: 6 116 N 1 0 0 1 0 0 3
+Validated: 98305
+EndChar

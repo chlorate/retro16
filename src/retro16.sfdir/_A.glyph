@@ -61,32 +61,34 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "macron-below" 320 0 basechar 0
+AnchorPoint: "bottom" 320 0 basechar 0
 AnchorPoint: "middle-right" 572 358 basechar 0
-AnchorPoint: "right" 572 716 basechar 0
+AnchorPoint: "top-right" 572 716 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "ogonek" 532 0 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-282 721 m 2,0,-1
- 358 721 l 2,1,2
- 572 721 572 721 572 470 c 2,3,-1
- 572 0 l 1,4,-1
- 492 0 l 1,5,-1
- 492 236 l 1,6,-1
- 148 236 l 1,7,-1
- 148 0 l 1,8,-1
- 68 0 l 1,9,-1
- 68 470 l 2,10,11
- 68 721 68 721 282 721 c 2,0,-1
-358 641 m 2,12,-1
- 282 641 l 2,13,14
- 148 641 148 641 148 470 c 2,15,-1
- 148 316 l 1,16,-1
- 492 316 l 1,17,-1
- 492 470 l 2,18,19
- 492 641 492 641 358 641 c 2,12,-1
+282 721 m 6,0,-1
+ 358 721 l 6,1,2
+ 572 721 572 721 572 470 c 6,3,-1
+ 572 0 l 5,4,-1
+ 492 0 l 5,5,-1
+ 492 236 l 5,6,-1
+ 148 236 l 5,7,-1
+ 148 0 l 5,8,-1
+ 68 0 l 5,9,-1
+ 68 470 l 6,10,11
+ 68 721 68 721 282 721 c 6,0,-1
+358 641 m 6,12,-1
+ 282 641 l 6,13,14
+ 148 641 148 641 148 470 c 6,15,-1
+ 148 316 l 5,16,-1
+ 492 316 l 5,17,-1
+ 492 470 l 6,18,19
+ 492 641 492 641 358 641 c 6,12,-1
 EndSplineSet
 Validated: 19457
 EndChar

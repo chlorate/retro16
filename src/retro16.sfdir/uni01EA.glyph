@@ -9,10 +9,10 @@ AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
 AnchorPoint: "ogonek" 378 10 basechar 0
-AnchorPoint: "right" 572 716 basechar 0
+AnchorPoint: "top-right" 572 716 basechar 0
 LayerCount: 2
 Fore
-Refer: 394 808 N 1 0 0 1 163 20 2
+Refer: 398 808 N 1 0 0 1 163 20 2
 Refer: 42 79 N 1 0 0 1 0 0 3
-Validated: 98309
+Validated: 1081349
 EndChar

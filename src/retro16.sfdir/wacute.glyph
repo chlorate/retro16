@@ -1,0 +1,12 @@
+StartChar: wacute
+Encoding: 7811 7811 454
+Width: 880
+VWidth: 0
+HStem: 0 82<213.111 376.317 534.391 732> 510 20G<68 148 400 480 732 812> 610 240
+VStem: 68 80<155.047 530> 340 264 400 80<144.549 530> 732 80<82 530>
+LayerCount: 2
+Fore
+Refer: 406 769 N 1 0 0 1 272 80 2
+Refer: 24 119 N 1 0 0 1 0 0 3
+Validated: 32769
+EndChar

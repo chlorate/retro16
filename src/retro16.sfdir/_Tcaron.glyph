@@ -7,7 +7,7 @@ HStem: 0 21G<320 400> 636 80<68 320 400 652> 796 240
 VStem: 320 80<0 636>
 LayerCount: 2
 Fore
-Refer: 398 780 N 1 0 0 1 90 266 2
+Refer: 403 780 N 1 0 0 1 90 266 2
 Refer: 47 84 N 1 0 0 1 0 0 3
-Validated: 98305
+Validated: 32769
 EndChar

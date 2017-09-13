@@ -1,0 +1,14 @@
+StartChar: uni030B
+Encoding: 779 779 400
+Width: 630
+VWidth: 0
+Flags: W
+HStem: 530 240
+VStem: 68 264 298 264
+AnchorPoint: "top" 245 450 mark 0
+LayerCount: 2
+Fore
+Refer: 406 769 N 1 0 0 1 230 0 2
+Refer: 406 769 N 1 0 0 1 0 0 2
+Validated: 32769
+EndChar

@@ -79,8 +79,10 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "macron-below" 280 0 basechar 0
+AnchorPoint: "bottom" 280 0 basechar 0
 AnchorPoint: "middle-right" 492 265 basechar 0
-AnchorPoint: "right" 492 530 basechar 0
+AnchorPoint: "top-right" 492 530 basechar 0
 AnchorPoint: "ogonek" 332 10 basechar 0
 AnchorPoint: "cedilla" 280 0 basechar 0
 AnchorPoint: "top" 280 530 basechar 0

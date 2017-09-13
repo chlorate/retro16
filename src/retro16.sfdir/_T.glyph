@@ -61,23 +61,25 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "macron-below" 360 0 basechar 0
+AnchorPoint: "bottom" 360 0 basechar 0
 AnchorPoint: "middle-right" 652 358 basechar 0
 AnchorPoint: "top" 360 716 basechar 0
-AnchorPoint: "cedilla" 361 0 basechar 0
-AnchorPoint: "ogonek" 361 0 basechar 0
-AnchorPoint: "right" 653 715 basechar 0
+AnchorPoint: "cedilla" 360 0 basechar 0
+AnchorPoint: "ogonek" 360 0 basechar 0
+AnchorPoint: "top-right" 653 715 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-320 0 m 1,0,-1
- 320 636 l 1,1,-1
- 68 636 l 1,2,-1
- 68 716 l 1,3,-1
- 652 716 l 1,4,-1
- 652 636 l 1,5,-1
- 400 636 l 1,6,-1
- 400 0 l 1,7,-1
- 320 0 l 1,0,-1
+320 0 m 5,0,-1
+ 320 636 l 5,1,-1
+ 68 636 l 5,2,-1
+ 68 716 l 5,3,-1
+ 652 716 l 5,4,-1
+ 652 636 l 5,5,-1
+ 400 636 l 5,6,-1
+ 400 0 l 5,7,-1
+ 320 0 l 5,0,-1
 EndSplineSet
 Validated: 19457
 EndChar

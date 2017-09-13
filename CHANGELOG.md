@@ -8,6 +8,7 @@ Changelog
 * `C`, `c`: more rounded.
 * `j`: fix descender slightly too low.
 * `¿`: fix horizontal centring.
+* Many symbols and accented letters added.
 * Various kerning improvements.
 
 2.2.0 (2017-05-24)

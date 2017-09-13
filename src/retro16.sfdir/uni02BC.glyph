@@ -1,5 +1,5 @@
 StartChar: uni02BC
-Encoding: 700 700 357
+Encoding: 700 700 358
 Width: 296
 VWidth: 1280
 Flags: HW
@@ -7,6 +7,6 @@ HStem: 629 141<68 148>
 VStem: 68 160<629 770>
 LayerCount: 2
 Fore
-Refer: 314 8217 N 1 0 0 1 0 0 2
+Refer: 314 8217 S 1 0 0 1 0 0 2
 Validated: 98305
 EndChar

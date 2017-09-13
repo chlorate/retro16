@@ -73,11 +73,13 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "macron-below" 360 0 basechar 0
+AnchorPoint: "bottom" 360 0 basechar 0
 AnchorPoint: "middle-right" 652 358 basechar 0
 AnchorPoint: "cedilla" 360 0 basechar 0
 AnchorPoint: "ogonek" 612 0 basechar 0
 AnchorPoint: "top" 360 716 basechar 0
-AnchorPoint: "right" 612 716 basechar 0
+AnchorPoint: "top-right" 612 716 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1505258806
+ModificationTime: 1505344352
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -44,7 +44,7 @@ OS2XHeight: 530
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 Lookup: 258 0 0 "kerning" { "upper" [153,15,6] "lower" [153,15,6] "symbols" [153,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "mark" { "marks"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "mark" { "marks"  } []
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 6 8 "symbols"
@@ -849,13 +849,12 @@ LangName: 1033
 GaspTable: 3 8 2 16 1 65535 3 0
 DesignSize: 120
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 220 22 9
+WinInfo: 0 22 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -961,5 +960,5 @@ Grid
  68 -315 l 1049
 EndSplineSet
 TeXData: 1 12582912 0 349525 174762 116508 489335 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "middle-right" "marks" "right" "marks" "ogonek" "marks" "cedilla" "marks" "top" "marks"
+AnchorClass2: "macron-below" "marks" "bottom" "marks" "middle-right" "marks" "top-right" "marks" "ogonek" "marks" "cedilla" "marks" "top" "marks"
 EndSplineFont

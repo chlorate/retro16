@@ -73,8 +73,10 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "middle-right" 572 358 basechar 0
-AnchorPoint: "right" 572 716 basechar 0
+AnchorPoint: "macron-below" 320 0 basechar 0
+AnchorPoint: "bottom" 320 0 basechar 0
+AnchorPoint: "middle-right" 403 358 basechar 0
+AnchorPoint: "top-right" 572 716 basechar 0
 AnchorPoint: "ogonek" 320 0 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "top" 320 715 basechar 0

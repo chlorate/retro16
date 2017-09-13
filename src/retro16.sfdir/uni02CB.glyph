@@ -1,5 +1,5 @@
 StartChar: uni02CB
-Encoding: 715 715 404
+Encoding: 715 715 409
 Width: 400
 VWidth: 0
 Flags: HW
@@ -7,6 +7,6 @@ HStem: 530 240
 VStem: 68 264
 LayerCount: 2
 Fore
-Refer: 403 768 N 1 0 0 1 0 0 2
-Validated: 98305
+Refer: 408 768 N 1 0 0 1 0 0 2
+Validated: 32769
 EndChar

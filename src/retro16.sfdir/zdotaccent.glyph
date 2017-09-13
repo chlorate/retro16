@@ -7,7 +7,7 @@ HStem: 0 80<160 492> 450 80<68 400> 610 160<200 360>
 VStem: 200 160<610 770>
 LayerCount: 2
 Fore
-Refer: 396 775 N 1 0 0 1 132 -62 2
+Refer: 401 775 N 1 0 0 1 132 -62 2
 Refer: 26 122 N 1 0 0 1 0 0 3
-Validated: 98305
+Validated: 32769
 EndChar
