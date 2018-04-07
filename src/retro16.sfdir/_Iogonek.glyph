@@ -2,7 +2,6 @@ StartChar: Iogonek
 Encoding: 302 302 347
 Width: 560
 VWidth: 0
-Flags: H
 HStem: -220 80<386.049 494.904> -10 20G<353.5 492> 0 80<68 240 320 492> 636 80<68 240 320 492>
 VStem: 240 80<80 636> 295 90<-137.924 -69.8379>
 LayerCount: 2

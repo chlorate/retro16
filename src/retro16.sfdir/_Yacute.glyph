@@ -2,7 +2,7 @@ StartChar: Yacute
 Encoding: 221 221 143
 Width: 640
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<280 360> 696 20G<68 148 492 572> 795 240
 VStem: 68 80<554 716> 220 264 280 80<0 314> 492 80<554 716>
 LayerCount: 2

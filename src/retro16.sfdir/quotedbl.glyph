@@ -2,7 +2,7 @@ StartChar: quotedbl
 Encoding: 34 34 72
 Width: 400
 VWidth: 1280
-Flags: HW
+Flags: W
 HStem: 559 211<80 160 240 320>
 VStem: 80 80<559 685.037> 240 80<559 685.037>
 LayerCount: 2

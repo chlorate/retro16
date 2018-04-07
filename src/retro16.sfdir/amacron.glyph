@@ -2,7 +2,7 @@ StartChar: amacron
 Encoding: 257 257 151
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 80<169.097 411> 236 80<169.097 411> 450 80<148 369.443> 610 80<68 492>
 VStem: 58 81<107.212 208.788> 411 81<80 236 316 404.557>
 LayerCount: 2

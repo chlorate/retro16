@@ -2,7 +2,7 @@ StartChar: uni01F5
 Encoding: 501 501 291
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -220 80<121 362.605> 0 80<188.051 412> 450 80<188.051 412> 610 240
 VStem: 58 80<136.125 394.095> 180 264 412 80<-90.6445 0 80 450>
 LayerCount: 2

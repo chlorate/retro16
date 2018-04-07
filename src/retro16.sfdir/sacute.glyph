@@ -2,7 +2,7 @@ StartChar: sacute
 Encoding: 347 347 235
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 80<162.98 391.798> 272 82<150.988 391.52> 450 80<150.988 471> 610 240
 VStem: 58 80<106.812 175 367.778 435.961> 180 264 422 80<109.62 241.512>
 LayerCount: 2

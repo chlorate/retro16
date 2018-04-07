@@ -2,7 +2,6 @@ StartChar: ohungarumlaut
 Encoding: 337 337 415
 Width: 560
 VWidth: 0
-Flags: H
 HStem: -5 81<193.483 366.517> 455 80<193.483 366.517> 610 240
 VStem: 58 80<135.684 396.661> 103 264 333 264 422 80<135.684 396.661>
 LayerCount: 2

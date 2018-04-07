@@ -2,7 +2,6 @@ StartChar: uni0211
 Encoding: 529 529 429
 Width: 492
 VWidth: 0
-Flags: H
 HStem: 0 21G<68 148> 450 80<234.104 424> 610 240
 VStem: -71 264 68 80<0 374.162 469 530> 159 264
 LayerCount: 2

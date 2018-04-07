@@ -2,7 +2,7 @@ StartChar: breve
 Encoding: 728 728 330
 Width: 504
 VWidth: 1280
-Flags: HW
+Flags: W
 HStem: 580 76<174.897 329.103> 750 20G<58 137 367 446>
 VStem: 58 79<695.967 770> 367 79<695.967 770>
 LayerCount: 2

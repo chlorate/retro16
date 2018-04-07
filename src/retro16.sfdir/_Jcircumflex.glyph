@@ -2,7 +2,7 @@ StartChar: Jcircumflex
 Encoding: 308 308 210
 Width: 640
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -5 80<202.17 437.83> 696 20G<492 572> 796 240
 VStem: 68 80<138.838 316> 492 80<138.838 716>
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: acute
 Encoding: 180 180 95
 Width: 400
 VWidth: 1280
-Flags: HW
+Flags: W
 HStem: 530 240
 VStem: 68 264
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: Ydieresis
 Encoding: 376 376 174
 Width: 640
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<280 360> 696 20G<68 148 492 572> 795 81<188 268 372 452>
 VStem: 68 80<554 716> 188 80<795 876> 280 80<0 314> 372 80<795 876> 492 80<554 716>
 LayerCount: 2

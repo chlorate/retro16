@@ -2,7 +2,7 @@ StartChar: cacute
 Encoding: 263 263 159
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -5 80<172.906 390.379> 455 80<172.906 390.379> 610 240
 VStem: 58 80<114.187 415.813> 180 264 420 82<106.771 152 378 423.229>
 LayerCount: 2
