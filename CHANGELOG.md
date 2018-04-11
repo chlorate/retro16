@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.2.1
+2.3.0
 -----
 
 * `+`, `-`: fix vertical centring at various sizes.
