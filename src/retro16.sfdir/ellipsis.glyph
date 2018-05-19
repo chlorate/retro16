@@ -3,8 +3,8 @@ Encoding: 8230 8230 327
 Width: 776
 VWidth: 0
 Flags: W
-HStem: 0 160<68 228 308 468 548 708>
-VStem: 68 160<0 160> 308 160<0 160> 548 160<0 160>
+HStem: 0 160<80 240 320 480 560 720>
+VStem: 80 160<0 160> 320 160<0 160> 560 160<0 160>
 CounterMasks: 1 70
 LayerCount: 2
 Fore

@@ -2,7 +2,7 @@ StartChar: uni02CA
 Encoding: 714 714 407
 Width: 400
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 530 240
 VStem: 68 264
 LayerCount: 2

@@ -3,8 +3,8 @@ Encoding: 74 74 39
 Width: 640
 VWidth: 0
 Flags: W
-HStem: -5 80<202.17 437.83> 696 20G<492 572>
-VStem: 68 80<138.838 316> 492 80<138.838 716>
+HStem: -5 80<205.158 434.842> 696 20G<487 572>
+VStem: 68 85<137.377 316> 487 85<137.377 716>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -65,23 +65,23 @@ AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "top-right" 572 716 basechar 0
 AnchorPoint: "ogonek" 410 10 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
-AnchorPoint: "top" 532 716 basechar 0
+AnchorPoint: "top" 530 716 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 316 m 1,0,-1
- 148 266 l 2,1,2
- 148 75 148 75 268 75 c 2,3,-1
+153 316 m 1,0,-1
+ 153 259 l 2,1,2
+ 153 75 153 75 268 75 c 2,3,-1
  372 75 l 2,4,5
- 492 75 492 75 492 266 c 2,6,-1
- 492 716 l 1,7,-1
+ 487 75 487 75 487 259 c 2,6,-1
+ 487 716 l 1,7,-1
  572 716 l 1,8,-1
  572 259 l 2,9,10
  572 -5 572 -5 372 -5 c 2,11,-1
  268 -5 l 2,12,13
  68 -5 68 -5 68 259 c 2,14,-1
  68 316 l 1,15,-1
- 148 316 l 1,0,-1
+ 153 316 l 1,0,-1
 EndSplineSet
 Validated: 19457
 EndChar

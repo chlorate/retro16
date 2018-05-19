@@ -2,9 +2,9 @@ StartChar: Dcaron
 Encoding: 270 270 166
 Width: 640
 VWidth: 0
-Flags: W
-HStem: 0 80<148 427.523> 636 80<148 340.134> 783 240
-VStem: 68 80<80 636> 502 80<162 434.284>
+Flags: HW
+HStem: 0 80<153 425.778> 636 80<153 324.695> 783 240
+VStem: 68 85<80 636> 497 85<158.567 436.252>
 LayerCount: 2
 Fore
 Refer: 403 780 N 1 0 0 1 55 253 2

@@ -2,7 +2,7 @@ StartChar: dieresis
 Encoding: 168 168 110
 Width: 400
 VWidth: 1280
-Flags: W
+Flags: HW
 HStem: 689 81<68 148 252 332>
 VStem: 68 80<689 770> 252 80<689 770>
 LayerCount: 2

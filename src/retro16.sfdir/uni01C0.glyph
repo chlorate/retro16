@@ -1,9 +1,9 @@
 StartChar: uni01C0
 Encoding: 448 448 273
-Width: 216
+Width: 240
 VWidth: 0
 Flags: W
-VStem: 68 80<-240 960>
+VStem: 78 84<-240 960>
 LayerCount: 2
 Fore
 Refer: 82 124 N 1 0 0 1 0 0 3

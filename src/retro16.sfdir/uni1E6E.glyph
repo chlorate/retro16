@@ -2,8 +2,8 @@ StartChar: uni1E6E
 Encoding: 7790 7790 545
 Width: 720
 VWidth: 0
-HStem: -160 80<148 572> 0 21G<320 400> 636 80<68 320 400 652>
-VStem: 320 80<0 636>
+HStem: -160 80<148 572> 0 21G<318 402> 636 80<68 318 402 652>
+VStem: 318 84<0 636>
 LayerCount: 2
 Fore
 Refer: 531 817 N 1 0 0 1 80 0 2

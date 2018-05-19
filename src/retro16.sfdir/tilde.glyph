@@ -2,7 +2,7 @@ StartChar: tilde
 Encoding: 732 732 326
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 559 80<331.872 402.303> 700 80<157.697 228.128> 750 20G<422 502>
 VStem: 58 80<569 680.27> 422 80<658.73 770>
 LayerCount: 2

@@ -2,9 +2,9 @@ StartChar: Jcircumflex
 Encoding: 308 308 210
 Width: 640
 VWidth: 0
-Flags: W
-HStem: -5 80<202.17 437.83> 696 20G<492 572> 796 240
-VStem: 68 80<138.838 316> 492 80<138.838 716>
+Flags: HW
+HStem: -5 80<205.158 434.842> 696 20G<487 572> 796 240
+VStem: 68 85<137.377 316> 487 85<137.377 716>
 LayerCount: 2
 Fore
 Refer: 404 770 N 1 0 0 1 262 266 2

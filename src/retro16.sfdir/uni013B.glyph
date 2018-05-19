@@ -2,9 +2,9 @@ StartChar: uni013B
 Encoding: 315 315 216
 Width: 640
 VWidth: 0
-Flags: W
-HStem: -221 141<240 320> 0 80<148 572> 696 20G<68 148>
-VStem: 68 80<80 716> 240 160<-221 -80>
+Flags: HW
+HStem: -221 141<240 320> 0 80<153 572> 696 20G<68 153>
+VStem: 68 85<80 716> 240 160<-221 -80>
 LayerCount: 2
 Fore
 Refer: 396 806 N 1 0 0 1 172 0 2

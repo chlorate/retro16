@@ -4,13 +4,14 @@ Changelog
 2.3.0
 -----
 
-* `+`, `-`: fix vertical centring at various sizes.
-* `C`, `c`: more rounded.
-* `j`: fix descender slightly too low.
-* `¿`: fix horizontal centring.
+* Many symbols added: Latin-1 Suppliment and others.
+* Many accented letters added.
+* Many kerning improvements.
+* Slightly thicken vertical lines on all glyphs.
+* Various small tweaks and fixes.
+* `+-`: fix vertical centring at various sizes.
 * `@`: taller, more rounded.
-* Many symbols and accented letters added.
-* Various kerning improvements.
+* `&`: redrawn.
 
 2.2.0 (2017-05-24)
 ------------------

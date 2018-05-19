@@ -3,8 +3,8 @@ Encoding: 274 274 175
 Width: 640
 VWidth: 0
 Flags: W
-HStem: 0 80<148 572> 329 80<148 480> 636 80<148 572> 796 80<108 532>
-VStem: 68 80<80 329 409 636>
+HStem: 0 80<153 572> 329 80<153 487> 636 80<153 572> 796 80<108 532>
+VStem: 68 85<80 329 409 636>
 AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "top" 320 876 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0

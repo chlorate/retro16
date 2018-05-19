@@ -1,10 +1,10 @@
 StartChar: rcaron
 Encoding: 345 345 233
-Width: 492
+Width: 480
 VWidth: 0
-Flags: W
-HStem: 0 21G<68 148> 450 80<234.104 424> 610 240
-VStem: 68 80<0 374.162 469 530>
+Flags: HW
+HStem: 0 21G<68 153> 450 80<253.771 422> 610 240
+VStem: 68 85<0 362.435 454 530>
 LayerCount: 2
 Fore
 Refer: 403 780 N 1 0 0 1 -24 80 2

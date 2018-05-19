@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1523488286
+ModificationTime: 1526755077
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -816,16 +816,15 @@ MUL
 SWAP
 ENDF
 EndTTInstrs
-ShortTable: cvt  9
+ShortTable: cvt  8
   -5
   0
   530
   716
   770
-  81
-  87
-  76
-  83
+  80
+  86
+  82
 EndShort
 ShortTable: maxp 16
   0
@@ -849,12 +848,13 @@ LangName: 1033
 GaspTable: 3 8 2 16 1 65535 3 0
 DesignSize: 120
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 10
+WinInfo: 364 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -941,10 +941,10 @@ Grid
  728 391 l 1049
 572 1012 m 25
  572 -314 l 1049
-492 1011 m 25
- 492 -315 l 1049
-148 1012 m 25
- 148 -314 l 1049
+487 1011 m 25
+ 487 -315 l 1049
+153 1012 m 25
+ 153 -314 l 1049
 -98 0 m 25
  728 0 l 1049
 728 80 m 25

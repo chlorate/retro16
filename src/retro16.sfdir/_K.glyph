@@ -3,79 +3,79 @@ Encoding: 75 75 40
 Width: 640
 VWidth: 0
 Flags: W
-HStem: 0 21G<68 148 486 572> 329 80<148 355.875> 696 20G<68 148 486 572>
-VStem: 68 80<0 329 409 716> 492 80<0 151.568 574.567 716>
+HStem: 0 21G<68 153 487 572> 329 80<153 354.703> 696 20G<68 153 487 572>
+VStem: 68 85<0 329 409 716> 487 85<0 178.308 551.744 716>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 3
+ 18
  3
  0
 CALL
 PUSHB_1
- 8
-SHP[rp1]
-PUSHB_1
- 2
-MDAP[rnd]
-PUSHB_1
- 13
-SHP[rp1]
-PUSHB_1
  0
-MDAP[rnd]
-PUSHB_1
- 5
-MDRP[min,rnd,black]
-SVTCA[x-axis]
+SHP[rp1]
 PUSHB_1
  17
 MDAP[rnd]
 PUSHB_1
- 2
+ 9
+SHP[rp1]
+PUSHB_1
+ 15
+MDAP[rnd]
+PUSHB_1
+ 20
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 25
+MDAP[rnd]
+PUSHB_1
+ 17
 MDRP[rp0,rnd,white]
 PUSHB_1
- 1
+ 16
 MDRP[min,rnd,black]
 PUSHB_1
- 4
+ 19
 SHP[rp2]
 PUSHB_1
- 1
+ 16
 SRP0
 PUSHB_2
- 14
+ 10
  1
 CALL
 PUSHB_1
- 8
+ 0
 SHP[rp2]
-PUSHB_1
- 13
-MDRP[min,rnd,black]
 PUSHB_1
  9
+MDRP[min,rnd,black]
+PUSHB_1
+ 1
 SHP[rp2]
 PUSHB_2
- 18
+ 26
  1
 CALL
 PUSHB_2
- 14
- 1
+ 10
+ 16
 SRP1
 SRP2
 PUSHB_1
- 11
+ 5
 IP
 SVTCA[y-axis]
 PUSHB_2
- 5
- 0
+ 20
+ 15
 SRP1
 SRP2
 PUSHB_1
- 11
+ 5
 IP
 IUP[y]
 IUP[x]
@@ -84,26 +84,30 @@ AnchorPoint: "macron-below" 320 0 basechar 0
 AnchorPoint: "bottom" 320 0 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
 AnchorPoint: "middle-right" 572 358 basechar 0
-AnchorPoint: "cedilla" 108 6.92779e-014 basechar 0
+AnchorPoint: "cedilla" 110 0 basechar 0
 AnchorPoint: "ogonek" 532 0 basechar 0
 AnchorPoint: "top-right" 572 716 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-148 329 m 1,0,-1
- 148 0 l 1,1,-1
- 68 0 l 1,2,-1
- 68 716 l 1,3,-1
- 148 716 l 1,4,-1
- 148 409 l 1,5,-1
- 258 409 l 2,6,7
- 480 409 480 409 492 716 c 1,8,-1
- 572 716 l 1,9,10
- 572 416 572 416 400 366 c 1,11,12
- 572 304 572 304 572 0 c 1,13,-1
- 492 0 l 1,14,15
- 480 329 480 329 258 329 c 2,16,-1
- 148 329 l 1,0,-1
+487 716 m 5,0,-1
+ 572 716 l 5,1,2
+ 572 475 572 475 454 390 c 4,3,4
+ 438 379 438 379 420 369 c 5,5,6
+ 438 359 438 359 454 348 c 4,7,8
+ 572 263 572 263 572 0 c 5,9,-1
+ 487 0 l 5,10,11
+ 487 209 487 209 408 274 c 4,12,13
+ 342 329 342 329 249 329 c 6,14,-1
+ 153 329 l 5,15,-1
+ 153 0 l 5,16,-1
+ 68 0 l 5,17,-1
+ 68 716 l 5,18,-1
+ 153 716 l 5,19,-1
+ 153 409 l 5,20,-1
+ 249 409 l 6,21,22
+ 342 409 342 409 408 464 c 4,23,24
+ 487 529 487 529 487 716 c 5,0,-1
 EndSplineSet
-Validated: 19457
+Validated: 3073
 EndChar

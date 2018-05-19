@@ -1,10 +1,10 @@
 StartChar: l
 Encoding: 108 108 5
-Width: 216
+Width: 240
 VWidth: 0
 Flags: W
-HStem: 0 21G<68 148> 750 20G<68 148>
-VStem: 68 80<0 770>
+HStem: 0 21G<78 162> 750 20G<78 162>
+VStem: 78 84<0 770>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -39,21 +39,21 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "macron-below" 108 0 basechar 0
-AnchorPoint: "bottom" 108 0 basechar 0
-AnchorPoint: "middle-right" 148 385 basechar 0
-AnchorPoint: "top" 108 770 basechar 0
-AnchorPoint: "cedilla" 108 0 basechar 0
-AnchorPoint: "ogonek" 108 0 basechar 0
-AnchorPoint: "top-right" 148 770 basechar 0
+AnchorPoint: "macron-below" 120 0 basechar 0
+AnchorPoint: "bottom" 120 0 basechar 0
+AnchorPoint: "middle-right" 162 385 basechar 0
+AnchorPoint: "top" 120 770 basechar 0
+AnchorPoint: "cedilla" 120 0 basechar 0
+AnchorPoint: "ogonek" 120 0 basechar 0
+AnchorPoint: "top-right" 162 770 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-68 0 m 9,0,-1
- 68 770 l 1,1,-1
- 148 770 l 1,2,-1
- 148 0 l 17,3,4
- 68 0 l 9,0,-1
+78 0 m 9,0,-1
+ 78 770 l 1,1,-1
+ 162 770 l 1,2,-1
+ 162 0 l 17,3,4
+ 78 0 l 9,0,-1
 EndSplineSet
 Validated: 19457
 EndChar

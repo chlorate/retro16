@@ -3,9 +3,8 @@ Encoding: 559 559 309
 Width: 560
 VWidth: 0
 Flags: W
-HStem: -5 81<193.483 366.517> 455 80<193.483 366.517> 610 160<200 360>
-VStem: 58 80<135.684 396.661> 200 160<610 770> 422 80<135.684 396.661>
-CounterMasks: 1 1c
+HStem: -5 81<197.744 362.256> 455 80<197.744 362.256> 610 160<212 372>
+VStem: 58 85<133.929 396.661> 212 160<610 770> 417 85<133.929 396.661>
 AnchorPoint: "middle-right" 492 265 basechar 0
 AnchorPoint: "top-right" 492 530 basechar 0
 AnchorPoint: "ogonek" 332 10 basechar 0

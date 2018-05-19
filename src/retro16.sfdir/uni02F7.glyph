@@ -2,7 +2,7 @@ StartChar: uni02F7
 Encoding: 759 759 551
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -291 80<331.872 402.303> -150 80<157.697 228.128> -100 20G<422 502>
 VStem: 58 80<-281 -169.73> 422 80<-191.27 -80>
 LayerCount: 2

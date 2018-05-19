@@ -3,8 +3,8 @@ Encoding: 775 775 401
 Width: 296
 VWidth: 1280
 Flags: W
-HStem: 672 160<68 228>
-VStem: 68 160<672 832>
+HStem: 672 160<80 240>
+VStem: 80 160<672 832>
 AnchorPoint: "top" 148 592 mark 0
 LayerCount: 2
 Fore
