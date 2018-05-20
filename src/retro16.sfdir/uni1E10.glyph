@@ -2,11 +2,11 @@ StartChar: uni1E10
 Encoding: 7696 7696 441
 Width: 640
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 HStem: -220 80<155 390.989> 0 80<153 425.806> 636 80<153 324.695>
 VStem: 68 85<80 636> 391 102<-183 -92.9175> 497 85<158.567 436.265>
 LayerCount: 2
 Fore
 Refer: 412 807 N 1 0 0 1 80 0 2
 Refer: 32 68 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar

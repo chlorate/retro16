@@ -2,137 +2,18 @@ StartChar: daggerdbl
 Encoding: 8225 8225 323
 Width: 560
 VWidth: 1280
+UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 0 80<68 238 322 492> 470 80<68 238 322 492> 750 20G<238 322>
-VStem: 238 84<-220 0 80 470 550 770>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 16
- 1
- 0
-CALL
-PUSHB_1
- 11
-SHP[rp1]
-PUSHB_1
- 17
-MDRP[min,rnd,black]
-PUSHB_1
- 9
-SHP[rp2]
-PUSHB_3
- 16
- 17
- 10
-CALL
-PUSHB_4
- 64
- 16
- 14
- 9
-CALL
-PUSHB_3
- 3
- 4
- 0
-CALL
-PUSHB_5
- 1
- 0
- 14
- 3
- 13
-CALL
-PUSHB_1
- 7
-SHP[rp1]
-PUSHB_1
- 1
-MDRP[min,rnd,black]
-PUSHB_1
- 5
-SHP[rp2]
-SVTCA[x-axis]
-PUSHB_1
- 20
-MDAP[rnd]
-PUSHB_1
- 14
-MDRP[rp0,rnd,white]
-PUSHB_2
- 2
- 18
-SHP[rp2]
-SHP[rp2]
-PUSHB_1
- 13
-MDRP[min,rnd,black]
-PUSHB_2
- 4
- 8
-SHP[rp2]
-SHP[rp2]
-PUSHB_3
- 13
- 14
- 10
-CALL
-PUSHB_4
- 64
- 13
- 11
- 9
-CALL
-PUSHB_1
- 6
-SHP[rp2]
-PUSHB_3
- 14
- 13
- 10
-CALL
-PUSHB_4
- 64
- 14
- 16
- 9
-CALL
-PUSHB_1
- 0
-SHP[rp2]
-PUSHB_2
- 21
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: 0 80<68 492> 470 80<68 238 322 492> 750 20G<238 322>
+VStem: 238 84<-220 470 550 770>
 LayerCount: 2
 Fore
 SplineSet
-68 470 m 1,0,-1
- 68 550 l 1,1,-1
- 238 550 l 1,2,-1
- 238 770 l 1,3,-1
- 322 770 l 1,4,-1
- 322 550 l 1,5,-1
- 492 550 l 1,6,-1
- 492 470 l 1,7,-1
- 322 470 l 1,8,-1
- 322 80 l 1,9,-1
- 492 80 l 1,10,-1
- 492 0 l 1,11,-1
- 322 0 l 1,12,-1
- 322 -220 l 1,13,-1
- 238 -220 l 1,14,-1
- 238 0 l 1,15,-1
- 68 0 l 1,16,-1
- 68 80 l 1,17,-1
- 238 80 l 1,18,-1
- 238 470 l 1,19,-1
- 68 470 l 1,0,-1
+68 80 m 1
+ 492 80 l 1
+ 492 0 l 1
+ 68 0 l 1
+ 68 80 l 1
 EndSplineSet
-Validated: 19457
+Refer: 322 8224 N 1 0 0 1 0 0 2
 EndChar

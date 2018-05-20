@@ -2,171 +2,19 @@ StartChar: cent
 Encoding: 162 162 321
 Width: 560
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -5 80<177.328 238 322 386.603> 455 80<177.328 238 322 386.603>
-VStem: 58 85<114.187 415.813> 238 84<-85 -5 75 455 535 615> 417 85<106.771 152 378 423.229>
+HStem: -5 80<177.328 386.603> 455 80<177.328 386.603>
+VStem: 58 85<114.187 415.813> 238 84<-85 615> 417 85<106.771 152 378 423.229>
 CounterMasks: 1 38
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 0
- 0
- 0
-CALL
-PUSHB_1
- 23
-SHP[rp1]
-PUSHB_1
- 34
-MDRP[min,rnd,black]
-PUSHB_1
- 17
-SHP[rp2]
-PUSHB_3
- 0
- 34
- 10
-CALL
-PUSHB_4
- 64
- 0
- 26
- 9
-CALL
-PUSHB_3
- 34
- 0
- 10
-CALL
-PUSHB_4
- 64
- 34
- 20
- 9
-CALL
-PUSHB_3
- 5
- 2
- 0
-CALL
-PUSHB_1
- 9
-SHP[rp1]
-PUSHB_1
- 29
-MDRP[min,rnd,black]
-PUSHB_1
- 15
-SHP[rp2]
-PUSHB_3
- 29
- 5
- 10
-CALL
-PUSHB_4
- 64
- 29
- 13
- 9
-CALL
-PUSHB_3
- 5
- 29
- 10
-CALL
-PUSHB_4
- 64
- 5
- 7
- 9
-CALL
-SVTCA[x-axis]
-PUSHB_1
- 36
-MDAP[rnd]
-PUSHB_1
- 2
-MDRP[rp0,rnd,white]
-PUSHB_1
- 32
-MDRP[min,rnd,black]
-PUSHB_1
- 32
-SRP0
-PUSHB_2
- 26
- 1
-CALL
-PUSHB_2
- 6
- 28
-SHP[rp2]
-SHP[rp2]
-PUSHB_1
- 25
-MDRP[min,rnd,black]
-PUSHB_2
- 8
- 16
-SHP[rp2]
-SHP[rp2]
-PUSHB_1
- 25
-SRP0
-PUSHB_2
- 20
- 1
-CALL
-PUSHB_1
- 13
-SHP[rp2]
-PUSHB_1
- 21
-MDRP[min,rnd,black]
-PUSHB_1
- 12
-SHP[rp2]
-PUSHB_2
- 37
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-232 -5 m 2,0,1
- 58 -5 58 -5 58 216 c 2,2,-1
- 58 314 l 2,3,4
- 58 535 58 535 232 535 c 2,5,-1
- 238 535 l 1,6,-1
- 238 615 l 1,7,-1
- 322 615 l 1,8,-1
- 322 535 l 1,9,-1
- 332 535 l 2,10,11
- 479 535 479 535 502 378 c 1,12,-1
- 417 378 l 1,13,14
- 398 455 398 455 332 455 c 2,15,-1
- 322 455 l 1,16,-1
- 322 75 l 1,17,-1
- 332 75 l 2,18,19
- 398 75 398 75 417 152 c 1,20,-1
- 502 152 l 1,21,22
- 479 -5 479 -5 332 -5 c 2,23,-1
- 322 -5 l 1,24,-1
- 322 -85 l 1,25,-1
- 238 -85 l 1,26,-1
- 238 -5 l 1,27,-1
- 232 -5 l 2,0,1
-238 455 m 1,28,-1
- 232 455 l 2,29,30
- 143 455 143 455 143 314 c 2,31,-1
- 143 216 l 2,32,33
- 143 75 143 75 232 75 c 2,34,-1
- 238 75 l 1,35,-1
- 238 455 l 1,28,-1
+238 615 m 1
+ 322 615 l 1
+ 322 -85 l 1
+ 238 -85 l 1
+ 238 615 l 1
 EndSplineSet
-Validated: 19457
+Refer: 10 99 N 1 0 0 1 0 0 2
 EndChar

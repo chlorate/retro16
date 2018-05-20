@@ -2,7 +2,7 @@ StartChar: oslashacute
 Encoding: 511 511 598
 Width: 560
 VWidth: 0
-Flags: H
+UnlinkRmOvrlpSave: 1
 HStem: -5 21G<58 164.963> -5 81<197.744 362.256> 455 80<197.744 362.256> 515 20G<395.037 502> 610 240
 VStem: 58 85<133.929 396.661> 180 264 417 85<133.929 396.661>
 LayerCount: 2

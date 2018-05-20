@@ -2,6 +2,7 @@ StartChar: ccedilla
 Encoding: 231 231 158
 Width: 560
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -220 80<115 350.989> -5 80<177.328 386.603> 455 80<177.328 386.603>
 VStem: 58 85<114.187 415.813> 351 102<-183 -92.9175> 417 85<106.771 152 378 423.229>
@@ -16,5 +17,4 @@ LayerCount: 2
 Fore
 Refer: 412 807 N 1 0 0 1 40 0 2
 Refer: 10 99 N 1 0 0 1 0 0 3
-Validated: 32773
 EndChar

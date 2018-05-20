@@ -2,12 +2,12 @@ StartChar: iogonek
 Encoding: 303 303 348
 Width: 240
 VWidth: 0
-Flags: HW
+UnlinkRmOvrlpSave: 1
+Flags: W
 HStem: -220 80<54.0492 162.904> 0 21G<78 162> 510 20G<78 162> 652 118<78 162>
 VStem: -37 90<-137.924 -74.215> 78 84<0 530 652 770>
 LayerCount: 2
 Fore
 Refer: 398 808 N 1 0 0 1 -95 0 2
 Refer: 8 105 N 1 0 0 1 0 0 3
-Validated: 32773
 EndChar

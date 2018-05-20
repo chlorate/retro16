@@ -2,12 +2,11 @@ StartChar: Uogonek
 Encoding: 370 370 349
 Width: 640
 VWidth: 0
-Flags: H
+UnlinkRmOvrlpSave: 1
 HStem: -210 80<344.049 452.904> -5 80<207.953 432.047> 696 20G<68 153 487 572>
 VStem: 68 85<140.925 716> 253 90<-127.924 -64.215> 487 85<140.925 716>
 LayerCount: 2
 Fore
 Refer: 398 808 N 1 0 0 1 195 10 2
 Refer: 48 85 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
