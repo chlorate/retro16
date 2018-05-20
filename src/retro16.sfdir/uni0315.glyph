@@ -1,13 +1,13 @@
 StartChar: uni0315
 Encoding: 789 789 405
-Width: 296
+Width: 320
 VWidth: 1280
 Flags: HW
-HStem: 629 141<68 148>
-VStem: 68 160<629 770>
-AnchorPoint: "top-right" -32 770 mark 0
+HStem: 629 141<80 160>
+VStem: 80 160<629 770>
+AnchorPoint: "top-right" 0 770 mark 0
 LayerCount: 2
 Fore
 Refer: 314 8217 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 98305
 EndChar

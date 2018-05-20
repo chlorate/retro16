@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1526755077
+ModificationTime: 1526838158
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -816,7 +816,7 @@ MUL
 SWAP
 ENDF
 EndTTInstrs
-ShortTable: cvt  8
+ShortTable: cvt  7
   -5
   0
   530
@@ -824,7 +824,6 @@ ShortTable: cvt  8
   770
   80
   86
-  82
 EndShort
 ShortTable: maxp 16
   0
@@ -854,7 +853,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 364 26 10
+WinInfo: 0 26 9
 BeginPrivate: 0
 EndPrivate
 Grid

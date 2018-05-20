@@ -3,8 +3,8 @@ Encoding: 553 553 303
 Width: 560
 VWidth: 0
 Flags: W
-HStem: -219 80<115 355.45> -10 20G<240 386.5> 0 80<187.391 492> 236 80<143 407> 455 80<191.231 358.769>
-VStem: 58 85<129.359 236 316 405.454> 356 97<-182 -92.1147> 407 85<316 405.454>
+HStem: -220 80<115 350.989> 0 80<187.391 492> 236 80<143 407> 455 80<191.231 358.769>
+VStem: 58 85<129.359 236 316 405.454> 351 102<-183 -92.9175> 407 85<316 405.454>
 AnchorPoint: "macron-below" 280 0 basechar 0
 AnchorPoint: "bottom" 280 0 basechar 0
 AnchorPoint: "middle-right" 492 265 basechar 0
@@ -14,7 +14,7 @@ AnchorPoint: "cedilla" 280 0 basechar 0
 AnchorPoint: "top" 280 530 basechar 0
 LayerCount: 2
 Fore
-Refer: 412 807 N 1 0 0 1 47 10 2
+Refer: 412 807 N 1 0 0 1 40 0 2
 Refer: 7 101 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar

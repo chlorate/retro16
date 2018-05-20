@@ -1,16 +1,13 @@
 StartChar: uni0312
 Encoding: 786 786 594
-Width: 0
+Width: 320
 VWidth: 0
-Flags: H
-HStem: 489 141<148 228> 750 20G<136.571 228>
-VStem: 68 160<489 630>
-AnchorPoint: "top" 148 409 mark 0
+Flags: HW
+HStem: 489 141<160 240> 750 20G<148.571 240>
+VStem: 80 160<489 630>
+AnchorPoint: "top" 160 409 mark 0
 LayerCount: 2
 Fore
-SplineSet
--1102 997 m 1053
-EndSplineSet
 Refer: 313 8216 N 1 0 0 1 0 0 2
-Validated: 35841
+Validated: 98305
 EndChar

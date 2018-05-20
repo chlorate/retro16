@@ -86,7 +86,7 @@ AnchorPoint: "middle-right" 392 265 basechar 0
 AnchorPoint: "top-right" 392 770 basechar 0
 AnchorPoint: "top" 180 770 basechar 0
 AnchorPoint: "ogonek" 407 0 basechar 0
-AnchorPoint: "cedilla" 314 9 basechar 0
+AnchorPoint: "cedilla" 324 9 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -103,7 +103,7 @@ SplineSet
  224 530 l 1,11,-1
  392 530 l 1,12,-1
  392 450 l 1,13,-1
- 224 450 l 1,14,-1
+ 224 450 l 5,14,-1
  224 266 l 2,15,16
  224 80 224 80 353 80 c 2,17,-1
  446 80 l 1,0,-1

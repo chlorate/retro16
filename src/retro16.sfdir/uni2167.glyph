@@ -1,45 +1,45 @@
 StartChar: uni2167
 Encoding: 8551 8551 183
-Width: 1176
+Width: 1200
 VWidth: 0
 Flags: W
-HStem: 0 80<68 288 412 628 708 788 868 948 1028 1108> 636 80<68 126 212 487 574 628 708 788 868 948 1028 1108>
-VStem: 628 80<80 636> 788 80<80 636> 948 80<80 636>
+HStem: 0 80<69 302 406 640 724 804 888 968 1052 1132> 636 80<68 148 238 470 560 640 724 804 888 968 1052 1132>
+VStem: 640 84<80 636> 804 84<80 636> 968 84<80 636>
 CounterMasks: 1 38
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
- 15
+ 4
  1
  0
 CALL
 PUSHB_1
- 4
+ 5
 MDRP[min,rnd,black]
 PUSHB_5
  1
- 5
- 12
- 19
+ 6
+ 13
+ 21
  24
 DEPTH
 SLOOP
 SHP[rp2]
 PUSHB_3
- 8
+ 9
  3
  0
 CALL
 PUSHB_1
- 7
+ 8
 MDRP[min,rnd,black]
 PUSHB_7
  0
- 6
- 10
- 16
+ 7
+ 11
  17
- 22
+ 18
+ 20
  23
 DEPTH
 SLOOP
@@ -49,7 +49,7 @@ PUSHB_1
  27
 MDAP[rnd]
 PUSHB_1
- 20
+ 22
 MDRP[rp0,rnd,white]
 PUSHB_1
  1
@@ -72,21 +72,21 @@ PUSHB_2
  1
 CALL
 PUSHB_1
- 12
+ 13
 MDRP[min,rnd,black]
 PUSHB_3
- 12
+ 13
  25
  10
 CALL
 PUSHB_4
  64
- 12
- 14
+ 13
+ 15
  9
 CALL
 PUSHB_1
- 9
+ 10
 SHP[rp2]
 PUSHB_2
  28
@@ -96,76 +96,76 @@ PUSHB_1
  54
 SMD
 PUSHW_3
- -15735
- -4567
+ -15790
+ -4371
  21
 CALL
 SPVFS
 PUSHB_1
- 6
+ 7
 MDAP[no-rnd]
 SFVTPV
 PUSHB_1
- 18
+ 16
 SRP0
 SFVTCA[x-axis]
 PUSHB_1
- 6
+ 7
 SRP0
 PUSHB_2
- 17
- 7
+ 18
+ 6
 MIRP[rp0,min,black]
 PUSHB_1
- 18
+ 16
 SRP0
 PUSHB_2
- 5
- 7
+ 6
+ 6
 MIRP[rp0,min,black]
 PUSHW_3
- 15726
- -4598
+ 15790
+ -4371
  21
 CALL
 SPVFS
 PUSHB_1
- 16
+ 17
 MDAP[no-rnd]
 PUSHB_1
- 19
+ 21
 MDAP[no-rnd]
 PUSHB_1
- 16
+ 17
 SRP0
 PUSHB_2
- 22
- 7
+ 20
+ 6
 MIRP[rp0,min,black]
 PUSHB_2
- 17
  18
+ 16
 SFVTL[parallel]
 PUSHB_1
- 19
+ 21
 SRP0
 PUSHB_2
- 18
- 7
+ 16
+ 6
 MIRP[rp0,min,black]
 SVTCA[y-axis]
 PUSHB_1
- 18
+ 16
 MDAP[no-rnd]
 SVTCA[x-axis]
 PUSHB_7
- 5
  6
+ 7
  16
  17
  18
- 19
- 22
+ 20
+ 21
 MDAP[no-rnd]
 MDAP[no-rnd]
 MDAP[no-rnd]
@@ -184,38 +184,38 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-708 636 m 1,0,-1
- 708 80 l 1,1,-1
- 788 80 l 1,2,-1
- 788 636 l 1,3,-1
- 708 636 l 1,0,-1
-68 80 m 1,4,-1
- 288 80 l 1,5,-1
- 126 636 l 1,6,-1
- 68 636 l 1,7,-1
- 68 716 l 1,8,-1
- 1108 716 l 1,9,-1
- 1108 636 l 1,10,-1
- 1028 636 l 1,11,-1
- 1028 80 l 1,12,-1
- 1108 80 l 1,13,-1
- 1108 0 l 1,14,-1
- 68 0 l 1,15,-1
- 68 80 l 1,4,-1
-487 636 m 1,16,-1
- 212 636 l 1,17,-1
- 349 164 l 1,18,-1
- 487 636 l 1,16,-1
-412 80 m 1,19,-1
- 628 80 l 1,20,-1
- 628 636 l 1,21,-1
- 574 636 l 1,22,-1
- 412 80 l 1,19,-1
-868 636 m 1,23,-1
- 868 80 l 1,24,-1
- 948 80 l 1,25,-1
- 948 636 l 1,26,-1
- 868 636 l 1,23,-1
+724 636 m 1,0,-1
+ 724 80 l 1,1,-1
+ 804 80 l 1,2,-1
+ 804 636 l 1,3,-1
+ 724 636 l 1,0,-1
+69 0 m 1,4,-1
+ 69 80 l 1,5,-1
+ 302 80 l 1,6,-1
+ 148 636 l 1,7,-1
+ 68 636 l 1,8,-1
+ 68 716 l 1,9,-1
+ 1132 716 l 1,10,-1
+ 1132 636 l 1,11,-1
+ 1052 636 l 1,12,-1
+ 1052 80 l 1,13,-1
+ 1132 80 l 1,14,-1
+ 1132 0 l 1,15,-1
+ 69 0 l 1,4,-1
+354 217 m 1,16,-1
+ 470 636 l 1,17,-1
+ 238 636 l 1,18,-1
+ 354 217 l 1,16,-1
+640 636 m 1,19,-1
+ 560 636 l 1,20,-1
+ 406 80 l 1,21,-1
+ 640 80 l 1,22,-1
+ 640 636 l 1,19,-1
+888 636 m 1,23,-1
+ 888 80 l 1,24,-1
+ 968 80 l 1,25,-1
+ 968 636 l 1,26,-1
+ 888 636 l 1,23,-1
 EndSplineSet
-Validated: 19457
+Validated: 3073
 EndChar

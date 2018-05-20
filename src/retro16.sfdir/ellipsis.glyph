@@ -1,6 +1,6 @@
 StartChar: ellipsis
 Encoding: 8230 8230 327
-Width: 776
+Width: 800
 VWidth: 0
 Flags: W
 HStem: 0 160<80 240 320 480 560 720>
@@ -11,5 +11,5 @@ Fore
 Refer: 52 46 N 1 0 0 1 480 0 2
 Refer: 52 46 N 1 0 0 1 240 0 2
 Refer: 52 46 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 98305
 EndChar

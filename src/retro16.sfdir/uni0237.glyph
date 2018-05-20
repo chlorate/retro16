@@ -1,10 +1,10 @@
 StartChar: uni0237
 Encoding: 567 567 150
-Width: 388
+Width: 400
 VWidth: 0
 Flags: W
-HStem: -240 80<0 187.969> 510 20G<240 320>
-VStem: 240 80<-103.181 530>
+HStem: -220 80<0 189.668> 510 20G<240 325>
+VStem: 240 85<-83.1812 530>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -36,23 +36,23 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "middle-right" 320 265 basechar 0
-AnchorPoint: "top-right" 320 530 basechar 0
-AnchorPoint: "ogonek" 160 -230 basechar 0
-AnchorPoint: "cedilla" 160 -230 basechar 0
-AnchorPoint: "top" 280 530 basechar 0
+AnchorPoint: "middle-right" 325 265 basechar 0
+AnchorPoint: "top-right" 325 530 basechar 0
+AnchorPoint: "ogonek" 163 -230 basechar 0
+AnchorPoint: "cedilla" 163 -230 basechar 0
+AnchorPoint: "top" 282 530 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-240 10 m 2,0,-1
+240 30 m 2,0,-1
  240 530 l 1,1,-1
- 320 530 l 1,2,-1
- 320 10 l 2,3,4
- 320 -240 320 -240 120 -240 c 2,5,-1
- 0 -240 l 1,6,-1
- 0 -160 l 1,7,-1
- 120 -160 l 2,8,9
- 240 -160 240 -160 240 10 c 2,0,-1
+ 325 530 l 1,2,-1
+ 325 30 l 2,3,4
+ 325 -220 325 -220 120 -220 c 2,5,-1
+ 0 -220 l 1,6,-1
+ 0 -140 l 1,7,-1
+ 120 -140 l 2,8,9
+ 240 -140 240 -140 240 30 c 2,0,-1
 EndSplineSet
-Validated: 19457
+Validated: 1051649
 EndChar

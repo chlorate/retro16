@@ -61,7 +61,7 @@ AnchorPoint: "macron-below" 280 0 basechar 0
 AnchorPoint: "bottom" 280 0 basechar 0
 AnchorPoint: "middle-right" 492 265 basechar 0
 AnchorPoint: "top" 280 769 basechar 0
-AnchorPoint: "cedilla" 111 7.10543e-015 basechar 0
+AnchorPoint: "cedilla" 108 7.10543e-015 basechar 0
 AnchorPoint: "ogonek" 449 4.26326e-014 basechar 0
 AnchorPoint: "top-right" 492 769 basechar 0
 LayerCount: 2

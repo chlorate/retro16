@@ -1,13 +1,13 @@
 StartChar: ldot
 Encoding: 320 320 221
-Width: 456
+Width: 480
 VWidth: 0
 Flags: W
-HStem: 0 21G<78 162> 305 160<248 408> 750 20G<78 162>
-VStem: 78 84<0 770> 248 160<305 465>
+HStem: 0 21G<78 162> 305 160<242 402> 750 20G<78 162>
+VStem: 78 84<0 770> 242 160<305 465>
 LayerCount: 2
 Fore
-Refer: 191 183 N 1 0 0 1 180 69 2
+Refer: 191 183 N 1 0 0 1 162 69 2
 Refer: 5 108 N 1 0 0 1 0 0 2
 Validated: 32769
 EndChar

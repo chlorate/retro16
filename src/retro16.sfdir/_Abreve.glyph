@@ -2,8 +2,8 @@ StartChar: Abreve
 Encoding: 258 258 331
 Width: 640
 VWidth: 0
-HStem: 0 21G<68 153 487 572> 236 80<153 487> 641 80<209.273 430.727> 786 76<242.897 397.103> 956 20G<126 205 435 514>
-VStem: 68 85<0 236 316 579.812> 126 79<901.967 976> 435 79<901.967 976> 487 85<0 236 316 579.812>
+HStem: 0 21G<68 153 487 572> 236 80<153 487> 641 80<209.273 430.727> 796 80<241.729 398.271> 966 20G<120 205 435 520>
+VStem: 68 85<0 236 316 579.812> 120 85<911.967 986> 435 85<911.967 986> 487 85<0 236 316 579.812>
 AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "top-right" 572 716 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
@@ -11,7 +11,7 @@ AnchorPoint: "ogonek" 532 0 basechar 0
 AnchorPoint: "top" 320 976 basechar 0
 LayerCount: 2
 Fore
-Refer: 402 774 N 1 0 0 1 68 206 2
+Refer: 402 774 N 1 0 0 1 40 216 2
 Refer: 28 65 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 1146881
 EndChar

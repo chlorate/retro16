@@ -2,11 +2,11 @@ StartChar: uni1ECA
 Encoding: 7882 7882 481
 Width: 560
 VWidth: 0
-HStem: -240 160<212 372> 0 80<68 238 322 492> 636 80<68 238 322 492>
-VStem: 212 160<-240 -80> 238 84<80 636>
+HStem: -240 160<200 360> 0 80<68 238 322 492> 636 80<68 238 322 492>
+VStem: 200 160<-240 -80> 238 84<80 636>
 LayerCount: 2
 Fore
-Refer: 477 803 N 1 0 0 1 132 0 2
+Refer: 477 803 N 1 0 0 1 120 0 2
 Refer: 38 73 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar

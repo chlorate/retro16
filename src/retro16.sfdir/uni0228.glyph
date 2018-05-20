@@ -3,8 +3,8 @@ Encoding: 552 552 302
 Width: 640
 VWidth: 0
 Flags: W
-HStem: -219 80<155 395.45> -10 20G<280 426.5> 0 80<153 572> 329 80<153 487> 636 80<153 572>
-VStem: 68 85<80 329 409 636> 396 97<-182 -92.1147>
+HStem: -220 80<155 390.989> 0 80<153 572> 329 80<153 487> 636 80<153 572>
+VStem: 68 85<80 329 409 636> 391 102<-183 -92.9175>
 AnchorPoint: "top" 320 716 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "ogonek" 532 0 basechar 0
@@ -14,7 +14,7 @@ AnchorPoint: "bottom" 320 0 basechar 0
 AnchorPoint: "macron-below" 320 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 412 807 N 1 0 0 1 87 10 2
+Refer: 412 807 N 1 0 0 1 80 0 2
 Refer: 33 69 N 1 0 0 1 0 0 3
-Validated: 32773
+Validated: 98309
 EndChar

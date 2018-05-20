@@ -2,11 +2,11 @@ StartChar: uni1E7F
 Encoding: 7807 7807 516
 Width: 560
 VWidth: 0
-HStem: -240 160<212 372> 0 21G<225.321 334.679> 510 20G<55 151.683 408.317 505>
-VStem: 212 160<-240 -80>
+HStem: -240 160<200 360> 0 21G<225.321 334.679> 510 20G<55 151.683 408.317 505>
+VStem: 200 160<-240 -80>
 LayerCount: 2
 Fore
-Refer: 477 803 N 1 0 0 1 132 0 2
+Refer: 477 803 N 1 0 0 1 120 0 2
 Refer: 19 118 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar

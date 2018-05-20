@@ -2,11 +2,12 @@ StartChar: uni1E45
 Encoding: 7749 7749 446
 Width: 560
 VWidth: 0
-HStem: 0 21G<68 153 407 492> 450 80<153 350.727> 610 160<212 372>
-VStem: 68 85<0 450> 212 160<610 770> 407 85<0 382.625>
+HStem: 0 21G<68 153 407 492> 450 80<153 350.727> 610 160<200 360>
+VStem: 68 85<0 450> 200 160<610 770> 407 85<0 382.625>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 401 775 N 1 0 0 1 132 -62 2
+Refer: 401 775 N 1 0 0 1 120 -62 2
 Refer: 0 110 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar

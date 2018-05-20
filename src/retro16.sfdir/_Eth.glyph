@@ -2,126 +2,25 @@ StartChar: Eth
 Encoding: 208 208 190
 Width: 640
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 0 80<148 427.523> 329 80<-12 68 148 308> 636 80<148 339.636>
-VStem: 68 80<80 329 409 636> 502 80<162 434.284>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 23
- 1
- 0
-CALL
-PUSHB_1
- 13
-MDRP[min,rnd,black]
-PUSHB_3
- 14
- 3
- 0
-CALL
-PUSHB_1
- 8
-MDRP[min,rnd,black]
-PUSHB_5
- 26
- 25
- 23
- 14
- 13
-CALL
-PUSHB_1
- 11
-SHP[rp1]
-PUSHB_1
- 26
-MDRP[min,rnd,black]
-PUSHB_1
- 9
-SHP[rp2]
-SVTCA[x-axis]
-PUSHB_1
- 28
-MDAP[rnd]
-PUSHB_1
- 23
-MDRP[rp0,rnd,white]
-PUSHB_1
- 14
-SHP[rp2]
-PUSHB_1
- 13
-MDRP[min,rnd,black]
-PUSHB_1
- 8
-SHP[rp2]
-PUSHB_3
- 13
- 23
- 10
-CALL
-PUSHB_4
- 64
- 13
- 11
- 9
-CALL
-PUSHB_3
- 23
- 13
- 10
-CALL
-PUSHB_4
- 64
- 23
- 25
- 9
-CALL
-PUSHB_1
- 13
-SRP0
-PUSHB_2
- 2
- 1
-CALL
-PUSHB_1
- 20
-MDRP[min,rnd,black]
-PUSHB_2
- 29
- 1
-CALL
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: 0 80<153 425.806> 329 80<-12 308> 636 80<153 324.695>
+VStem: 68 85<80 636> 497 85<158.567 436.265>
+AnchorPoint: "middle-right" 572 358 basechar 0
+AnchorPoint: "top-right" 572 716 basechar 0
+AnchorPoint: "ogonek" 390 10 basechar 0
+AnchorPoint: "cedilla" 320 0 basechar 0
+AnchorPoint: "top" 320 716 basechar 0
+AnchorPoint: "bottom" 320 0 basechar 0
+AnchorPoint: "macron-below" 320 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-348 80 m 2,0,1
- 502 80 502 80 502 288 c 2,2,-1
- 502 329 l 2,3,4
- 502 428 502 428 421 539 c 0,5,6
- 350 636 350 636 258 636 c 2,7,-1
- 148 636 l 1,8,-1
- 148 409 l 1,9,-1
- 308 409 l 1,10,-1
- 308 329 l 1,11,-1
- 148 329 l 1,12,-1
- 148 80 l 1,13,-1
- 348 80 l 2,0,1
-68 716 m 1,14,-1
- 258 716 l 2,15,16
- 399 716 399 716 485 592 c 0,17,18
- 582 453 582 453 582 329 c 2,19,-1
- 582 288 l 2,20,21
- 582 0 582 0 348 0 c 2,22,-1
- 68 0 l 1,23,-1
- 68 329 l 1,24,-1
- -12 329 l 1,25,-1
- -12 409 l 1,26,-1
- 68 409 l 1,27,-1
- 68 716 l 1,14,-1
+-12 409 m 1
+ 308 409 l 1
+ 308 329 l 1
+ -12 329 l 1
+ -12 409 l 1
 EndSplineSet
-Validated: 19457
+Refer: 32 68 N 1 0 0 1 0 0 2
 EndChar

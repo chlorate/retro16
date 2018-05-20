@@ -51,7 +51,7 @@ IUP[x]
 EndTTInstrs
 AnchorPoint: "macron-below" 320 0 basechar 0
 AnchorPoint: "bottom" 320 0 basechar 0
-AnchorPoint: "middle-right" 332 358 basechar 0
+AnchorPoint: "middle-right" 153 358 basechar 0
 AnchorPoint: "top-right" 332 716 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "ogonek" 532 0 basechar 0

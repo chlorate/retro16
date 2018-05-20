@@ -1,20 +1,12 @@
 StartChar: uni0328
 Encoding: 808 808 398
-Width: 317
+Width: 320
 VWidth: 1280
 Flags: W
-HStem: -230 80<149.049 257.904> -20 20G<116.5 255>
-VStem: 58 90<-147.924 -79.8379>
+HStem: -220 80<149.049 257.904>
+VStem: 58 90<-137.924 -74.215>
 TtInstrs:
 SVTCA[y-axis]
-PUSHB_3
- 0
- 1
- 0
-CALL
-PUSHB_1
- 2
-SHP[rp1]
 PUSHB_1
  11
 MDAP[rnd]
@@ -44,30 +36,22 @@ SRP2
 PUSHB_1
  9
 IP
-PUSHB_1
- 0
-SRP1
-PUSHB_2
- 8
- 13
-IP
-IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "ogonek" 215 -10 mark 0
+AnchorPoint: "ogonek" 215 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-175 0 m 1,0,1
+205 50 m 1,0,1
  255 0 l 1,2,3
- 148 -71 148 -71 148 -119 c 0,4,5
- 148 -150 148 -150 184 -150 c 0,6,7
- 223 -150 223 -150 259 -138 c 1,8,-1
- 259 -211 l 1,9,10
- 225 -230 225 -230 173 -230 c 0,11,12
- 58 -230 58 -230 58 -139 c 0,13,14
- 58 -73 58 -73 175 0 c 1,0,1
+ 148 -81 148 -81 148 -109 c 0,4,5
+ 148 -140 148 -140 184 -140 c 0,6,7
+ 223 -140 223 -140 259 -128 c 1,8,-1
+ 259 -201 l 1,9,10
+ 225 -220 225 -220 173 -220 c 0,11,12
+ 58 -220 58 -220 58 -129 c 0,13,14
+ 58 -71 58 -71 205 50 c 1,0,1
 EndSplineSet
-Validated: 3073
+Validated: 19457
 EndChar

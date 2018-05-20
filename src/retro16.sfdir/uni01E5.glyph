@@ -2,150 +2,18 @@ StartChar: uni01E5
 Encoding: 485 485 608
 Width: 560
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -220 80<121 363.949> -110 80<282 374 490 582> 0 80<188.051 412> 450 80<188.051 412>
-VStem: 58 80<136.125 394.095> 412 80<-30 0 80 450>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 9
- 1
- 0
-CALL
-PUSHB_1
- 0
-MDRP[min,rnd,black]
-PUSHB_3
- 14
- 2
- 0
-CALL
-PUSHB_1
- 3
-MDRP[min,rnd,black]
-PUSHB_1
- 24
-MDAP[rnd]
-PUSHB_1
- 25
-MDRP[min,rnd,black]
-PUSHB_1
- 29
-MDAP[rnd]
-PUSHB_1
- 20
-SHP[rp1]
-PUSHB_1
- 30
-MDRP[min,rnd,black]
-PUSHB_1
- 18
-SHP[rp2]
-SVTCA[x-axis]
-PUSHB_1
- 33
-MDAP[rnd]
-PUSHB_1
- 11
-MDRP[rp0,rnd,white]
-PUSHB_1
- 6
-MDRP[min,rnd,black]
-PUSHB_1
- 6
-SRP0
-PUSHB_2
- 8
- 1
-CALL
-PUSHB_1
- 1
-SHP[rp2]
-PUSHB_1
- 16
-MDRP[min,rnd,black]
-PUSHB_3
- 16
- 8
- 10
-CALL
-PUSHB_4
- 64
- 16
- 20
- 9
-CALL
-PUSHB_3
- 8
- 16
- 10
-CALL
-PUSHB_4
- 64
- 8
- 29
- 9
-CALL
-PUSHB_2
- 34
- 1
-CALL
-PUSHB_2
- 6
- 11
-SRP1
-SRP2
-PUSHB_2
- 24
- 25
-IP
-IP
-PUSHB_1
- 8
-SRP1
-PUSHB_1
- 28
-IP
-PUSHB_1
- 16
-SRP2
-PUSHB_1
- 21
-IP
-SVTCA[y-axis]
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: -220 80<121 357.378> -110 80<282 582> 0 80<191.352 407> 450 80<191.352 407>
+VStem: 58 85<136.125 393.875> 407 85<-90.6445 0 80 450>
 LayerCount: 2
 Fore
 SplineSet
-255 80 m 2,0,-1
- 412 80 l 1,1,-1
- 412 450 l 1,2,-1
- 255 450 l 2,3,4
- 138 450 138 450 138 278 c 2,5,-1
- 138 242 l 2,6,7
- 138 80 138 80 255 80 c 2,0,-1
-412 0 m 1,8,-1
- 255 0 l 2,9,10
- 58 0 58 0 58 242 c 2,11,-1
- 58 278 l 2,12,13
- 58 530 58 530 255 530 c 2,14,-1
- 492 530 l 1,15,-1
- 492 19 l 2,16,17
- 492 -6 492 -6 490 -30 c 1,18,-1
- 582 -30 l 1,19,-1
- 582 -110 l 1,20,-1
- 470 -110 l 1,21,22
- 424 -220 424 -220 280 -220 c 2,23,-1
- 121 -220 l 1,24,-1
- 121 -140 l 1,25,-1
- 280 -140 l 2,26,27
- 341 -140 341 -140 374 -110 c 1,28,-1
- 282 -110 l 5,29,-1
- 282 -30 l 5,30,-1
- 410 -30 l 1,31,32
- 412 -16 412 -16 412 0 c 1,8,-1
+282 -30 m 1
+ 582 -30 l 1
+ 582 -110 l 1
+ 282 -110 l 1
+ 282 -30 l 1
 EndSplineSet
-Validated: 3073
+Refer: 18 103 N 1 0 0 1 0 0 2
 EndChar

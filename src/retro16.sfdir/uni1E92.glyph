@@ -2,11 +2,12 @@ StartChar: uni1E92
 Encoding: 7826 7826 519
 Width: 640
 VWidth: 0
-HStem: -240 160<252 412> 0 80<153 572> 636 80<68 487>
-VStem: 68 85<80 178> 252 160<-240 -80> 487 85<594 636>
+HStem: -240 160<240 400> 0 80<153 572> 636 80<68 487>
+VStem: 68 85<80 178> 240 160<-240 -80> 487 85<594 636>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 477 803 N 1 0 0 1 172 0 2
+Refer: 477 803 N 1 0 0 1 160 0 2
 Refer: 57 90 N 1 0 0 1 0 0 3
-Validated: 32769
+Validated: 98305
 EndChar

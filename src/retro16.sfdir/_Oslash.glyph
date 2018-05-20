@@ -2,119 +2,10 @@ StartChar: Oslash
 Encoding: 216 216 595
 Width: 640
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -5 81<230.614 408.509> 642 80<231.491 410.977>
-VStem: 58 80<188.387 528.735> 502 80<189.265 528.613>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_3
- 3
- 0
- 0
-CALL
-PUSHB_1
- 6
-SHP[rp1]
-PUSHB_1
- 26
-MDRP[min,rnd,black]
-PUSHB_3
- 13
- 3
- 0
-CALL
-PUSHB_1
- 16
-SHP[rp1]
-PUSHB_1
- 30
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 36
-MDAP[rnd]
-PUSHB_1
- 10
-MDRP[rp0,rnd,white]
-PUSHB_1
- 7
-SHP[rp2]
-PUSHB_1
- 33
-MDRP[min,rnd,black]
-PUSHB_1
- 33
-SRP0
-PUSHB_2
- 20
- 1
-CALL
-PUSHB_1
- 1
-MDRP[min,rnd,black]
-PUSHB_1
- 17
-SHP[rp2]
-PUSHB_2
- 37
- 1
-CALL
-PUSHB_2
- 33
- 10
-SRP1
-SRP2
-PUSHB_1
- 8
-IP
-PUSHB_1
- 20
-SRP1
-PUSHB_6
- 6
- 13
- 16
- 3
- 24
- 28
-DEPTH
-SLOOP
-IP
-PUSHB_1
- 1
-SRP2
-PUSHB_1
- 18
-IP
-SVTCA[y-axis]
-PUSHB_2
- 26
- 3
-SRP1
-SRP2
-PUSHB_1
- 5
-IP
-PUSHB_1
- 30
-SRP1
-PUSHB_4
- 8
- 18
- 23
- 35
-DEPTH
-SLOOP
-IP
-PUSHB_1
- 13
-SRP2
-PUSHB_1
- 15
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
+HStem: -7 80<236.058 403.942> 643 80<236.058 403.942> 703 20G<476.219 582>
+VStem: 58 85<187.126 529.305> 497 85<187.557 529.305>
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
 AnchorPoint: "ogonek" 378 10 basechar 0
@@ -125,33 +16,11 @@ AnchorPoint: "macron-below" 320 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-582 379 m 2,0,-1
- 582 338 l 2,1,2
- 582 -5 582 -5 320 -5 c 0,3,4
- 233 -5 233 -5 175 33 c 1,5,-1
- 152 -5 l 1,6,-1
- 58 -5 l 1,7,-1
- 115 92 l 1,8,9
- 58 177 58 177 58 338 c 6,10,-1
- 58 379 l 6,11,12
- 58 722 58 722 320 722 c 0,13,14
- 407 722 407 722 465 684 c 1,15,-1
- 488 722 l 1,16,-1
- 582 722 l 1,17,-1
- 525 625 l 1,18,19
- 582 540 582 540 582 379 c 2,0,-1
-502 339 m 2,20,-1
- 502 379 l 2,21,22
- 502 480 502 480 475 542 c 1,23,-1
- 218 106 l 1,24,25
- 259 76 259 76 320 76 c 0,26,27
- 502 76 502 76 502 339 c 2,20,-1
-423 612 m 1,28,29
- 382 642 382 642 320 642 c 0,30,31
- 138 642 138 642 138 379 c 2,32,-1
- 138 338 l 2,33,34
- 138 237 138 237 165 176 c 1,35,-1
- 423 612 l 1,28,29
+488 723 m 1
+ 582 723 l 1
+ 152 -7 l 1
+ 58 -7 l 1
+ 488 723 l 1
 EndSplineSet
-Validated: 3073
+Refer: 42 79 N 1 0 0 1 0 0 2
 EndChar
