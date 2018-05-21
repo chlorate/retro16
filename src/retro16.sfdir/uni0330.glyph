@@ -2,6 +2,7 @@ StartChar: uni0330
 Encoding: 816 816 550
 Width: 560
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -291 80<331.084 398.601> -150 80<161.399 228.916> -100 20G<417 505>
 VStem: 55 88<-281 -165.249> 417 88<-195.751 -80>
@@ -9,5 +10,5 @@ AnchorPoint: "bottom" 280 0 mark 0
 LayerCount: 2
 Fore
 Refer: 397 771 N 1 0 0 1 0 -850 2
-Validated: 32769
+Validated: 98305
 EndChar

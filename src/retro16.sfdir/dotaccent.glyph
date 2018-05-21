@@ -3,10 +3,10 @@ Encoding: 729 729 328
 Width: 320
 VWidth: 1280
 Flags: W
-HStem: 672 160<80 240>
-VStem: 80 160<672 832>
+HStem: 610 160<80 240>
+VStem: 80 160<610 770>
 LayerCount: 2
 Fore
 Refer: 401 775 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 98305
 EndChar

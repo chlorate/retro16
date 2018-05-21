@@ -2,6 +2,7 @@ StartChar: colon
 Encoding: 58 58 53
 Width: 320
 VWidth: 1280
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 117 160<80 240> 439 160<80 240>
 VStem: 80 160<117 277 439 599>
@@ -9,5 +10,5 @@ LayerCount: 2
 Fore
 Refer: 52 46 N 1 0 0 1 0 117 2
 Refer: 52 46 N 1 0 0 1 0 439 2
-Validated: 32769
+Validated: 98305
 EndChar

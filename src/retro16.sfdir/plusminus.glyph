@@ -2,6 +2,7 @@ StartChar: plusminus
 Encoding: 177 177 188
 Width: 560
 VWidth: 1280
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 80 80<68 492> 391 80<68 238 322 492>
 VStem: 238 84<219 391 471 643>
@@ -9,5 +10,5 @@ LayerCount: 2
 Fore
 Refer: 59 45 N 1 0 0 1 0 -249 2
 Refer: 76 43 N 1 0 0 1 0 62 2
-Validated: 32769
+Validated: 98305
 EndChar

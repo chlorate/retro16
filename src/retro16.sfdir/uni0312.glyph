@@ -3,11 +3,11 @@ Encoding: 786 786 594
 Width: 320
 VWidth: 0
 Flags: HW
-HStem: 489 141<160 240> 750 20G<148.571 240>
-VStem: 80 160<489 630>
-AnchorPoint: "top" 160 409 mark 0
+HStem: 450 160<160 240> 750 20G<150 240>
+VStem: 80 160<450 610>
+AnchorPoint: "top" 160 370 mark 0
 LayerCount: 2
 Fore
 Refer: 313 8216 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 98305
 EndChar
