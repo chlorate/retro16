@@ -4,14 +4,16 @@ Width: 640
 VWidth: 0
 HStem: 0 21G<68 153 487 572> 236 80<153 487> 641 80<209.273 430.727> 796 80<241.729 398.271> 966 20G<120 205 435 520>
 VStem: 68 85<0 236 316 579.812> 120 85<911.967 986> 435 85<911.967 986> 487 85<0 236 316 579.812>
+AnchorPoint: "macron-below" 320 0 basechar 0
+AnchorPoint: "bottom" 320 0 basechar 0
 AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "top-right" 572 716 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "ogonek" 532 0 basechar 0
-AnchorPoint: "top" 320 976 basechar 0
+AnchorPoint: "top" 320 986 basechar 0
 LayerCount: 2
 Fore
 Refer: 402 774 N 1 0 0 1 40 216 2
 Refer: 28 65 N 1 0 0 1 0 0 3
-Validated: 1081345
+Validated: 32769
 EndChar

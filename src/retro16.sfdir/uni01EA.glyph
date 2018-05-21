@@ -5,11 +5,13 @@ VWidth: 0
 UnlinkRmOvrlpSave: 1
 HStem: -210 80<312.049 420.904> -7 80<236.058 403.942> 643 80<236.058 403.942>
 VStem: 58 85<187.126 529.305> 221 90<-127.924 -64.215> 497 85<187.557 529.305>
-AnchorPoint: "middle-right" 572 358 basechar 0
 AnchorPoint: "cedilla" 320 0 basechar 0
 AnchorPoint: "top" 320 716 basechar 0
 AnchorPoint: "ogonek" 378 10 basechar 0
 AnchorPoint: "top-right" 572 716 basechar 0
+AnchorPoint: "middle-right" 572 358 basechar 0
+AnchorPoint: "bottom" 320 0 basechar 0
+AnchorPoint: "macron-below" 320 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 398 808 N 1 0 0 1 163 10 2

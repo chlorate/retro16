@@ -5,14 +5,16 @@ VWidth: 0
 Flags: HW
 HStem: 0 80<173.875 406> 236 80<173.875 406> 450 80<148 364.59> 600 66<235.173 324.827> 770 70<235.173 324.827>
 VStem: 58 86<107.212 208.788> 160 68<673.538 763.192> 332 68<673.538 763.192> 406 86<80 236 316 404.557>
-AnchorPoint: "middle-right" 492 265 basechar 0
-AnchorPoint: "top" 280 830 basechar 0
+AnchorPoint: "top" 280 832 basechar 0
 AnchorPoint: "ogonek" 452 0 basechar 0
-AnchorPoint: "cedilla" 275 0 basechar 0
+AnchorPoint: "cedilla" 280 0 basechar 0
 AnchorPoint: "top-right" 492 530 basechar 0
+AnchorPoint: "middle-right" 492 265 basechar 0
+AnchorPoint: "bottom" 280 0 basechar 0
+AnchorPoint: "macron-below" 280 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 399 778 N 1 0 0 1 80 60 2
 Refer: 15 97 N 1 0 0 1 0 0 3
-Validated: 1081345
+Validated: 32769
 EndChar
