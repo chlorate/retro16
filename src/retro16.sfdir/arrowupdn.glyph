@@ -1,0 +1,12 @@
+StartChar: arrowupdn
+Encoding: 8597 8597 629
+Width: 640
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+VStem: 278 84<125 564 152 591>
+LayerCount: 2
+Fore
+Refer: 627 8595 N 1 0 0 1 0 -45 2
+Refer: 626 8593 N 1 0 0 1 0 45 2
+EndChar
