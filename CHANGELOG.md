@@ -10,6 +10,7 @@ Changelog
 * Slightly thicken vertical lines on all glyphs.
 * Various small tweaks and fixes.
 * `+-`: fix vertical centring at various sizes.
+* `'"‘’“”`: taller.
 * `@`: taller, more rounded.
 * `&`: redrawn.
 

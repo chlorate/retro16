@@ -1,7 +1,7 @@
 # Percent, per thousand: fix inconsistent circle heights
 percent t 9,10,12,15 y -1 @ 12,13,17-19,22-25,28-31,34-42,45-53       # Push top circle bottom down
-percent t 0,3,5-6 y -1 @ 41,42,47,48,51,52                            # Push bottom circle top down
-perthousand t 12,15,17-18 y -1 @ 12,13,17-19,22-25,28-31,34-42,45-53  # Push top circle bottom down
+percent t 0,3,5,6 y -1 @ 41,42,47,48,51,52                            # Push bottom circle top down
+perthousand t 12,15,17,18 y -1 @ 12,13,17-19,22-25,28-31,34-42,45-53  # Push top circle bottom down
 perthousand t 1,2,4,7,21,22,24,27 y -1 @ 41,42,47,48,51,52            # Push bottom circle tops down
 
 # Plus: align with minus
