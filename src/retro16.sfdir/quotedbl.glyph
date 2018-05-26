@@ -2,12 +2,12 @@ StartChar: quotedbl
 Encoding: 34 34 72
 Width: 400
 VWidth: 1280
-Flags: HWO
+Flags: HW
 HStem: 450 320<80 160 240 320>
 VStem: 68 104<578.853 770> 80 80<450 641.147> 228 104<578.853 770> 240 80<450 641.147>
 LayerCount: 2
 Fore
 Refer: 77 39 N 1 0 0 1 160 0 2
 Refer: 77 39 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar

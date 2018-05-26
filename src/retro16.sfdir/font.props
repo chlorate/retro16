@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1526925201
+ModificationTime: 1527361130
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -43,10 +43,16 @@ OS2CapHeight: 716
 OS2XHeight: 530
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
-Lookup: 258 0 0 "kerning" { "upper" [153,15,6] "lower" [153,15,6] "symbols" [153,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "kerning" { "upper" [153,15,6] "lower" [153,15,6] "symbols" [153,15,6] "subsuper" [153,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "mark" { "marks"  } []
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 3 3 "subsuper"
+ 79 uni00B2 uni00B3 uni00B9 uni2070 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079
+ 79 uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089
+ 79 uni00B2 uni00B3 uni00B9 uni2070 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079
+ 79 uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089
+ 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} -40 {}
 KernClass2: 6 8 "symbols"
  5 space
  5 slash
@@ -853,10 +859,53 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 10
+WinInfo: 416 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
+1042 406 m 25
+ 1042 333 l 1049
+1035 337 m 25
+ 1042 329 l 25
+ 1050 337 l 1049
+1034 400 m 25
+ 1042 409 l 25
+ 1049 400 l 1049
+-1024 329 m 0
+ 1132 329 l 1024
+  Named: "H bar"
+-1024 409 m 0
+ 1132 409 l 1024
+  Named: "H bar"
+265 1344 m 0
+ 265 -704 l 1024
+  Named: "fraction slash"
+628 1344 m 0
+ 628 -704 l 1024
+  Named: "fraction num right"
+412 1344 m 0
+ 412 -704 l 1024
+  Named: "fraction num left"
+-44 -78 m 25
+ -44 -139 l 1049
+-52 -136 m 25
+ -45 -143 l 25
+ -38 -135 l 1049
+-51 -82 m 25
+ -43 -74 l 25
+ -38 -81 l 1049
+-1024 -73 m 0
+ 2048 -73 l 1024
+  Named: "subscript bottom"
+-1024 -143 m 0
+ 2048 -143 l 1024
+  Named: "subscript bottom"
+-1024 684 m 0
+ 2048 684 l 1024
+  Named: "superscript top middle"
+-1024 850 m 0
+ 2048 850 l 1024
+  Named: "superscript top"
 -78 -220 m 25
  611 -220 l 1049
 -99 439 m 25
@@ -877,12 +926,6 @@ Grid
  -43 506 -38 500 -38 495 c 19
  -38 482 -49 484 -49 492 c 1
  -49 496 -43 496 -38 492 c 1033
--135 368 m 25
- -106 368 l 1049
--114 375 m 25
- -114 360 l 1049
--125 375 m 25
- -125 360 l 1049
 -139 698 m 25
  -96 698 l 1049
 -104 688 m 17
@@ -902,14 +945,6 @@ Grid
  -29 456 l 25
  -22 450 l 25
  -16 456 l 1049
--109 399 m 25
- -102 405 l 25
- -98 400 l 25
- -102 405 l 25
- -102 330 l 25
- -109 336 l 25
- -102 330 l 25
- -98 335 l 1049
 -78 464 m 25
  -71 470 l 25
  -66 465 l 25
@@ -918,10 +953,6 @@ Grid
  -79 400 l 25
  -71 392 l 25
  -64 400 l 1049
--110 409 m 25
- 740 409 l 1049
--110 329 m 25
- 740 329 l 1049
 -150 770 m 1
  790 770 l 1025
 646 450 m 25
