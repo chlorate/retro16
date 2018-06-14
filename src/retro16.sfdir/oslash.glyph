@@ -4,7 +4,7 @@ Width: 560
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -5 21G<58 164.963> -5 81<197.744 362.256> 455 80<197.744 362.256> 515 20G<395.037 502>
+HStem: -5 81<197.744 362.256> 455 80<197.744 362.256>
 VStem: 58 85<133.929 396.661> 417 85<133.929 396.661>
 AnchorPoint: "top" 280 530 basechar 0
 AnchorPoint: "cedilla" 280 0 basechar 0
@@ -16,11 +16,11 @@ AnchorPoint: "macron-below" 280 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-408 535 m 1
- 502 535 l 1
- 152 -5 l 1
- 58 -5 l 1
- 408 535 l 1
+432 575 m 5
+ 502 535 l 5
+ 128 -47 l 5
+ 58 -7 l 5
+ 432 575 l 5
 EndSplineSet
 Refer: 1 111 N 1 0 0 1 0 0 2
 EndChar
