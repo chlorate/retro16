@@ -1,19 +1,19 @@
 StartChar: lslash
 Encoding: 322 322 602
-Width: 240
+Width: 400
 VWidth: 1280
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 0 21G<78 162> 515 20G<233.6 262> 750 20G<78 162>
-VStem: -22 284 78 84<0 770>
+HStem: 0 21G<158 242> 515 20G<305.6 332> 750 20G<158 242>
+VStem: 68 264 158 84<0 770>
 LayerCount: 2
 Fore
 SplineSet
-262 535 m 25
- 262 435 l 25
- -22 235 l 25
- -22 335 l 29
- 262 535 l 25
+332 535 m 25
+ 332 435 l 25
+ 68 235 l 25
+ 68 335 l 25
+ 332 535 l 25
 EndSplineSet
-Refer: 5 108 N 1 0 0 1 0 0 2
+Refer: 5 108 N 1 0 0 1 80 0 2
 EndChar

@@ -1,14 +1,14 @@
 StartChar: idieresis
 Encoding: 239 239 147
-Width: 240
+Width: 400
 VWidth: 0
 Flags: HW
-HStem: 0 21G<78 162> 510 20G<78 162> 610 81<-12 68 172 252>
-VStem: -12 80<610 691> 78 84<0 530> 172 80<610 691>
+HStem: 0 21G<158 242> 510 20G<158 242> 610 81<68 148 252 332>
+VStem: 68 80<610 691> 158 84<0 530> 252 80<610 691>
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
-Refer: 410 776 N 1 0 0 1 -80 -79 2
-Refer: 149 305 N 1 0 0 1 0 0 3
+Refer: 149 305 N 1 0 0 1 80 0 2
+Refer: 410 776 N 1 0 0 1 0 -79 2
 Validated: 32769
 EndChar

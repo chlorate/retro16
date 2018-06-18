@@ -1,10 +1,9 @@
 StartChar: hungarumlaut
 Encoding: 733 733 357
-Width: 640
+Width: 560
 VWidth: 0
 Flags: HW
 HStem: 530 240
-VStem: 73 264 303 264
 LayerCount: 2
 Fore
 Refer: 400 779 N 1 0 0 1 0 0 2

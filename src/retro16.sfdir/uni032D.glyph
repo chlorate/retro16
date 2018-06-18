@@ -1,12 +1,12 @@
 StartChar: uni032D
 Encoding: 813 813 557
-Width: 540
+Width: 560
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -320 240
-AnchorPoint: "bottom" 270 0 mark 0
+HStem: -326 246
+AnchorPoint: "bottom" 280 0 mark 0
 LayerCount: 2
 Fore
-Refer: 325 710 N 1 0 0 1 0 -850 2
+Refer: 325 710 N 1 0 0 1 -10 -850 2
 EndChar

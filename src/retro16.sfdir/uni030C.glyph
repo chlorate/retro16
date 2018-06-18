@@ -1,9 +1,9 @@
 StartChar: uni030C
 Encoding: 780 780 403
-Width: 540
+Width: 560
 VWidth: 1280
 Flags: W
-HStem: 530 240
+HStem: 524 245
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -31,23 +31,25 @@ PUSHB_2
  5
 SRP1
 SRP2
-PUSHB_1
+PUSHB_2
  2
+ 4
+IP
 IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "top" 270 450 mark 0
+AnchorPoint: "top" 280 450 mark 0
 LayerCount: 2
 Fore
 SplineSet
-64 720 m 1,0,-1
- 119 770 l 1,1,-1
- 270 630 l 1,2,-1
- 421 770 l 1,3,-1
- 476 720 l 1,4,-1
- 270 530 l 1,5,-1
- 64 720 l 1,0,-1
+68 719 m 1,0,-1
+ 123 769 l 1,1,-1
+ 280 624 l 1,2,-1
+ 437 770 l 1,3,-1
+ 492 720 l 1,4,-1
+ 280 524 l 1,5,-1
+ 68 719 l 1,0,-1
 EndSplineSet
-Validated: 19457
+Validated: 3073
 EndChar

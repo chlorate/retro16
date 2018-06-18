@@ -1,10 +1,10 @@
 StartChar: uni0237
 Encoding: 567 567 150
-Width: 400
+Width: 480
 VWidth: 0
 Flags: W
-HStem: -220 80<0 189.668> 510 20G<240 325>
-VStem: 240 85<-83.1812 530>
+HStem: -220 80<68 276.668> 510 20G<327 412>
+VStem: 327 85<-83.1812 530>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -28,6 +28,17 @@ MDRP[rp0,rnd,white]
 PUSHB_1
  3
 MDRP[min,rnd,black]
+PUSHB_3
+ 0
+ 3
+ 10
+CALL
+PUSHB_4
+ 64
+ 0
+ 7
+ 9
+CALL
 PUSHB_2
  11
  1
@@ -36,25 +47,25 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "bottom" 163 -220 basechar 0
-AnchorPoint: "macron-below" 163 -220 basechar 0
-AnchorPoint: "middle-right" 325 265 basechar 0
-AnchorPoint: "top-right" 325 530 basechar 0
-AnchorPoint: "ogonek" 163 -220 basechar 0
-AnchorPoint: "cedilla" 163 -220 basechar 0
-AnchorPoint: "top" 282 530 basechar 0
+AnchorPoint: "bottom" 250 -220 basechar 0
+AnchorPoint: "macron-below" 250 -220 basechar 0
+AnchorPoint: "middle-right" 412 265 basechar 0
+AnchorPoint: "top-right" 412 530 basechar 0
+AnchorPoint: "ogonek" 250 -220 basechar 0
+AnchorPoint: "cedilla" 250 -220 basechar 0
+AnchorPoint: "top" 369 530 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-240 30 m 2,0,-1
- 240 530 l 1,1,-1
- 325 530 l 1,2,-1
- 325 30 l 2,3,4
- 325 -220 325 -220 120 -220 c 2,5,-1
- 0 -220 l 1,6,-1
- 0 -140 l 1,7,-1
- 120 -140 l 2,8,9
- 240 -140 240 -140 240 30 c 2,0,-1
+327 30 m 2,0,-1
+ 327 530 l 1,1,-1
+ 412 530 l 1,2,-1
+ 412 30 l 2,3,4
+ 412 -220 412 -220 207 -220 c 2,5,-1
+ 68 -220 l 1,6,-1
+ 68 -140 l 1,7,-1
+ 207 -140 l 2,8,9
+ 327 -140 327 -140 327 30 c 2,0,-1
 EndSplineSet
-Validated: 19457
+Validated: 3073
 EndChar

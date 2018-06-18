@@ -1,11 +1,11 @@
 StartChar: uni0189
 Encoding: 393 393 586
-Width: 640
+Width: 720
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 0 80<153 425.806> 329 80<-12 308> 636 80<153 324.695>
-VStem: 68 85<80 636> 497 85<158.567 436.265>
+HStem: 0 80<233 505.806> 329 80<68 388> 636 80<233 404.695>
+VStem: 148 85<80 636> 577 85<158.567 436.265>
 LayerCount: 2
 Fore
 Refer: 413 272 N 1 0 0 1 0 0 2

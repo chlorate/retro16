@@ -2,10 +2,10 @@ StartChar: uni1E91
 Encoding: 7825 7825 462
 Width: 560
 VWidth: 0
-HStem: 0 80<153 492> 450 80<68 407> 610 240
+HStem: 0 80<153 492> 450 80<68 407> 604 246
 LayerCount: 2
 Fore
-Refer: 404 770 N 1 0 0 1 10 80 2
+Refer: 404 770 N 1 0 0 1 0 80 2
 Refer: 26 122 N 1 0 0 1 0 0 3
 Validated: 32769
 EndChar

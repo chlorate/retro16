@@ -1,19 +1,19 @@
 StartChar: dcroat
 Encoding: 273 273 604
-Width: 560
+Width: 640
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 0 80<199.635 407> 450 80<199.635 407> 636 80<306 592> 750 20G<407 492>
+HStem: 0 80<199.635 407> 450 80<199.635 407> 636 80<247 572> 750 20G<407 492>
 VStem: 58 85<141.27 388.73> 407 85<80 450 530 770>
 LayerCount: 2
 Fore
 SplineSet
-306 716 m 1
- 592 716 l 1
- 592 636 l 1
- 306 636 l 1
- 306 716 l 1
+247 716 m 1
+ 572 716 l 1
+ 572 636 l 1
+ 247 636 l 1
+ 247 716 l 1
 EndSplineSet
 Refer: 12 100 N 1 0 0 1 0 0 2
 EndChar

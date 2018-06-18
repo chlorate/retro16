@@ -2,10 +2,10 @@ StartChar: uni1E12
 Encoding: 7698 7698 558
 Width: 640
 VWidth: 0
-HStem: -320 240 0 80<153 425.806> 636 80<153 324.695>
+HStem: -326 246 0 80<153 425.806> 636 80<153 324.695>
 VStem: 68 85<80 636> 497 85<158.567 436.265>
 LayerCount: 2
 Fore
-Refer: 557 813 N 1 0 0 1 50 0 2
+Refer: 557 813 N 1 0 0 1 40 0 2
 Refer: 32 68 N 1 0 0 1 0 0 3
 EndChar

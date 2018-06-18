@@ -1,10 +1,10 @@
 StartChar: f
 Encoding: 102 102 14
-Width: 480
+Width: 560
 VWidth: 0
 Flags: W
-HStem: 0 21G<150 234> 370 80<34 150 234 392> 690 80<280.875 446>
-VStem: 150 84<0 370 450 639.197>
+HStem: 0 21G<194 278> 370 80<68 194 278 436> 690 80<324.875 492>
+VStem: 194 84<0 370 450 639.197>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_3
@@ -76,33 +76,33 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "macron-below" 192 0 basechar 0
-AnchorPoint: "bottom" 192 0 basechar 0
-AnchorPoint: "middle-right" 392 265 basechar 0
-AnchorPoint: "cedilla" 192 0 basechar 0
-AnchorPoint: "ogonek" 192 0 basechar 0
-AnchorPoint: "top" 240 770 basechar 0
-AnchorPoint: "top-right" 446 770 basechar 0
+AnchorPoint: "macron-below" 236 0 basechar 0
+AnchorPoint: "bottom" 236 0 basechar 0
+AnchorPoint: "middle-right" 436 265 basechar 0
+AnchorPoint: "cedilla" 236 0 basechar 0
+AnchorPoint: "ogonek" 236 0 basechar 0
+AnchorPoint: "top" 284 770 basechar 0
+AnchorPoint: "top-right" 492 770 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-446 690 m 1,0,-1
- 354 690 l 2,1,2
- 234 690 234 690 234 538 c 2,3,-1
- 234 450 l 1,4,-1
- 392 450 l 1,5,-1
- 392 370 l 1,6,-1
- 234 370 l 1,7,-1
- 234 0 l 1,8,-1
- 150 0 l 1,9,-1
- 150 370 l 1,10,-1
- 34 370 l 1,11,-1
- 34 450 l 1,12,-1
- 150 450 l 1,13,-1
- 150 538 l 2,14,15
- 150 770 150 770 354 770 c 2,16,-1
- 446 770 l 1,17,-1
- 446 690 l 1,0,-1
+492 690 m 1,0,-1
+ 398 690 l 2,1,2
+ 278 690 278 690 278 538 c 2,3,-1
+ 278 450 l 1,4,-1
+ 436 450 l 1,5,-1
+ 436 370 l 1,6,-1
+ 278 370 l 1,7,-1
+ 278 0 l 1,8,-1
+ 194 0 l 1,9,-1
+ 194 370 l 1,10,-1
+ 68 370 l 1,11,-1
+ 68 450 l 1,12,-1
+ 194 450 l 1,13,-1
+ 194 538 l 2,14,15
+ 194 770 194 770 398 770 c 2,16,-1
+ 492 770 l 1,17,-1
+ 492 690 l 1,0,-1
 EndSplineSet
 Validated: 19457
 EndChar

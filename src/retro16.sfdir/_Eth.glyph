@@ -1,26 +1,26 @@
 StartChar: Eth
 Encoding: 208 208 190
-Width: 640
+Width: 720
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 0 80<153 425.806> 329 80<-12 308> 636 80<153 324.695>
-VStem: 68 85<80 636> 497 85<158.567 436.265>
-AnchorPoint: "middle-right" 572 358 basechar 0
-AnchorPoint: "top-right" 572 716 basechar 0
-AnchorPoint: "ogonek" 390 10 basechar 0
-AnchorPoint: "cedilla" 320 0 basechar 0
-AnchorPoint: "top" 320 716 basechar 0
-AnchorPoint: "bottom" 320 0 basechar 0
-AnchorPoint: "macron-below" 320 0 basechar 0
+HStem: 0 80<233 505.806> 329 80<68 388> 636 80<233 404.695>
+VStem: 148 85<80 636> 577 85<158.567 436.265>
+AnchorPoint: "middle-right" 652 358 basechar 0
+AnchorPoint: "top-right" 652 716 basechar 0
+AnchorPoint: "ogonek" 470 10 basechar 0
+AnchorPoint: "cedilla" 400 0 basechar 0
+AnchorPoint: "top" 400 716 basechar 0
+AnchorPoint: "bottom" 400 0 basechar 0
+AnchorPoint: "macron-below" 400 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--12 409 m 1
- 308 409 l 1
- 308 329 l 1
- -12 329 l 1
- -12 409 l 1
+68 409 m 1
+ 388 409 l 1
+ 388 329 l 1
+ 68 329 l 1
+ 68 409 l 1
 EndSplineSet
-Refer: 32 68 N 1 0 0 1 0 0 2
+Refer: 32 68 N 1 0 0 1 80 0 2
 EndChar
