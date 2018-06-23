@@ -37,5 +37,5 @@ SplineSet
  68 236 l 5,0,-1
 EndSplineSet
 Validated: 19457
-Substitution2: "simplesub-hyphen" minus
+Substitution2: "simplesub" minus
 EndChar

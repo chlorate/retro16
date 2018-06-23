@@ -1,0 +1,11 @@
+StartChar: colonlower
+Encoding: 65536 -1 674
+Width: 320
+VWidth: 0
+Flags: W
+HStem: 24 160<80 240> 346 160<80 240>
+VStem: 80 160<24 184 346 506>
+LayerCount: 2
+Fore
+Refer: 53 58 N 1 0 0 1 0 -93 2
+EndChar
