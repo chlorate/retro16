@@ -1,9 +1,9 @@
 StartChar: emdash
 Encoding: 8212 8212 318
-Width: 720
+Width: 1120
 VWidth: 1280
 Flags: W
-HStem: 329 80<68 652>
+HStem: 329 80<68 1052>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -32,8 +32,8 @@ Fore
 SplineSet
 68 329 m 1,0,-1
  68 409 l 1,1,-1
- 652 409 l 1,2,-1
- 652 329 l 1,3,-1
+ 1052 409 l 1,2,-1
+ 1052 329 l 1,3,-1
  68 329 l 1,0,-1
 EndSplineSet
 Validated: 19457
