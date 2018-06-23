@@ -2,8 +2,9 @@ StartChar: minus
 Encoding: 8722 8722 621
 Width: 560
 VWidth: 0
-Flags: H
-HStem: 422 80<68 492>
+UnlinkRmOvrlpSave: 1
+Flags: WO
+HStem: 329 80<68 492>
 LayerCount: 2
 Fore
 Refer: 59 45 N 1 0 0 1 0 93 3
