@@ -4,10 +4,10 @@ Width: 560
 VWidth: 1280
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 67 80<68 492> 399 80<68 238 322 492>
+HStem: -26 80<68 492> 399 80<68 238 322 492>
 VStem: 238 84<227 399 479 651>
 LayerCount: 2
 Fore
-Refer: 59 45 N 1 0 0 1 0 -262 2
+Refer: 59 45 N 1 0 0 1 0 -171 2
 Refer: 76 43 N 1 0 0 1 0 70 2
 EndChar
