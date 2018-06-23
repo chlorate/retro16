@@ -5,13 +5,13 @@ perthousand t 12,15,17,18 y -1 @ 12,13,17-19,22-25,28-31,34-42,45-53  # Push top
 perthousand t 1,2,4,7,21,22,24,27 y -1 @ 41,42,47,48,51,52            # Push bottom circle tops down
 
 # Plus: align with minus
-plus t - y 1 @ 33,42                     # Push glyph up
-plus t - y -1 @ 10,11,22,23              # Push glyph down
-plus t 1-10 y 1 @ 9,21                   # Push glyph up except bottom pixel
-plus t 1-10 y -1 @ 26,43,44,51           # Push glyph down except bottom pixel
-plus t 5,6 y 1 @ 6,14-16,27,34,35,46,52  # Push top pixel up
-plus t 5,6 y -1 @ 12,13,18-20,30,31      # Push top pixel down
-plus t 0,11 y -1 @ 8,38,45,49,50         # Push bottom pixel down
+plus t - y 1 @ 41,42                           # Push glyph up
+plus t - y -1 @ 22,23                          # Push glyph down
+plus t 1-10 y 1 @ 8,9,20,21,45                 # Push glyph up except bottom pixel
+plus t 1-10 y -1 @ 43,44                       # Push glyph down except bottom pixel
+plus t 5,6 y 1 @ 6,14-16,26,27,34,35,46,51,52  # Push top pixel up
+plus t 5,6 y -1 @ 12,13,18,19,30,31            # Push top pixel down
+plus t 0,11 y -1 @ 38,49,50                    # Push bottom pixel down
 
 # Plus-minus: fix inconsistent "+" height
 plusminus t 9,10 y 1 @ 6,20,21,26,27,45,46,51,52  # Push top pixel up
