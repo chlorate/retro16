@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1392773318
-ModificationTime: 1529798117
+ModificationTime: 1529800960
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -44,7 +44,7 @@ OS2XHeight: 530
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 Lookup: 5 0 0 "ctxsub" { "ctxsub-lower-before"  "ctxsub-lower-after"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "simplesub" { "simplesub"  } []
+Lookup: 1 0 0 "simplesub" { "simplesub-all"  } []
 Lookup: 258 0 0 "kerning" { "upper" [153,40,4] "lower" [153,15,4] "symbols" [153,15,4] "subsuper" [153,15,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "mark" { "marks"  } []
 MarkAttachClasses: 1
@@ -966,7 +966,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 390 26 10
+WinInfo: 26 26 10
 BeginPrivate: 0
 EndPrivate
 Grid

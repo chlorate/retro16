@@ -10,5 +10,5 @@ LayerCount: 2
 Fore
 Refer: 74 44 N 1 0 0 1 0 117 2
 Refer: 52 46 N 1 0 0 1 0 439 2
-Substitution2: "simplesub" semicolonlower
+Substitution2: "simplesub-all" semicolonlower
 EndChar
