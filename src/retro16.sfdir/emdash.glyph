@@ -3,7 +3,7 @@ Encoding: 8212 8212 318
 Width: 1120
 VWidth: 1280
 Flags: W
-HStem: 236 80<68 1052>
+HStem: 329 80<68 1052>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -30,11 +30,12 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-68 236 m 1,0,-1
- 68 316 l 1,1,-1
- 1052 316 l 1,2,-1
- 1052 236 l 1,3,-1
- 68 236 l 1,0,-1
+68 329 m 5,0,-1
+ 68 409 l 5,1,-1
+ 1052 409 l 5,2,-1
+ 1052 329 l 5,3,-1
+ 68 329 l 5,0,-1
 EndSplineSet
 Validated: 19457
+Substitution2: "simplesub" emdashlower
 EndChar
