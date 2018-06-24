@@ -8,11 +8,13 @@ Changelog
 * Many accented letters added.
 * Many kerning improvements.
 * Slightly thicken vertical lines on all glyphs.
-* Various small tweaks and fixes.
 * `+-`: fix vertical centring at various sizes.
+* `:;-–—`: better vertical alignment near lowercase letters.
 * `'"‘’“”`: taller.
 * `@`: taller, more rounded.
 * `&`: redrawn.
+* `—`: widen.
+* Various small tweaks and fixes.
 
 2.2.0 (2017-05-24)
 ------------------
